@@ -1,5 +1,5 @@
 # Corpusthon previo al NaNoGenMo
-TL;DR Vamos a dedicar un día para crear o adaptar recursos léxicos en español para generación de lenguaje.
+TL;DR Vamos a dedicar un día a crear o adaptar recursos léxicos en español para generación de lenguaje.
 
 ¡Lingüinis del mundo! Se acerca el NaNoGenMo y hemos pensado dedicar un día a darle un empujón a los recursos léxicos para generación de lenguaje disponibles en español. De esta forma daríamos un pistoletazo de salida ideal para luego dedicar el mes de noviembre al NaNoGenMo
 
