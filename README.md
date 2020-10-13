@@ -1,27 +1,24 @@
 # Corpusthon previo al NaNoGenMo
 TL;DR Vamos a dedicar un día a crear o adaptar recursos léxicos en español para generación de lenguaje.
 
-¡Lingüinis del mundo! Se acerca el NaNoGenMo y hemos pensado dedicar un día a darle un empujón a los recursos léxicos para generación de lenguaje disponibles en español. De esta forma daríamos un pistoletazo de salida ideal para luego dedicar el mes de noviembre al NaNoGenMo
+¡Lingüinis del mundo! Se acerca el NaNoGenMo y queremos darle el pistoletazo de salida ideal pasando un día mejorando los recursos léxicos para generación de lenguaje disponibles en español.
 
-## Primer problema: no sé lo que es el NaNoGenMo
-Puede que hayas oído hablar del NaNoWriMo: una iniciativa que se hace todos los años en noviembre y que consiste en escribir una novela en un mes. Tiene una serie de "reglas" más o menos laxas, que son más bien para inspirar y alentar la creatividad, como escribir todos los días, no borrar nada, etc. Bueno, pues el NaNoGenMo se creó a imagen y semejanza del NaNoWriMo con una pequeña variación: no hay que escribir literatura sino _código que escriba esa literatura_. El único requisito para participar es compartir tu código y el texto que genere. Se puede usar el lenguaje de programación que se quiera.
+## Brevemente: ¿qué es el NaNoGenMo?
+El NaNoGenMo es una iniciativa para pasarse noviembre escribiendo _código que genere literatura_. Es una iniciativa a imagen del NaNoWriMo, que dedica noviembre a escribir literatura de la forma tradicional.
 
-## ¿Cómo participo en el Corpusthon?
-Desde Lingwars crearemos un grupo de Telegram / Discord según lo manejable que sea la cantidad de gente que se apunte. Para participar:
-1) Contacta con Lingwars por correo electrónico y te invitamos al grupo
-2)
-El día del Corpusthon, trabaja en la expansión de algún repositorio con recursos léxicos en español y haz una PR.
-o
-Elige un JSON o función de los de este fichero y, el día del Corpusthon, haz una PR a este repositorio expandiendo los recursos léxicos en español.
+## Vale, ¿y qué hay que hacer exactamente?
+Para poder escribir código que genere literatura se necesitan ciertos recursos, como listados de palabras y así. Nos mola mucho el repositorio corpora de Darius Kazemi (https://github.com/dariusk/corpora), que contiene listados de libros, comidas, etc, así que vamos a ir copiando su contenido a este repo adaptándolo y localizándolo al español, fichero a fichero, como ayuda a todos aquellos que quieran dedicar su NaNoGenMo a generar literatura en español.
 
-Después del Corpusthon recopilaremos en un listado todas las contribuciones a fin de visualizar cuánto se ha avanzado.
-
-## Ok: ¿cuándo es esto?
+## Ok: ¿y cuándo hacemos esto?
 El lunes 2 de noviembre, aprovechando que es fiesta en España, durante todo el día: conéctate el rato que puedas o llévate el Corpusthon hasta la sopa, ¡organízate como quieras!
 
-## Sugerencias de repositorios para mejorar
-El repositorio corpora de Darius Kazemi https://github.com/dariusk/corpora (o mejor lo copiamos en este repo y le dejamos el esqueleto para desarrollarlo en español?)
+## ¿Cómo participo en el Corpusthon?
+El día del Corpusthon, elige un fichero JSON del repo de Darius, tradúcelo, quita aquello que no tenga sentido en español, añade aquello que creas que falta, y súbelo al repo mediante pull request.
 
-## Evento compatible con un nivel 0 de conocimientos de programación
-Aunque no sepas programar, ¡puedes aportar! Hay que adaptar listas de vocabulario y la interfaz de Github permite editar texto plano más o menos igual que en Wikipedia. Además, habrá mentores que estarán encantados de ayudar a quien tenga dudas o problemas.
+Además nos estaremos coordinando en nuestro Discord, así que te invitamos a entrar. Allí podemos repartirnos tareas, socializar y aportar sugerencias.
+Puedes unirte desde este enlace: https://discord.gg/gWxrvdh
 
+Después del Corpusthon recopilaremos en un listado todas las contribuciones para visualizar cuánto se ha avanzado.
+
+## ¡Ay, pero yo no sé programar!
+Aunque no sepas programar, ¡puedes aportar! Los ficheros JSON tienen un formato muy sencillito e intuitivo, así que el trabajo real es el de adaptar listas de vocabulario. Además, la propia interfaz de Github permite editar texto plano más o menos igual que en Wikipedia. Y en nuestro Discord habrá mentores que estarán encantados de ayudar a quien tenga dudas o problemas. ¡Tú pásate a preguntar! No lo dudes y anímate a poner tu granito de arena.
