@@ -84,6 +84,8 @@ Podríamos traducirlo así:
 
 Fíjate que dejamos intactos los símbolos (llaves etc), las claves, y los valores no entrecomillados.
 
+Puedes también mirar [el fichero de dioses griegos](https://github.com/Lingwars/todosloscorpus/blob/main/data/mythology/greek_gods.json), que tradujimos para que sirviese de ejemplo inicial. 
+
 Para asegurarte de que no te equivocaste en nada, puedes visitar [la página de JSONLint](http://jsonlint.com) y pegar tu código en el gran campo de texto. Luego, dale a `Validate JSON`. Si debajo aparece la frase `Valid JSON` en verde, es que todo ha ido bien. De lo contrario, revisa llaves, comillas, comas, etc y vuelve a probar.
 
 ## 5. Subir los cambios
