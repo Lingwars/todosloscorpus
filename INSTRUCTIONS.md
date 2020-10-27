@@ -84,6 +84,8 @@ Podríamos traducirlo así:
 
 Fíjate que dejamos intactos los símbolos (llaves etc), las claves, y los valores no entrecomillados.
 
+Para asegurarte de que no te equivocaste en nada, puedes visitar [la página de JSONLint](http://jsonlint.com) y pegar tu código en el gran campo de texto. Luego, dale a `Validate JSON`. Si debajo aparece la frase `Valid JSON` en verde, es que todo ha ido bien. De lo contrario, revisa llaves, comillas, comas, etc y vuelve a probar.
+
 ## 5. Subir los cambios
 
 Si sabes git, comitea y empuja tus cambios a tu repo y haz una pull request.
