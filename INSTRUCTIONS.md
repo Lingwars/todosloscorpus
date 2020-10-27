@@ -88,7 +88,7 @@ Para asegurarte de que no te equivocaste en nada, puedes visitar [la página de 
 
 ## 5. Subir los cambios
 
-Si sabes git, comitea y empuja tus cambios a tu repo y haz una pull request.
+Si sabes git, comitea y empuja tus cambios a tu repo y haz una pull request. Hay una Github Action definida que le pasa el linter, por si te olvidaste de mirarlo tú.
 
 Si no sabes git y descargaste el fichero para editarlo en local, pide ayuda [en Discord](https://discord.gg/gWxrvdh) para que alguien lo suba al repositorio por ti.
 
