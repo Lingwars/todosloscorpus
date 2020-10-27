@@ -13,9 +13,7 @@ Para poder escribir código que genere literatura se necesitan ciertos recursos,
 El **domingo 1 de noviembre durante todo el día**: conéctate el rato que puedas o llévate el Día de Todos los Corpus hasta la sopa, ¡organízate como quieras!
 
 ## ¿Cómo participo?
-Elige un fichero JSON del repo de Darius, tradúcelo, quita aquello que no tenga sentido en español, añade aquello que creas que falta, y súbelo a este repo mediante pull request.
-
-Tienes instrucciones más detalladas en el [fichero de instrucciones](INSTRUCTIONS.md).
+Tienes instrucciones detalladas en el [fichero de instrucciones](INSTRUCTIONS.md).
 
 Además nos estaremos coordinando en [nuestro Discord](https://discord.gg/gWxrvdh), así que te invitamos a entrar. Allí podemos repartirnos tareas, socializar y aportar sugerencias. Puedes unirte desde [este enlace](https://discord.gg/gWxrvdh).
 
