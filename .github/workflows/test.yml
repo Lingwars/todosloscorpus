@@ -34,6 +34,7 @@ jobs:
         shell: bash
         run: |
           # Skip this file, it has valid duplicates:
-          rm data/words/verbs_with_conjugations.json
+          # rm data/words/verbs_with_conjugations.json
+          # (Uncomment if this file is ever added)
 
           jsonchecker data --values --quiet
