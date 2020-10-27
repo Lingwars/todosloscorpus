@@ -8,9 +8,9 @@ Puedes navegar por [el repositorio de darius](http://github.com/dariusk/corpora)
 
 Si sabes git, clona el repo de darius, clona este repo, copia el fichero en la misma ruta. Si es nuevo, colócalo donde tenga sentido.
 
-Si no sabes git, una vez estés viendo el fichero en [el repo de darius](http://github.com/dariusk/corpora), pulsa en el botón `Raw` encima y a la derecha del código. Una vez veas el código en pantalla sin más adorno, ve a `Archivo > Guardar` en tu navegador para descargar el fichero. A continuación consulta [Editar el fichero en local](3a-editar-el-fichero-en-local).
+Si no sabes git, una vez estés viendo el fichero en [el repo de darius](http://github.com/dariusk/corpora), pulsa en el botón `Raw` encima y a la derecha del código. Una vez veas el código en pantalla sin más adorno, ve a `Archivo > Guardar` en tu navegador para descargar el fichero. A continuación consulta [Editar el fichero en local](#3a-editar-el-fichero-en-local).
 
-También puedes pedirle a alguien en el Discord que te lo copie en este repo. Si es así, baja a [Editar en el navegador](#3b-editar-en-el-navegador).
+También puedes pedirle a alguien en [el Discord](https://discord.gg/gWxrvdh) que te lo copie en este repo. Si es así, baja a [Editar en el navegador](#3b-editar-en-el-navegador).
 
 ## 3a. Editar el fichero en local
 
@@ -58,7 +58,8 @@ Por ejemplo, este pedazo del listado de santos:
 Podríamos traducirlo así:
 
 ```
-[{
+[
+	{
 		"saint": "Abadiu de Antinoe",
 		"birth": "",
 		"death": "Siglo IV",
@@ -83,20 +84,14 @@ Podríamos traducirlo así:
 
 Fíjate que dejamos intactos los símbolos (llaves etc), las claves, y los valores no entrecomillados.
 
-## 5. Revisión
-
-Una vez termines, revisa tu trabajo una vez más. Ahora es momento de pasarle un revisor de formateo, como JSONLint.
-
-Puedes visitar [la página de JSONLint](http://jsonlint.com) y pegar tu código en el gran campo de texto. Luego, dale a `Validate JSON`. Si debajo aparece la frase `Valid JSON` en verde, es que todo ha ido bien. De lo contrario, revisa llaves, comillas, comas, etc y vuelve a probar. Además, es posible que tu código en el campo de texto fuese corregido, ajustando las tabulaciones y saltos de línea para hacerlo homogéneo. De ser así, copia ese código de vuelta: es la versión corregida la que entregarás.
-
-## 6. Subir los cambios
+## 5. Subir los cambios
 
 Si sabes git, comitea y empuja tus cambios a tu repo y haz una pull request.
 
-Si no sabes git y descargaste el fichero para editarlo en local, pide ayuda en Discord para que alguien lo suba al repositorio por ti.
+Si no sabes git y descargaste el fichero para editarlo en local, pide ayuda [en Discord](https://discord.gg/gWxrvdh) para que alguien lo suba al repositorio por ti.
 
 Si no sabes git y estabas editando el fichero en el navegador, una vez termines y repases bien, verás que al final de la página hay un pequeño formulario. Escribe un mensaje corto en inglés en el primer campo de texto (por ejemplo, "Translate list of rooms") y dale a `Propose changes`. No es necesario que cambies el nombre de la rama.
 
-## 7. Confirmar cambios
+## 6. Confirmar cambios
 
-¡Listo! Avisa por el Discord de que terminaste para que todos te felicitemos y agradezcamos tu trabajo. ¡Eres une hacha!
+¡Listo! Avisa por [el Discord](https://discord.gg/gWxrvdh) de que terminaste para que todos te felicitemos y agradezcamos tu trabajo. ¡Eres une hacha!

@@ -17,8 +17,7 @@ Elige un fichero JSON del repo de Darius, tradúcelo, quita aquello que no tenga
 
 Tienes instrucciones más detalladas en el [fichero de instrucciones](INSTRUCTIONS.md).
 
-Además nos estaremos coordinando en nuestro Discord, así que te invitamos a entrar. Allí podemos repartirnos tareas, socializar y aportar sugerencias.
-Puedes unirte desde [este enlace](https://discord.gg/gWxrvdh).
+Además nos estaremos coordinando en [nuestro Discord](https://discord.gg/gWxrvdh), así que te invitamos a entrar. Allí podemos repartirnos tareas, socializar y aportar sugerencias. Puedes unirte desde [este enlace](https://discord.gg/gWxrvdh).
 
 Después, recopilaremos en un listado todas las contribuciones para visualizar cuánto se ha avanzado.
 
