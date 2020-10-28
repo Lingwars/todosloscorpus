@@ -12,8 +12,6 @@ Permitir prototipado rápido y pruebas de conceptos. Como tal, los listados de v
 
 El formato ofrecido es JSON para que sea compatible con cualquier plataforma de desarrollo; de igual forma, el objetivo del repositorio es únicamente la colección de datos y no de ningún código auxiliar.
 
-Antes de enviar colaboraciones, por favor asegúrate de pasarle JSONLint para ser consistentes en el formateo.
-
 ## Licencia
 
 <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="http://i.creativecommons.org/p/zero/1.0/88x31.png"></a>
