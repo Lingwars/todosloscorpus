@@ -1,0 +1,165 @@
+{
+	"description": "Aperturas de ajedrez con nombres de regiones en menos de cuatro movimientos por bando",
+	"openings": [
+		{
+			"region": "Austria",
+			"name": "defensa austriaca",
+			"moves": ["d4", "d5", "c4", "c5"]
+		},
+		{
+			"region": "Brasil",
+			"name": "defensa brasileña",
+			"moves": ["e4", "e5", "Cf3", "De7"]
+		},
+		{
+			"region": "Cataluña",
+			"name": "apertura catalana",
+			"moves": ["d4", "Cf6", "c4", "e6", "g3"]
+		},
+		{
+			"region": "Chequia",
+			"name": "defensa checa",
+			"moves": ["e4", "d6", "d4", "Cf6", "Cc3", "c6"]
+		},
+		{
+			"region": "Dinamarca",
+			"name": "gambito danés",
+			"moves": ["e4", "e5", "d4", "exd4", "c3"]
+		},
+		{
+			"region": "Escandinavia",
+			"name": "defensa escandinava",
+			"moves": ["e4", "d5"]
+		},
+		{
+			"region": "Escocia",
+			"name": "apertura escocesa",
+			"moves": ["e4", "e5", "Cf3", "Cc6", "d4"]
+		},
+		{
+			"region": "España",
+			"name": "apertura española",
+			"moves": ["e4", "e5", "Cf3", "Cc6", "Ab5"]
+		},
+		{
+			"region": "Francia",
+			"name": "defensa francesa",
+			"moves": ["e4", "e6"]
+		},
+		{
+			"region": "Grecia",
+			"name": "defensa griega",
+			"moves": ["e4", "b6"]
+		},
+		{
+			"region": "Holanda",
+			"name": "defensa holandesa",
+			"moves": ["d4", "f5"]
+		},
+		{
+			"region": "Hungría",
+			"name": "apertura húngara",
+			"moves": ["g3"]
+		},
+		{
+			"region": "Hungría",
+			"name": "defensa húngara",
+			"moves": ["e4", "e5", "Cf3", "Cc6", "Ac4", "Ae7"]
+		},
+		{
+			"region": "India",
+			"name": "defensa india",
+			"moves": ["d4", "Cf6"]
+		},
+		{
+			"region": "Inglaterra",
+			"name": "apertura inglesa",
+			"moves": ["c4"]
+		},
+		{
+			"region": "Inglaterra",
+			"name": "defensa inglesa",
+			"moves": ["d4", "e6", "c4", "b6"]
+		},
+		{
+			"region": "Irlanda",
+			"name": "gambito irlandés",
+			"moves": ["e4", "e5", "Cf3", "Cc6", "Cxe5"]
+		},
+		{
+			"region": "Islandia",
+			"name": "gambito islandés",
+			"moves": ["e4", "d5", "exd5", "Cf6", "c4", "e6"]
+		},
+		{
+			"region": "Italia",
+			"name": "apertura italiana",
+			"moves": ["e4", "e5", "Cf3", "Cc6", "Ac4"]
+		},
+		{
+			"region": "México",
+			"name": "defensa mexicana",
+			"moves": ["d4", "Cf6", "c4", "Cc6"]
+		},
+		{
+			"region": "Noruega",
+			"name": "defensa noruega",
+			"moves": ["e4", "g6", "d4", "Cf6"]
+		},
+		{
+			"region": "Polonia",
+			"name": "apertura polaca",
+			"moves": ["b4"]
+		},
+		{
+			"region": "Polonia",
+			"name": "defensa polaca",
+			"moves": ["d4", "b5"]
+		},
+		{
+			"region": "Portugal",
+			"name": "apertura portuguesa",
+			"moves": ["e4", "e5", "Ab5"]
+		},
+		{
+			"region": "Pueblos eslavos",
+			"name": "defensa eslava",
+			"moves": ["d4", "d5", "c4", "c6"]
+		},
+		{
+			"region": "Región báltica",
+			"name": "apertura báltica",
+			"moves": ["Cc3"]
+		},
+		{
+			"region": "Región báltica",
+			"name": "defensa báltica",
+			"moves": ["d4", "d5", "c4", "Af5"]
+		},
+		{
+			"region": "Rumanía",
+			"name": "apertura rumana",
+			"moves": ["Cc3"]
+		},
+		{
+			"region": "Rusia",
+			"name": "defensa rusa",
+			"moves": ["e4", "e5", "Cf3", "Cf6"]
+		},
+		{
+			"region": "Sicilia",
+			"name": "defensa siciliana",
+			"moves": ["e4", "c5"]
+		},
+		{
+			"region": "Suiza",
+			"name": "gambito suizo",
+			"moves": ["f4", "f5", "e4"]
+		},
+		{
+			"region": "Yugoslavia",
+			"name": "defensa yugoslava",
+			"moves": ["e4", "d6", "d4", "Cf6", "Cc3", "g6"]
+		}
+	]
+}
