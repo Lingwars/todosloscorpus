@@ -2,7 +2,7 @@
 
 Este repo contiene listados de palabras en formato JSON para que sean usados libremente por creadores de bots o cualquier otra persona haciendo labores de NLP.
 
-Si estás buscando el [documento sobre la convocatoria del 1 de noviembre](1NOV.md), están en el fichero [1NOV](1NOV.md). Si lo que buscas son [instrucciones sobre cómo colaborar](INSTRUCTIONS.md), están en el fichero [INSTRUCTIONS](INSTRUCTIONS.md).
+Si estás buscando información sobre la convocatoria #DiaDeTodosLosCorpus, están en el fichero [1NOV](1NOV.md). Si lo que buscas son instrucciones sobre cómo colaborar, están en el fichero [INSTRUCTIONS](INSTRUCTIONS.md).
 
 Este repositorio está fuertemente inspirado en el [corpora de dariusk](http://github.com/dariusk/corpora), al que rendimos homenaje.
 
