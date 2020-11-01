@@ -1,0 +1,274 @@
+{
+    "description": "Signos zodiacales occidentales y orientales e información asociada.",
+    "source": "https://en.wikipedia.org/wiki/Astrological_sign",
+    "western_zodiac": {
+        "Aries": {
+            "longitude_start": "0",
+            "longitude_end": "30",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Aries.svg",
+            "unicode_symbol": "♈",
+            "gloss": "El Carnero",
+            "element": "Fuego",
+            "ruling_body_classic": "Marte",
+            "ruling_body_modern": "Marte",
+            "keywords": ["determinado", "idealista", "agresivo"]
+        },
+        "Tauro": {
+            "longitude_start": "30",
+            "longitude_end": "60",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Taurus.svg",
+            "unicode_symbol": "♉",
+            "gloss": "El Toro",
+            "element": "Tierra",
+            "ruling_body_classic": "Venus",
+            "ruling_body_modern": "Tierra",
+            "keywords": ["resolutivo", "sensual", "indulgente"]
+        },
+        "Géminis": {
+            "longitude_start": "60",
+            "longitude_end": "90",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Gemini.svg",
+            "unicode_symbol": "♊",
+            "gloss": "Los Gemelos",
+            "element": "Aire",
+            "ruling_body_classic": "Mercurio",
+            "ruling_body_modern": "Mercurio",
+            "keywords": ["juguetón", "curioso", "bifronte", "falso"]
+        },
+        "Cáncer": {
+            "longitude_start": "90",
+            "longitude_end": "120",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Cancer.svg",
+            "unicode_symbol": "♋",
+            "gloss": "El Cangrejo",
+            "element": "Agua",
+            "ruling_body_classic": "Luna",
+            "ruling_body_modern": "Luna",
+            "keywords": ["maternal", "esnob", "mezquino"]
+        },
+        "Leo": {
+            "longitude_start": "120",
+            "longitude_end": "150",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Leo.svg",
+            "unicode_symbol": "♌",
+            "gloss": "El León",
+            "element": "Fuego",
+            "ruling_body_classic": "Sol",
+            "ruling_body_modern": "Sol",
+            "keywords": ["fiero", "opulento", "narcisista"]
+        },
+        "Virgo": {
+            "longitude_start": "150",
+            "longitude_end": "180",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Virgo.svg",
+            "unicode_symbol": "♍",
+            "gloss": "La Doncella",
+            "element": "Tierra",
+            "ruling_body_classic": "Mercurio",
+            "ruling_body_modern": "Ceres",
+            "keywords": ["meticuloso", "servicial", "ingenuo"]
+        },
+        "Libra": {
+            "longitude_start": "180",
+            "longitude_end": "210",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Libra.svg",
+            "unicode_symbol": "♎",
+            "gloss": "La Balanza",
+            "element": "Aire",
+            "ruling_body_classic": "Venus",
+            "ruling_body_modern": "Venus",
+            "keywords": ["equilibrado", "charlatán", "indeciso"]
+        },
+        "Escorpio": {
+            "longitude_start": "210",
+            "longitude_end": "240",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Scorpio.svg",
+            "unicode_symbol": "♏",
+            "gloss": "El Escorpión",
+            "element": "Agua",
+            "ruling_body_classic": "Marte",
+            "ruling_body_modern": "Plutón",
+            "keywords": ["intenso", "magnético", "destructivo"]
+        },
+        "Sagitario": {
+            "longitude_start": "240",
+            "longitude_end": "270",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Sagittarius.svg",
+            "unicode_symbol": "♐",
+            "gloss": "El Arquero",
+            "element": "Fuego",
+            "ruling_body_classic": "Júpiter",
+            "ruling_body_modern": "Júpiter",
+            "keywords": ["ambicioso", "temerario", "grosero"]
+        },
+        "Capricornio": {
+            "longitude_start": "270",
+            "longitude_end": "300",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Capricorn.svg",
+            "unicode_symbol": "♑",
+            "gloss": "La Cabra Montesa Marina",
+            "element": "Tierra",
+            "ruling_body_classic": "Saturno",
+            "ruling_body_modern": "Saturno",
+            "keywords": ["responsable", "inadaptado", "inflexible"]
+        },
+        "Acuario": {
+            "longitude_start": "300",
+            "longitude_end": "330",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Aquarius.svg",
+            "unicode_symbol": "♒",
+            "gloss": "El Aguador",
+            "element": "Aire",
+            "ruling_body_classic": "Saturno",
+            "ruling_body_modern": "Urano",
+            "keywords": ["creativo", "estrafalario", "errático"]
+        },
+        "Piscis": {
+            "longitude_start": "330",
+            "longitude_end": "360",
+            "svg_symbol": "https://en.wikipedia.org/wiki/File:Pisces.svg",
+            "unicode_symbol": "♓",
+            "gloss": "El Pez",
+            "element": "Agua",
+            "ruling_body_classic": "Júpiter",
+            "ruling_body_modern": "Neptuno",
+            "keywords": ["artista", "sentimental", "dependiente"]
+        }
+    },
+    "eastern_zodiac": {
+        "Rata": {
+            "yin-yang": "Yang",
+            "direction": "Norte",
+            "season": "Pleno invierno",
+            "element": "Agua",
+            "trine": "1º",
+            "years": [
+                1900, 1912, 1924, 1936, 1948, 1960, 1972, 1984, 1996, 2008, 2020, 2032
+            ],
+            "unicode_symbol": "子"
+        },
+        "Buey": {
+            "yin-yang": "Yin",
+            "direction": "Norte",
+            "season": "Invierno tardío",
+            "element": "Tierra",
+            "trine": "2º",
+            "years": [
+                1901, 1913, 1925, 1937, 1949, 1961, 1973, 1985, 1997, 2009, 2021, 2033
+            ],
+            "unicode_symbol": "丑"
+        },
+        "Tigre": {
+            "yin-yang": "Yang",
+            "direction": "Este",
+            "season": "Primavera temprana",
+            "element": "Madera",
+            "trine": "3º",
+            "years": [
+                1902, 1914, 1926, 1938, 1950, 1962, 1974, 1986, 1998, 2010, 2022, 2034
+            ],
+            "unicode_symbol": "寅"
+        },
+        "Conejo": {
+            "yin-yang": "Yin",
+            "direction": "Este",
+            "season": "Plena primavera",
+            "element": "Madera",
+            "trine": "4º",
+            "years": [
+                1903, 1915, 1927, 1939, 1951, 1963, 1975, 1987, 1999, 2011, 2023, 2035
+            ],
+            "unicode_symbol": "卯"
+        },
+        "Dragón": {
+            "yin-yang": "Yang",
+            "direction": "Este",
+            "season": "Primavera tardía",
+            "element": "Tierra",
+            "trine": "1º",
+            "years": [
+                1904, 1916, 1928, 1940, 1952, 1964, 1976, 1988, 2000, 2012, 2024, 2036
+            ],
+            "unicode_symbol": "辰"
+        },
+        "Serpiente": {
+            "yin-yang": "Yin",
+            "direction": "Sur",
+            "season": "Verano temprano",
+            "element": "Fuego",
+            "trine": "2º",
+            "years": [
+                1905, 1917, 1929, 1941, 1953, 1965, 1977, 1989, 2001, 2013, 2025, 2037
+            ],
+            "unicode_symbol": "巳"
+        },
+        "Caballo": {
+            "yin-yang": "Yang",
+            "direction": "Sur",
+            "season": "Pleno verano",
+            "element": "Fuego",
+            "trine": "3º",
+            "years": [
+                1906, 1918, 1930, 1942, 1954, 1966, 1978, 1990, 2002, 2014, 2026, 2038
+            ],
+            "unicode_symbol": "午"
+        },
+        "Cabra": {
+            "yin-yang": "Yin",
+            "direction": "Sur",
+            "season": "Verano tardío",
+            "element": "Tierra",
+            "trine": "4º",
+            "years": [
+                1907, 1919, 1931, 1943, 1955, 1967, 1979, 1991, 2003, 2015, 2027, 2039
+            ],
+            "unicode_symbol": "未"
+        },
+        "Mono": {
+            "yin-yang": "Yang",
+            "direction": "Oeste",
+            "season": "Otoño temprano",
+            "element": "Metal",
+            "trine": "1º",
+            "years": [
+                1908, 1920, 1932, 1944, 1956, 1968, 1980, 1992, 2004, 2016, 2028, 2040
+            ],
+            "unicode_symbol": "申"
+        },
+        "Gallo": {
+            "yin-yang": "Yin",
+            "direction": "Oeste",
+            "season": "Pleno otoño",
+            "element": "Metal",
+            "trine": "2º",
+            "years": [
+                1909, 1921, 1933, 1945, 1957, 1969, 1981, 1993, 2005, 2017, 2029, 2041
+            ],
+            "unicode_symbol": "酉"
+        },
+        "Perro": {
+            "yin-yang": "Yang",
+            "direction": "Oeste",
+            "season": "Otoño tardío",
+            "element": "Tierra",
+            "trine": "3º",
+            "years": [
+                1910, 1922, 1934, 1946, 1958, 1970, 1982, 1994, 2006, 2018, 2030, 2042
+            ],
+            "unicode_symbol": "戌"
+        },
+        "Cerdo": {
+            "yin-yang": "Yin",
+            "direction": "Norte",
+            "season": "Invierno temprano",
+            "element": "Agua",
+            "trine": "4º",
+            "years": [
+                1911, 1923, 1935, 1947, 1959, 1971, 1983, 1995, 2007, 2019, 2031, 2043
+            ],
+            "unicode_symbol": "亥"
+        }
+        
+    }
+    
+}
