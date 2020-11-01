@@ -1,0 +1,30 @@
+{
+	"description":"Dioses y diosas de los mitos romanos",
+	"roman_deities": [
+		"Apolo",
+		"Baco",
+		"Caelus",
+		"Ceres",
+		"Cupido",
+		"Diana",
+		"Fortuna",
+		"Jano",
+		"Juno",
+		"Júpiter",
+		"Marte",
+		"Mercurio",
+		"Minerva",
+		"Neptuno",
+		"Nox",
+		"Plutón",
+		"Proserpina",
+		"Saturno",
+		"Sol Invictus",
+		"Spes",
+		"Terra",
+		"Venus",
+		"Veritas",
+		"Vesta",
+		"Vulcano"
+	]
+}
