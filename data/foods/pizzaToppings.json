@@ -1,0 +1,30 @@
+{
+  "description": "Una lista de ingredientes para pizza.",
+  "pizzaToppings": [
+    "aceitunas",
+    "ajos",
+    "albóndigas",
+    "alcachofas",
+    "anchoas",
+    "beicon canadiense",
+    "beicon de desayuno",
+    "beicon",
+    "carne picada",
+    "cebollas asadas",
+    "cebollas",
+    "champiñones",
+    "espinacas",
+    "jamón",
+    "pepperoni",
+    "pimientos picantes",
+    "pimientos verdes",
+    "piña",
+    "pollo",
+    "queso feta",
+    "queso",
+    "salchichas",
+    "salsa picante",
+    "tomates deshidratados",
+    "tomates"
+  ]
+}
