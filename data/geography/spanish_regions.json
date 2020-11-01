@@ -11,36 +11,36 @@
             "capital": "Sevilla",
             "provinces": [
                 {
-                    "name":"Almería",
-                    "capital":"Almería"
+                    "name": "Almería",
+                    "capital": "Almería"
                 },
                 {
-                    "name":"Cádiz",
-                    "capital":"Cádiz"
+                    "name": "Cádiz",
+                    "capital": "Cádiz"
                 },
                 {
-                    "name":"Córdoba",
-                    "capital":"Córdoba"
+                    "name": "Córdoba",
+                    "capital": "Córdoba"
                 },
                 {
-                    "name":"Granada",
-                    "capital":"Granada"
+                    "name": "Granada",
+                    "capital": "Granada"
                 },
                 {
-                    "name":"Huelva",
-                    "capital":"Huelva"
+                    "name": "Huelva",
+                    "capital": "Huelva"
                 },
                 {
-                    "name":"Jaén",
-                    "capital":"Jaén"
+                    "name": "Jaén",
+                    "capital": "Jaén"
                 },
                 {
-                    "name":"Málaga",
-                    "capital":"Málaga"
+                    "name": "Málaga",
+                    "capital": "Málaga"
                 },
                 {
-                    "name":"Sevilla",
-                    "capital":"Sevilla"
+                    "name": "Sevilla",
+                    "capital": "Sevilla"
                 }
             ]
         },
@@ -49,16 +49,16 @@
             "capital": "Zaragoza",
             "provinces": [
                 {
-                    "name":"Huesca",
-                    "capital":"Huesca"
+                    "name": "Huesca",
+                    "capital": "Huesca"
                 },
                 {
-                    "name":"Teruel",
-                    "capital":"Teruel"
+                    "name": "Teruel",
+                    "capital": "Teruel"
                 },
                 {
-                    "name":"Zaragoza",
-                    "capital":"Zaragoza"
+                    "name": "Zaragoza",
+                    "capital": "Zaragoza"
                 }
             ]
         },
@@ -76,12 +76,12 @@
                         "Las Palmas de Gran Canaria"],
             "provinces": [
                 {
-                    "name":"Palmas, Las",
-                    "capital":"Las Palmas de Gran Canaria"
+                    "name": "Palmas, Las",
+                    "capital": "Las Palmas de Gran Canaria"
                 },
                 {
-                    "name":"Santa Cruz de Tenerife",
-                    "capital":"Santa Cruz de Tenerife"
+                    "name": "Santa Cruz de Tenerife",
+                    "capital": "Santa Cruz de Tenerife"
                 }
             ]
         },
@@ -94,24 +94,24 @@
             "capital": "Toledo",
             "provinces": [
                 {
-                    "name":"Albacete",
-                    "capital":"Albacete"
+                    "name": "Albacete",
+                    "capital": "Albacete"
                 },
                 {
-                    "name":"Ciudad Real",
-                    "capital":"Ciudad Real"
+                    "name": "Ciudad Real",
+                    "capital": "Ciudad Real"
                 },
                 {
-                    "name":"Cuenca",
-                    "capital":"Cuenca"
+                    "name": "Cuenca",
+                    "capital": "Cuenca"
                 },
                 {
-                    "name":"Guadalajara",
-                    "capital":"Guadalajara"
+                    "name": "Guadalajara",
+                    "capital": "Guadalajara"
                 },
                 {
-                    "name":"Toledo",
-                    "capital":"Toledo"
+                    "name": "Toledo",
+                    "capital": "Toledo"
                 }
             ]
           },
@@ -120,40 +120,40 @@
             "capital": "Valladolid",
             "provinces": [
                 {
-                    "name":"Ávila",
-                    "capital":"Ávila"
+                    "name": "Ávila",
+                    "capital": "Ávila"
                 },
                 {
-                    "name":"Burgos",
-                    "capital":"Burgos"
+                    "name": "Burgos",
+                    "capital": "Burgos"
                 },
                 {
-                    "name":"León",
-                    "capital":"León"
+                    "name": "León",
+                    "capital": "León"
                 },
                 {
-                    "name":"Palencia",
-                    "capital":"Palencia"
+                    "name": "Palencia",
+                    "capital": "Palencia"
                 },
                 {
-                    "name":"Salamanca",
-                    "capital":"Salamanca"
+                    "name": "Salamanca",
+                    "capital": "Salamanca"
                 },
                 {
-                    "name":"Segovia",
-                    "capital":"Segovia"
+                    "name": "Segovia",
+                    "capital": "Segovia"
                 },
                 {
-                    "name":"Soria",
-                    "capital":"Soria"
+                    "name": "Soria",
+                    "capital": "Soria"
                 },
                 {
-                    "name":"Valladolid",
-                    "capital":"Valladolid"
+                    "name": "Valladolid",
+                    "capital": "Valladolid"
                 },
                 {
-                    "name":"Zamora",
-                    "capital":"Zamora"
+                    "name": "Zamora",
+                    "capital": "Zamora"
                 }
             ]
           },
@@ -166,16 +166,16 @@
                     "capital":"Barcelona"
                 },
                 {
-                    "name":"Girona",
-                    "capital":"Girona"
+                    "name": "Girona",
+                    "capital": "Girona"
                 },
                 {
-                    "name":"Lleida",
-                    "capital":"Lleida"
+                    "name": "Lleida",
+                    "capital": "Lleida"
                 },
                 {
-                    "name":"Tarragona",
-                    "capital":"Tarragona"
+                    "name": "Tarragona",
+                    "capital": "Tarragona"
                 }
             ]
           },
@@ -188,16 +188,16 @@
             "capital": "València",
             "provinces": [
                 {
-                    "name":["Alacant", "Alicante"],
-                    "capital":["Alacant", "Alicante"]
+                    "name": ["Alacant", "Alicante"],
+                    "capital": ["Alacant", "Alicante"]
                 },
                 {
-                    "name":["Castelló", "Castellón"],
-                    "capital":"Castelló de la Plana"
+                    "name": ["Castelló", "Castellón"],
+                    "capital": "Castelló de la Plana"
                 },
                 {
-                    "name":["València", "Valencia"],
-                    "capital":"València"
+                    "name": ["València", "Valencia"],
+                    "capital": "València"
                 }
             ]
         },
@@ -206,12 +206,12 @@
             "capital": "Mérida",
             "provinces": [
                 {
-                    "name":"Badajoz",
-                    "capital":"Badajoz"
+                    "name": "Badajoz",
+                    "capital": "Badajoz"
                 },
                 {
-                    "name":"Cáceres",
-                    "capital":"Cáceres"
+                    "name": "Cáceres",
+                    "capital": "Cáceres"
                 }
             ]
         },
@@ -220,20 +220,20 @@
             "capital": "Santiago de Compostela",
             "provinces": [
                 {
-                    "name":"Coruña, A",
-                    "capital":"Coruña, A"
+                    "name": "Coruña, A",
+                    "capital": "Coruña, A"
                 },
                 {
-                    "name":"Lugo",
-                    "capital":"Lugo"
+                    "name": "Lugo",
+                    "capital": "Lugo"
                 },
                 {
-                    "name":"Ourense",
-                    "capital":"Ourense"
+                    "name": "Ourense",
+                    "capital": "Ourense"
                 },
                 {
-                    "name":"Pontevedra",
-                    "capital":"Pontevedra"
+                    "name": "Pontevedra",
+                    "capital": "Pontevedra"
                 }
             ]
         },
@@ -258,16 +258,16 @@
             "capital": "Vitoria-Gasteiz",
             "provinces": [
                 {
-                    "name":"Araba/Álava",
-                    "capital":"Vitoria-Gasteiz"
+                    "name": "Araba/Álava",
+                    "capital": "Vitoria-Gasteiz"
                 },
                 {
-                    "name":"Bizkaia",
-                    "capital":"Bilbao"
+                    "name": "Bizkaia",
+                    "capital": "Bilbao"
                 },
                 {
-                    "name":"Gipuzkoa",
-                    "capital":"Donostia / San Sebastián"
+                    "name": "Gipuzkoa",
+                    "capital": "Donostia / San Sebastián"
                 }
             ]
           },
