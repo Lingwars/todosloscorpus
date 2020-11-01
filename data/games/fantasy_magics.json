@@ -1,0 +1,341 @@
+{
+	"description": "Modalidades fantásticas de magia y sus practicantes",
+	"magics": [{
+			"name": "abjuración",
+			"gender": "m",
+			"practitioners": [{
+				"name": "abjuradora",
+				"gender": "f"
+			}, {
+				"name": "abjurador",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "adivinación",
+			"gender": "f",
+			"practitioners": [{
+				"name": "adivina",
+				"gender": "f"
+			}, {
+				"name": "adivino",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "alomancia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "alomante",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "alquimia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "alquimista",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "arcanismo",
+			"gender": "m",
+			"practitioners": [{
+				"name": "arcana",
+				"gender": "f"
+			}, {
+				"name": "arcano",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "archimagia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "archimaga",
+				"gender": "f"
+			}, {
+				"name": "archimago",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "astromancia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "astromante",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "brujería",
+			"gender": "f",
+			"practitioners": [{
+				"name": "bruja",
+				"gender": "f"
+			}, {
+				"name": "brujo",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "chamanismo",
+			"gender": "m",
+			"practitioners": [{
+				"name": "chamana",
+				"gender": "f"
+			}, {
+				"name": "chamán",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "conjuración",
+			"gender": "m",
+			"practitioners": [{
+				"name": "conjuradora",
+				"gender": "f"
+			}, {
+				"name": "conjurador",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "curanderismo",
+			"gender": "m",
+			"practitioners": [{
+				"name": "curandera",
+				"gender": "f"
+			}, {
+				"name": "curandero",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "demonología",
+			"gender": "f",
+			"practitioners": [{
+				"name": "demonóloga",
+				"gender": "f"
+			}, {
+				"name": "demonólogo",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "druidismo",
+			"gender": "m",
+			"practitioners": [{
+				"name": "druida",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "elementalismo",
+			"gender": "m",
+			"practitioners": [{
+				"name": "elementalista",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "encantamiento",
+			"gender": "m",
+			"practitioners": [{
+				"name": "encantadora",
+				"gender": "f"
+			}, {
+				"name": "encantador",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "espiritualismo",
+			"gender": "m",
+			"practitioners": [{
+				"name": "espiritualista",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "geomancia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "geomante",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "golemetría",
+			"gender": "f",
+			"practitioners": [{
+				"name": "golemista",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "hechicería",
+			"gender": "f",
+			"practitioners": [{
+				"name": "hechicera",
+				"gender": "f"
+			}, {
+				"name": "hechicero",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "ilusión",
+			"gender": "f",
+			"practitioners": [{
+				"name": "ilusionista",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "invocación",
+			"gender": "m",
+			"practitioners": [{
+				"name": "invocadora",
+				"gender": "f"
+			}, {
+				"name": "invocador",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "kineticismo",
+			"gender": "m",
+			"practitioners": [{
+				"name": "kinética",
+				"gender": "f"
+			}, {
+				"name": "kinético",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "magia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "maga",
+				"gender": "f"
+			}, {
+				"name": "mago",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "matemagia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "matemágica",
+				"gender": "f"
+			}, {
+				"name": "maetmágico",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "mentalismo",
+			"gender": "m",
+			"practitioners": [{
+				"name": "mentalista",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "misticismo",
+			"gender": "m",
+			"practitioners": [{
+				"name": "mística",
+				"gender": "f"
+			}, {
+				"name": "místico",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "nigromancia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "nigromante",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "ocultismo",
+			"gender": "m",
+			"practitioners": [{
+				"name": "ocultista",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "osteomancia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "osteomante",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "pichurrimancia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "rechicera",
+				"gender": "f"
+			}, {
+				"name": "rechicero",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "piromancia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "piromante",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "taumaturgia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "taumaturga",
+				"gender": "f"
+			}, {
+				"name": "taumaturgo",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "tecnomancia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "tecnomante",
+				"gender": "c"
+			}]
+		},
+		{
+			"name": "transmutación",
+			"gender": "m",
+			"practitioners": [{
+				"name": "transmutadora",
+				"gender": "f"
+			}, {
+				"name": "transmutador",
+				"gender": "m"
+			}]
+		},
+		{
+			"name": "trekketurgia",
+			"gender": "f",
+			"practitioners": [{
+				"name": "trekkere",
+				"gender": "c"
+			}]
+		}
+	]
+}
