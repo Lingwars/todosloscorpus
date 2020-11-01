@@ -751,16 +751,6 @@
 			"number": "p"
 		},
 		{
-			"name": "limoncillo",
-			"gender": "m",
-			"number": "s"
-		},
-		{
-			"name": "limoncillos",
-			"gender": "m",
-			"number": "p"
-		},
-		{
 			"name": "limonero",
 			"gender": "m",
 			"number": "s"
@@ -902,12 +892,12 @@
 		},
 		{
 			"name": "morera negra",
-			"gender": "m",
+			"gender": "f",
 			"number": "s"
 		},
 		{
 			"name": "moreras negras",
-			"gender": "m",
+			"gender": "f",
 			"number": "p"
 		},
 		{
