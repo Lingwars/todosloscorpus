@@ -1,0 +1,3828 @@
+{
+  "description": "Lista de plantas por nombre común",
+  "source": "https://github.com/dariusk/corpora/edit/master/data/plants/plants.json",
+  "plants": [
+    {
+      "name": "Aliso",
+      "gender": "m",
+      "number": "s",
+      "species": "Alnus"
+    },
+    {
+      "name": "Aliso negro",
+      "gender": "m",
+      "number": "s",
+      "species": "Alnus glutinosa, Ilex verticillata"
+    },
+    {
+      "name": "Aliso común",
+      "gender": "m",
+      "number": "s",
+      "species": "Alnus glutinosa"
+    },
+    {
+      "name": "Acebo",
+      "gender": "m",
+      "number": "s",
+      "species": "Ilex verticillata"
+    },
+    {
+      "name": "Aliso gris",
+      "gender": "m",
+      "number": "s",
+      "species": "Alnus incana"
+    },
+    {
+      "name": "Aliso cano",
+      "gender": "m",
+      "number": "s",
+      "species": "Alnus incana"
+    },
+    {
+      "name": "Almendro",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus amygdalus, Punus dulcis"
+    },
+    {
+      "name": "Ambrosía gigante",
+      "gender": "f",
+      "number": "s",
+      "species": "Ambrosia trifida"
+    },
+    {
+      "name": "Cáñamo canadiense",
+      "gender": "m",
+      "number": "s",
+      "species": "Apocynum cannabinum"
+    },
+    {
+      "name": "Manzano",
+      "gender": "m",
+      "number": "s",
+      "species": "Malus domestica"
+    },
+    {
+      "name": "Naranjo de Luisiana",
+      "gender": "m",
+      "number": "s",
+      "species": "Maclura pomifera"
+    },
+    {
+      "name": "Espino de los osages",
+      "gender": "m",
+      "number": "s",
+      "species": "Maclura pomifera"
+    },
+    {
+      "name": "Naranjo de los osages",
+      "gender": "m",
+      "number": "s",
+      "species": "Maclura pomifera"
+    },
+    {
+      "name": "Chichigua",
+      "gender": "f",
+      "number": "s",
+      "species": "Solanum mammosum"
+    },
+    {
+      "name": "Ubre de vaca",
+      "gender": "f",
+      "number": "s",
+      "species": "Solanum mammosum"
+    },
+    {
+      "name": "Manzana de Sodoma",
+      "gender": "f",
+      "number": "s",
+      "species": "Solanum mammosum"
+    },
+    {
+      "name": "Ortiga de Carolina",
+      "gender": "f",
+      "number": "s",
+      "species": "Solanum carolinense"
+    },
+    {
+      "name": "Arfaj",
+      "gender": "m",
+      "number": "s",
+      "species": "Rhanterium epapposum"
+    },
+    {
+      "name": "Sicómoro de Arizona",
+      "gender": "m",
+      "number": "s",
+      "species": "Platanus wrightii"
+    },
+    {
+      "name": "Sanguiñuelo florido",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus florida"
+    },
+    {
+      "name": "Cornejo de China",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus chinensis"
+    },
+    {
+      "name": "Cornejo macho",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus mas"
+    },
+    {
+      "name": "Cornejo de Japón",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus officinalis"
+    },
+    {
+      "name": "Cornejo de fruto negro",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus sessilis"
+    },
+    {
+      "name": "Cornejo siberiano",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus alba"
+    },
+    {
+      "name": "Cornejo pagoda",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus alternifolia"
+    },
+    {
+      "name": "Cornejo de hojas alternas",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus alternifolia"
+    },
+    {
+      "name": "Cornejo de las pagoda",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus asperifolia"
+    },
+    {
+      "name": "Sanguiñuelo asperifolio",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus asperifolia"
+    },
+    {
+      "name": "Cornejo de Bretschneider",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus bretschneideri"
+    },
+    {
+      "name": "Cornejo mesa",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus controversa"
+    },
+    {
+      "name": "Cornejo de Corea",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus coreana"
+    },
+    {
+      "name": "Cornejo de hojas arrugadas",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus drummondii"
+    },
+    {
+      "name": "Cornejo marrón",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus glabrata"
+    },
+    {
+      "name": "Cornejo suave",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus glabrata"
+    },
+    {
+      "name": "Cornejo de Hemsley",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus hemsleyi"
+    },
+    {
+      "name": "Cornejo de Koehne",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus koehneana"
+    },
+    {
+      "name": "Cornejo de hojas grandes",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus macrophylla"
+    },
+    {
+      "name": "Cornejo pálido",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus obliqua"
+    },
+    {
+      "name": "Cornejo de los pantanos del Norte",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus racemosa"
+    },
+    {
+      "name": "Cornejo de Gray",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus racemosa"
+    },
+    {
+      "name": "Cornejo de hoja redondeada",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus rugosa"
+    },
+    {
+      "name": "Cornejo común",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus sanguinea"
+    },
+    {
+      "name": "Cornejo de hojas rojas",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus sericea"
+    },
+    {
+      "name": "Cornejo de los pantanos del Sur",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus stricta"
+    },
+    {
+      "name": "Cornejo de Walter",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus walteri"
+    },
+    {
+      "name": "Cornejo de Wilson",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus wilsoniana"
+    },
+    {
+      "name": "Cornejo enano",
+      "gender": "m",
+      "number": "s",
+      "species": "Chamaepericlymenum spp."
+    },
+    {
+      "name": "Cornejo florido",
+      "gender": "m",
+      "number": "s",
+      "species": "Benthamidia spp., Cornus florida"
+    },
+    {
+      "name": "Cornejo del Himalaya",
+      "gender": "m",
+      "number": "s",
+      "species": "Benthamidia capitata"
+    },
+    {
+      "name": "Sanguiñuelo de hoja perenne",
+      "gender": "m",
+      "number": "s",
+      "species": "Benthamidia capitata"
+    },
+    {
+      "name": "Cornejo de Hong Kong",
+      "gender": "m",
+      "number": "s",
+      "species": "Benthamidia hongkongensis"
+    },
+    {
+      "name": "Cornejo de Kousa",
+      "gender": "m",
+      "number": "s",
+      "species": "Benthamidia kousa"
+    },
+    {
+      "name": "Fresno",
+      "gender": "m",
+      "number": "s",
+      "species": "Fraxinus spp."
+    },
+    {
+      "name": "Fresno negro",
+      "gender": "m",
+      "number": "s",
+      "species": "Acer negundo, Fraxinus nigra"
+    },
+    {
+      "name": "Fresno azul",
+      "gender": "m",
+      "number": "s",
+      "species": "Fraxinus quadrangulata"
+    },
+    {
+      "name": "Fresno blanco",
+      "gender": "m",
+      "number": "s",
+      "species": "Fraxinus americana"
+    },
+    {
+      "name": "Fresno blanco americano",
+      "gender": "m",
+      "number": "s",
+      "species": "Fraxinus americana"
+    },
+    {
+      "name": "Fresno blanco",
+      "gender": "m",
+      "number": "s",
+      "species": "Fraxinus americana"
+    },
+    {
+      "name": "Fresno americano",
+      "gender": "m",
+      "number": "s",
+      "species": "Fraxinus americana"
+    },
+    {
+      "name": "Fresno de la Carolina",
+      "gender": "m",
+      "number": "s",
+      "species": "Fraxinus americana"
+    },
+    {
+      "name": "Bufano de Cuba",
+      "gender": "m",
+      "number": "s",
+      "species": "Fraxinus caroliniana"
+    },
+    {
+      "name": "Fresno verde",
+      "gender": "m",
+      "number": "s",
+      "species": "Fraxinus pennsylvanica"
+    },
+    {
+      "name": "Arce negundo",
+      "gender": "m",
+      "number": "s",
+      "species": "Acer negundo"
+    },
+    {
+      "name": "Fresno rojo americano",
+      "gender": "m",
+      "number": "s",
+      "species": "Fraxinus pennsylvanica"
+    },
+    {
+      "name": "Helecho de agua",
+      "gender": "m",
+      "number": "s",
+      "species": "Azolla spp., Azolla caroliniana"
+    },
+    {
+      "name": "Helecho de agua de Carolina",
+      "gender": "m",
+      "number": "s",
+      "species": "Azolla caroliniana"
+    },
+    {
+      "name": "Bambú",
+      "gender": "m",
+      "number": "s",
+      "species": "Bambuseae"
+    },
+    {
+      "name": "Banano",
+      "gender": "m",
+      "number": "s",
+      "species": "principalmente Musa × paradisica pero también otras especies del género Musa e híbridos"
+    },
+    {
+      "name": "Baobab",
+      "gender": "m",
+      "number": "s",
+      "species": "Adansonia"
+    },
+    {
+      "name": "Laurel",
+      "gender": "m",
+      "number": "s",
+      "species": "Laurus spp. o Umbellularia spp."
+    },
+    {
+      "name": "Laurel de California",
+      "gender": "m",
+      "number": "s",
+      "species": "Umbellularia californica"
+    },
+    {
+      "name": "Leguminosa",
+      "gender": "f",
+      "number": "s",
+      "species": "Fabaceae, en concreto Phaseolus spp."
+    },
+    {
+      "name": "Gayuba",
+      "gender": "f",
+      "number": "s",
+      "species": "Arctostaphylos uva-ursi"
+    },
+    {
+      "name": "Uva de oso",
+      "gender": "f",
+      "number": "s",
+      "species": "Arctostaphylos uva-ursi"
+    },
+    {
+      "name": "Falso eléboro verde",
+      "gender": "m",
+      "number": "s",
+      "species": "Veratrum viride"
+    },
+    {
+      "name": "Haya",
+      "gender": "f",
+      "number": "s",
+      "species": "Fagus"
+    },
+    {
+      "name": "Haya japonesa",
+      "gender": "f",
+      "number": "s",
+      "species": "Fagus crenata"
+    },
+    {
+      "name": "Haya china",
+      "gender": "f",
+      "number": "s",
+      "species": "Fagus engleriana"
+    },
+    {
+      "name": "Haya mexicana",
+      "gender": "f",
+      "number": "s",
+      "species": "Fagus mexicana"
+    },
+    {
+      "name": "Haya balcánica",
+      "gender": "f",
+      "number": "s",
+      "species": "Fagus moesiaca"
+    },
+    {
+      "name": "Haya oriental",
+      "gender": "f",
+      "number": "s",
+      "species": "Fagus orientalis"
+    },
+    {
+      "name": "Haya común",
+      "gender": "f",
+      "number": "s",
+      "species": "Fagus sylvatica L."
+    },
+    {
+      "name": "Haya tortuosa",
+      "gender": "f",
+      "number": "s",
+      "species": "Fagus sylvatica var. tortuosa"
+    },
+    {
+      "name": "Haya llorona",
+      "gender": "f",
+      "number": "s",
+      "species": "Fagus sylvatica var. pendula"
+    },
+    {
+      "name": "Haya roja",
+      "gender": "f",
+      "number": "s",
+      "species": "Fagus sylvatica var. purpurea"
+    },
+    {
+      "name": "Haya púrpura",
+      "gender": "f",
+      "number": "s",
+      "species": "Fagus sylvatica var. purpurea"
+    },
+    {
+      "name": "Dulcamara",
+      "gender": "f",
+      "number": "s",
+      "species": "Solanum dulcamara"
+    },
+    {
+      "name": "Adela",
+      "gender": "f",
+      "number": "s",
+      "species": "Solanum dulcamara"
+    },
+    {
+      "name": "Zanahoria",
+      "gender": "f",
+      "number": "s",
+      "species": "Daucus carota"
+    },
+    {
+      "name": "Abedul",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula spp."
+    },
+    {
+      "name": "Abedul amarillo",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula alleghaniensis"
+    },
+    {
+      "name": "Abedul dulce americano",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula lenta"
+    },
+    {
+      "name": "Abedul-cerezo americano",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula lenta"
+    },
+    {
+      "name": "Abedul de hojas de carpe",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula lenta"
+    },
+    {
+      "name": "Abedul enano",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula nana"
+    },
+    {
+      "name": "Abedul negro",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula nigra"
+    },
+    {
+      "name": "Abedul negro americano",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula nigra"
+    },
+    {
+      "name": "Abedul rojo",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula occidentalis"
+    },
+    {
+      "name": "Abedul papirífero",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula papyrifera"
+    },
+    {
+      "name": "Abedul de las canoas",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula papyrifera"
+    },
+    {
+      "name": "Abedul común",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula pendula"
+    },
+    {
+      "name": "Abedul blanco",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula pendula"
+    },
+    {
+      "name": "Abedul gris",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula populifolia"
+    },
+    {
+      "name": "Abedul pubescente",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula pubescens, Betula carpatica, Betula dalecarlica"
+    },
+    {
+      "name": "Abedul chino",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula albosinensis"
+    },
+    {
+      "name": "Abedul de Erman",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula ermanii"
+    },
+    {
+      "name": "Abedul de Kamchatka",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula kamtschatica"
+    },
+    {
+      "name": "Abedul de Maximowicz",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula maximowiczii"
+    },
+    {
+      "name": "Abedul del Himalaya",
+      "gender": "m",
+      "number": "s",
+      "species": "Betula utilis"
+    },
+    {
+      "name": "Barbarea",
+      "gender": "f",
+      "number": "s",
+      "species": "Barbarea vulgaris"
+    },
+    {
+      "name": "Hierba de Santa Bárbara",
+      "gender": "f",
+      "number": "s",
+      "species": "Barbarea vulgaris"
+    },
+    {
+      "name": "Hierba de los carpinteros",
+      "gender": "f",
+      "number": "s",
+      "species": "Barbarea vulgaris"
+    },
+    {
+      "name": "Berro amargo",
+      "gender": "m",
+      "number": "s",
+      "species": "Cardamine spp."
+    },
+    {
+      "name": "Ambrosía",
+      "gender": "f",
+      "number": "s",
+      "species": "Ambrosia spp."
+    },
+    {
+      "name": "Morera",
+      "gender": "f",
+      "number": "s",
+      "species": "Morus spp."
+    },
+    {
+      "name": "Morera blanca",
+      "gender": "f",
+      "number": "s",
+      "species": "Morus alba"
+    },
+    {
+      "name": "Mora colorada",
+      "gender": "f",
+      "number": "s",
+      "species": "Morus celtidifolia"
+    },
+    {
+      "name": "Morera negra",
+      "gender": "f",
+      "number": "s",
+      "species": "Morus nigra"
+    },
+    {
+      "name": "Morera común",
+      "gender": "f",
+      "number": "s",
+      "species": "Morus nigra"
+    },
+    {
+      "name": "Mora roja",
+      "gender": "f",
+      "number": "s",
+      "species": "Morus rubra"
+    },
+    {
+      "name": "Zarza",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus spp."
+    },
+    {
+      "name": "Frambuesa árctica",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus arcticus"
+    },
+    {
+      "name": "Parrilla",
+      "gender": "f",
+      "number": "s",
+      "species": "Caesius"
+    },
+    {
+      "name": "Mora boreal",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus chamaemorus"
+    },
+    {
+      "name": "Frambuesa deliciosa",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus deliciosus"
+    },
+    {
+      "name": "Mora silvestre",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus floribundus"
+    },
+    {
+      "name": "Zarzamora",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus fruticosus, Rubus ulmifolius"
+    },
+    {
+      "name": "Frambuesa patagónica",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus geoides"
+    },
+    {
+      "name": "Mora andina",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus glaucus"
+    },
+    {
+      "name": "Frambueso",
+      "gender": "m",
+      "number": "s",
+      "species": "Rubus idaeus"
+    },
+    {
+      "name": "Frambuesa azul",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus leucodermis"
+    },
+    {
+      "name": "Mora de Logan",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus loganobaccus"
+    },
+    {
+      "name": "Mora extranjera",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus niveus"
+    },
+    {
+      "name": "Frambuesa negra",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus occidentalis"
+    },
+    {
+      "name": "Zarza purpúrea",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus odoratus"
+    },
+    {
+      "name": "Frambuesa japonesa",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus phoenicolasius"
+    },
+    {
+      "name": "Zarza salmón",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus spectabilis"
+    },
+    {
+      "name": "Zarza californiana",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus ursinus"
+    },
+    {
+      "name": "Mora de Pensilvania",
+      "gender": "f",
+      "number": "s",
+      "species": "Rubus pensilvanicus"
+    },
+    {
+      "name": "Rudbeckia",
+      "gender": "f",
+      "number": "s",
+      "species": "Rudbeckia spp."
+    },
+    {
+      "name": "Viburno americano",
+      "gender": "m",
+      "number": "s",
+      "species": "Viburnum prunifolium"
+    },
+    {
+      "name": "Estafiate",
+      "gender": "m",
+      "number": "s",
+      "species": "Ambrosia artemisiifolia, Artemisia ludoviciana"
+    },
+    {
+      "name": "Ajenjo del país",
+      "gender": "m",
+      "number": "s",
+      "species": "Ambrosia artemisiifolia, Artemisia ludoviciana"
+    },
+    {
+      "name": "Altamisa",
+      "gender": "f",
+      "number": "s",
+      "species": "Ambrosia artemisiifolia, Ambrosia peruviana, Artemisia vulgaris, Achillea millefolium, Parthenium hysterophorus, Tanacetum parthenium, Teucrium polium"
+    },
+    {
+      "name": "Amargosa",
+      "gender": "f",
+      "number": "s",
+      "species": "Ambrosia artemisiifolia, Centaurium erythraea"
+    },
+    {
+      "name": "Artemisia",
+      "gender": "f",
+      "number": "s",
+      "species": "Artemisia spp."
+    },
+    {
+      "name": "Arándano",
+      "gender": "m",
+      "number": "s",
+      "species": "Vaccinium (Cyanococcus) spp."
+    },
+    {
+      "name": "Arándano azul",
+      "gender": "m",
+      "number": "s",
+      "species": "Vaccinium corymbosum"
+    },
+    {
+      "name": "Ajo decorativo azul",
+      "gender": "m",
+      "number": "s",
+      "species": "Allium caeruleum"
+    },
+    {
+      "name": "Boj",
+      "gender": "m",
+      "number": "s",
+      "species": "Buxus"
+    },
+    {
+      "name": "Incienso",
+      "gender": "m",
+      "number": "s",
+      "species": "Encelia farinosa"
+    },
+    {
+      "name": "Alpiste",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major, Phalaris canariensis"
+    },
+    {
+      "name": "Ballico",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Cañamón",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Cinco venas",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Gitanilla",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Grana",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Hierba de las siete costillas",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Hierba de las siete venas",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Hoja de lanté",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Hoja del antel",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Lanté",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Lantel",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Lantel del gordo",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Lantén",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Lengua de carnero",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Lengua de oveja",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Lentel",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Lentén",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llanté",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llantel",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llantel mayor",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llanten",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llantén",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llantén blanco",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llantén blanquecino",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llantén de agua",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llantén de hoja ancha",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llantén de hojas anchas",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llantén grande",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llanten mayor",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llantén mayor",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Llantén mediano",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Mijo",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Mill",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Oreja de liebre",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Pan de pájaro",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Pelosilla",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Pelusa",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Plantago",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Plantaina",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Plantaje",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Pan de pájaro",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Rabos de ratón",
+      "gender": "m",
+      "number": "p",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Resbala-muchachos",
+      "gender": "f",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Rompisaco",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Setecostas",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Sietenervios",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Siete nervios",
+      "gender": "m",
+      "number": "s",
+      "species": "Plantago major"
+    },
+    {
+      "name": "Siete nervios",
+      "gender": "m",
+      "number": "s",
+      "species": "Yantén"
+    },
+    {
+      "name": "Falso castaño de California",
+      "gender": "m",
+      "number": "s",
+      "species": "Aesculus californica"
+    },
+    {
+      "name": "Castaño de indias",
+      "gender": "m",
+      "number": "s",
+      "species": "Aesculus spp."
+    },
+    {
+      "name": "Falso castaño",
+      "gender": "m",
+      "number": "s",
+      "species": "Aesculus spp."
+    },
+    {
+      "name": "Asclepia",
+      "gender": "f",
+      "number": "s",
+      "species": "Asclepias spp."
+    },
+    {
+      "name": "Algodoncillo",
+      "gender": "m",
+      "number": "s",
+      "species": "Asclepias spp."
+    },
+    {
+      "name": "Thlalayotl de México",
+      "gender": "m",
+      "number": "s",
+      "species": "Asclepias syriaca"
+    },
+    {
+      "name": "Asclepia tuborosa",
+      "gender": "f",
+      "number": "s",
+      "species": "Asclepias tuberosa"
+    },
+    {
+      "name": "Col",
+      "gender": "f",
+      "number": "s",
+      "species": "Brassica oleracea"
+    },
+    {
+      "name": "Col de mofeta",
+      "gender": "f",
+      "number": "s",
+      "species": "Symplocarpus foetidus"
+    },
+    {
+      "name": "Col de los pantanos",
+      "gender": "f",
+      "number": "s",
+      "species": "Symplocarpus foetidus"
+    },
+    {
+      "name": "Col de los prados",
+      "gender": "f",
+      "number": "s",
+      "species": "Symplocarpus foetidus"
+    },
+    {
+      "name": "Laurel de California",
+      "gender": "m",
+      "number": "s",
+      "species": "Umbellularia californica, Aesculus californica"
+    },
+    {
+      "name": "Plátano de California",
+      "gender": "m",
+      "number": "s",
+      "species": "Platanus racemosa"
+    },
+    {
+      "name": "Sicómoro de California",
+      "gender": "m",
+      "number": "s",
+      "species": "Platanus racemosa"
+    },
+    {
+      "name": "Falso aliso",
+      "gender": "m",
+      "number": "s",
+      "species": "Platanus racemosa"
+    },
+    {
+      "name": "Nogal de california",
+      "gender": "m",
+      "number": "s",
+      "species": "Juglans californica"
+    },
+    {
+      "name": "Carbonero de Cuba",
+      "gender": "m",
+      "number": "s",
+      "species": "Phytolacca americana"
+    },
+    {
+      "name": "Carminero de Canarias",
+      "gender": "m",
+      "number": "s",
+      "species": "Phytolacca americana"
+    },
+    {
+      "name": "Hierba carmín",
+      "gender": "f",
+      "number": "s",
+      "species": "Phytolacca americana"
+    },
+    {
+      "name": "Hierba de la oblea",
+      "gender": "f",
+      "number": "s",
+      "species": "Phytolacca americana"
+    },
+    {
+      "name": "Uvas de América",
+      "gender": "f",
+      "number": "p",
+      "species": "Phytolacca americana"
+    },
+    {
+      "name": "Zanahoria silvestre",
+      "gender": "f",
+      "number": "s",
+      "species": "Daucus carota"
+    },
+    {
+      "name": "Palo fierro de Catalina",
+      "gender": "m",
+      "number": "s",
+      "species": "Lyonothamnus floribundus ssp. floribundus"
+    },
+    {
+      "name": "Ciruelo",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus spp."
+    },
+    {
+      "name": "Cerezo criollo",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus serotina"
+    },
+    {
+      "name": "Cerezo negro americano",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus serotina"
+    },
+    {
+      "name": "Capulí",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus serotina"
+    },
+    {
+      "name": "Guindo",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus avium, Prunus cerasus"
+    },
+    {
+      "name": "Cerezo silvestre",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus avium"
+    },
+    {
+      "name": "Cerezo dulce",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus avium"
+    },
+    {
+      "name": "Cerezo de monte",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus avium"
+    },
+    {
+      "name": "Albaricoquero",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus armeniaca"
+    },
+    {
+      "name": "Albaricoque",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus armeniaca"
+    },
+    {
+      "name": "Damasco",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus armeniaca"
+    },
+    {
+      "name": "Albergero",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus armeniaca"
+    },
+    {
+      "name": "Chabacano",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus armeniaca"
+    },
+    {
+      "name": "Ciruelo mirobolano",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus cerasifera"
+    },
+    {
+      "name": "Ciruelo-cerezo",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus cerasifera"
+    },
+    {
+      "name": "Ciruelo de jardín",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus cerasifera"
+    },
+    {
+      "name": "Cerezo común",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus cerasus"
+    },
+    {
+      "name": "Cerezo ácido",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus cerasus"
+    },
+    {
+      "name": "Cerezo de Morello",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus cerasus"
+    },
+    {
+      "name": "Ciruelo europeo",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus domestica"
+    },
+    {
+      "name": "Almendro del desierto",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus fasciculata"
+    },
+    {
+      "name": "Laurocerezo",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus laurocerasus"
+    },
+    {
+      "name": "Lauroceraso",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus laurocerasus"
+    },
+    {
+      "name": "Laurel cerezo",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus laurocerasus"
+    },
+    {
+      "name": "Laurel portugués",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus lusitanica"
+    },
+    {
+      "name": "Lauroceraso de Portugal",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus lusitanica"
+    },
+    {
+      "name": "Loro",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus lusitanica"
+    },
+    {
+      "name": "Hija",
+      "gender": "f",
+      "number": "s",
+      "species": "Prunus lusitanica"
+    },
+    {
+      "name": "Cerezo de Manchuria",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus maackii"
+    },
+    {
+      "name": "Cerezo de Santa Lucía",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus mahaleb"
+    },
+    {
+      "name": "Ume",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus mume"
+    },
+    {
+      "name": "Albaricoque japonés",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus mume"
+    },
+    {
+      "name": "Ciruela china",
+      "gender": "f",
+      "number": "s",
+      "species": "Prunus mume"
+    },
+    {
+      "name": "Ciruelo negro",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus nigra"
+    },
+    {
+      "name": "Cuajaní",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus occidentalis"
+    },
+    {
+      "name": "Almendrillo",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus occidentalis"
+    },
+    {
+      "name": "Almendrón",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus occidentalis"
+    },
+    {
+      "name": "Cerezo de racimos",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus padus"
+    },
+    {
+      "name": "Cerezo aliso",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus padus"
+    },
+    {
+      "name": "Árbol de Santa Lucía",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus padus"
+    },
+    {
+      "name": "Cerisuela",
+      "gender": "f",
+      "number": "s",
+      "species": "Prunus padus"
+    },
+    {
+      "name": "Cerezo pado",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus padus"
+    },
+    {
+      "name": "Cerezo de fuego",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus pensylvanica"
+    },
+    {
+      "name": "Cereza de arena",
+      "gender": "f",
+      "number": "s",
+      "species": "Prunus pumila"
+    },
+    {
+      "name": "Ciruelo chino",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus salicina"
+    },
+    {
+      "name": "Ciruelo japonés",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus salicina"
+    },
+    {
+      "name": "Melocotonero",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus persica"
+    },
+    {
+      "name": "Duraznero",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus persica"
+    },
+    {
+      "name": "Cerezo de flor japonés",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus serrulata"
+    },
+    {
+      "name": "Endrino",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus spinosa"
+    },
+    {
+      "name": "Cerezo de virginia",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus virginiana"
+    },
+    {
+      "name": "Capulín",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus virginiana"
+    },
+    {
+      "name": "Capulin",
+      "gender": "m",
+      "number": "s",
+      "species": "Prunus virginiana"
+    },
+    {
+      "name": "Castaño",
+      "gender": "m",
+      "number": "s",
+      "species": "Castanea spp."
+    },
+    {
+      "name": "Castaño japonés",
+      "gender": "m",
+      "number": "s",
+      "species": "Castanea crenata"
+    },
+    {
+      "name": "Castaño americano",
+      "gender": "m",
+      "number": "s",
+      "species": "Castanea dentata"
+    },
+    {
+      "name": "Castaño chinkapin",
+      "gender": "m",
+      "number": "s",
+      "species": "Castanea henryi"
+    },
+    {
+      "name": "Castaño chino",
+      "gender": "m",
+      "number": "s",
+      "species": "Castanea mollissima"
+    },
+    {
+      "name": "Castaño de Ozark",
+      "gender": "m",
+      "number": "s",
+      "species": "Castanea ozarkensis"
+    },
+    {
+      "name": "Castaño europeo",
+      "gender": "m",
+      "number": "s",
+      "species": "Castanea sativa"
+    },
+    {
+      "name": "Castaño Seguin",
+      "gender": "m",
+      "number": "s",
+      "species": "Castanea seguinii"
+    },
+    {
+      "name": "Crisantemo de la China",
+      "gender": "m",
+      "number": "s",
+      "species": "Dendranthema grandiflora, Chrysanthemum morifolium"
+    },
+    {
+      "name": "Flor de Roma",
+      "gender": "f",
+      "number": "s",
+      "species": "Dendranthema grandiflora, Chrysanthemum morifolium"
+    },
+    {
+      "name": "Sangre de Francia",
+      "gender": "f",
+      "number": "s",
+      "species": "Dendranthema grandiflora, Chrysanthemum morifolium"
+    },
+    {
+      "name": "Árbol de la canela",
+      "gender": "m",
+      "number": "s",
+      "species": "Cinnamomum verum"
+    },
+    {
+      "name": "Canelo",
+      "gender": "m",
+      "number": "s",
+      "species": "Cinnamomum verum"
+    },
+    {
+      "name": "Árbol del clavo",
+      "gender": "m",
+      "number": "s",
+      "species": "Syzygium aromaticum"
+    },
+    {
+      "name": "Clavero",
+      "gender": "m",
+      "number": "s",
+      "species": "Syzygium aromaticum"
+    },
+    {
+      "name": "Trébol",
+      "gender": "m",
+      "number": "s",
+      "species": "Trifolium spp."
+    },
+    {
+      "name": "Cocotero",
+      "gender": "m",
+      "number": "s",
+      "species": "Cocos nucifera"
+    },
+    {
+      "name": "Cafeto",
+      "gender": "m",
+      "number": "s",
+      "species": "Coffea spp."
+    },
+    {
+      "name": "Aristoloquia",
+      "gender": "f",
+      "number": "s",
+      "species": "Corydalis spp."
+    },
+    {
+      "name": "Coridalis",
+      "gender": "m",
+      "number": "s",
+      "species": "Corydalis spp."
+    },
+    {
+      "name": "Apios de algunos",
+      "gender": "m",
+      "number": "p",
+      "species": "Corydalis cava"
+    },
+    {
+      "name": "Aristoloquia hueca",
+      "gender": "f",
+      "number": "s",
+      "species": "Corydalis cava"
+    },
+    {
+      "name": "Aristoloquia pequeña",
+      "gender": "f",
+      "number": "s",
+      "species": "Corydalis cava"
+    },
+    {
+      "name": "Aristoloquia tenue",
+      "gender": "f",
+      "number": "s",
+      "species": "Corydalis cava"
+    },
+    {
+      "name": "Fumaria bulbosa",
+      "gender": "f",
+      "number": "s",
+      "species": "Corydalis cava"
+    },
+    {
+      "name": "Violeta bulbosa",
+      "gender": "f",
+      "number": "s",
+      "species": "Corydalis cava"
+    },
+    {
+      "name": "Fumaria flavula",
+      "gender": "f",
+      "number": "s",
+      "species": "Corydalis flavula"
+    },
+    {
+      "name": "Cerraja",
+      "gender": "f",
+      "number": "s",
+      "species": "Sonchus oleraceus, Sonchus arvensis, Sonchus asper"
+    },
+    {
+      "name": "Cerrajón",
+      "gender": "m",
+      "number": "s",
+      "species": "Sonchus oleraceus"
+    },
+    {
+      "name": "Cornejo",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus spp."
+    },
+    {
+      "name": "Sanguiñuelo",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus spp."
+    },
+    {
+      "name": "Cerezo silvestre",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus spp."
+    },
+    {
+      "name": "Sanguino",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus spp., en concreto Cornus sanguinea"
+    },
+    {
+      "name": "Cornizo",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus spp."
+    },
+    {
+      "name": "Corno",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus spp."
+    },
+    {
+      "name": "Cornejo sedoso",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus amomum"
+    },
+    {
+      "name": "Aristoloquia dorada",
+      "gender": "f",
+      "number": "s",
+      "species": "Corydalis aurea"
+    },
+    {
+      "name": "Aristoloquia clara",
+      "gender": "f",
+      "number": "s",
+      "species": "Corydalis flavula, Corydalis sempervirens"
+    },
+    {
+      "name": "Aristoloquia rosa",
+      "gender": "f",
+      "number": "s",
+      "species": "Corydalis sempervirens"
+    },
+    {
+      "name": "Aristoloquia amarilla",
+      "gender": "f",
+      "number": "s",
+      "species": "Corydalis lutea, Corydalis flavula"
+    },
+    {
+      "name": "Algodonero",
+      "gender": "m",
+      "number": "s",
+      "species": "Gossypium spp."
+    },
+    {
+      "name": "Árbol del algodón",
+      "gender": "m",
+      "number": "s",
+      "species": "Gossypium arboreum"
+    },
+    {
+      "name": "Algodón de levante",
+      "gender": "m",
+      "number": "s",
+      "species": "Gossypium herbaceum"
+    },
+    {
+      "name": "Algodón de tierras altas",
+      "gender": "m",
+      "number": "s",
+      "species": "Gossypium hirsutum"
+    },
+    {
+      "name": "Algodón mexicano",
+      "gender": "m",
+      "number": "s",
+      "species": "Gossypium hirsutum"
+    },
+    {
+      "name": "Algodón de Pima",
+      "gender": "m",
+      "number": "s",
+      "species": "Gossypium barbadense"
+    },
+    {
+      "name": "Algodón Tangüis",
+      "gender": "m",
+      "number": "s",
+      "species": "Gossypium barbadense"
+    },
+    {
+      "name": "Oruga palustre",
+      "gender": "f",
+      "number": "s",
+      "species": "Rorippa sylvestris"
+    },
+    {
+      "name": "Roqueta palustre",
+      "gender": "f",
+      "number": "s",
+      "species": "Rorippa sylvestris"
+    },
+    {
+      "name": "Hierba de Santa Bárbara",
+      "gender": "f",
+      "number": "s",
+      "species": "Barbarea verna"
+    },
+    {
+      "name": "Yerba de Santa Bárbara",
+      "gender": "f",
+      "number": "s",
+      "species": "Barbarea verna"
+    },
+    {
+      "name": "Roqueta de hortaliza",
+      "gender": "f",
+      "number": "s",
+      "species": "Barbarea verna"
+    },
+    {
+      "name": "Berrillo de Canarias",
+      "gender": "m",
+      "number": "s",
+      "species": "Barbarea verna"
+    },
+    {
+      "name": "Pepino",
+      "gender": "m",
+      "number": "s",
+      "species": "Cucumis sativus"
+    },
+    {
+      "name": "Margarita",
+      "gender": "m",
+      "number": "s",
+      "species": "Bellis perennis"
+    },
+    {
+      "name": "Ortiga muerta",
+      "gender": "f",
+      "number": "s",
+      "species": "Lamium spp., Lamium maculatum"
+    },
+    {
+      "name": "Zapatitos",
+      "gender": "m",
+      "number": "p",
+      "species": "Lamium amplexicaule"
+    },
+    {
+      "name": "Conejitos",
+      "gender": "m",
+      "number": "p",
+      "species": "Lamium amplexicaule"
+    },
+    {
+      "name": "Ortiga mansa",
+      "gender": "f",
+      "number": "s",
+      "species": "Lamium amplexicaule"
+    },
+    {
+      "name": "Clemátide de tres hojas",
+      "gender": "f",
+      "number": "s",
+      "species": "Clematis virginiana, Clematis apiifolia"
+    },
+    {
+      "name": "Cardincha",
+      "gender": "f",
+      "number": "s",
+      "species": "Sonchus arvensis"
+    },
+    {
+      "name": "Moringa",
+      "gender": "f",
+      "number": "s",
+      "species": "Moringa oleifera"
+    },
+    {
+      "name": "Ben",
+      "gender": "m",
+      "number": "s",
+      "species": "Moringa oleifera"
+    },
+    {
+      "name": "Cornejo del Pacífico",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus nuttallii"
+    },
+    {
+      "name": "Sanguiñuelo del Pacífico",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus nuttallii"
+    },
+    {
+      "name": "Hierba mora",
+      "gender": "f",
+      "number": "s",
+      "species": "Solanum nigrum"
+    },
+    {
+      "name": "Tomatillos del diablo",
+      "gender": "m",
+      "number": "p",
+      "species": "Solanum nigrum"
+    },
+    {
+      "name": "Yerba mora",
+      "gender": "f",
+      "number": "s",
+      "species": "Solanum nigrum"
+    },
+    {
+      "name": "Solano negro",
+      "gender": "m",
+      "number": "s",
+      "species": "Solanum nigrum"
+    },
+    {
+      "name": "Uvas de perro",
+      "gender": "f",
+      "number": "p",
+      "species": "Solanum nigrum"
+    },
+    {
+      "name": "Ceñiglos",
+      "gender": "m",
+      "number": "p",
+      "species": "Solanum nigrum"
+    },
+    {
+      "name": "Acebo con baya de tinta",
+      "gender": "m",
+      "number": "s",
+      "species": "Ilex glabra"
+    },
+    {
+      "name": "Eucalipto",
+      "gender": "m",
+      "number": "s",
+      "species": "Eucalyptus spp."
+    },
+    {
+      "name": "Musgo",
+      "gender": "m",
+      "number": "s",
+      "species": "Bryophyta spp."
+    },
+    {
+      "name": "Botón de oro",
+      "gender": "m",
+      "number": "s",
+      "species": "Achillea ptarmica"
+    },
+    {
+      "name": "Botón de plata",
+      "gender": "m",
+      "number": "s",
+      "species": "Achillea ptarmica"
+    },
+    {
+      "name": "Hierba estornudatoria",
+      "gender": "f",
+      "number": "s",
+      "species": "Achillea ptarmica"
+    },
+    {
+      "name": "Ptármica",
+      "gender": "f",
+      "number": "s",
+      "species": "Achillea ptarmica"
+    },
+    {
+      "name": "Tármica",
+      "gender": "f",
+      "number": "s",
+      "species": "Achillea ptarmica"
+    },
+    {
+      "name": "Hinojo",
+      "gender": "m",
+      "number": "s",
+      "species": "Foeniculum vulgare"
+    },
+    {
+      "name": "Helecho común",
+      "gender": "m",
+      "number": "s",
+      "species": "Nephrolepis exaltata"
+    },
+    {
+      "name": "Helecho doméstico",
+      "gender": "m",
+      "number": "s",
+      "species": "Nephrolepis exaltata"
+    },
+    {
+      "name": "Helecho navideño",
+      "gender": "m",
+      "number": "s",
+      "species": "Polystichum acrostichoides"
+    },
+    {
+      "name": "Polipodio de la costa",
+      "gender": "m",
+      "number": "s",
+      "species": "Polypodium scouleri"
+    },
+    {
+      "name": "Helecho reina Kimberly",
+      "gender": "m",
+      "number": "s",
+      "species": "Nephrolepis obliterata"
+    },
+    {
+      "name": "Aspídea de Corea",
+      "gender": "f",
+      "number": "s",
+      "species": "Polystichum tsus-simense"
+    },
+    {
+      "name": "Helecho flotante",
+      "gender": "m",
+      "number": "s",
+      "species": "Azolla caroliniana"
+    },
+    {
+      "name": "Doradilla",
+      "gender": "f",
+      "number": "s",
+      "species": "Azolla caroliniana"
+    },
+    {
+      "name": "Yerba del agua",
+      "gender": "f",
+      "number": "s",
+      "species": "Azolla caroliniana"
+    },
+    {
+      "name": "Helecho de espada",
+      "gender": "m",
+      "number": "s",
+      "species": "Polystichum spp."
+    },
+    {
+      "name": "Helecho de espada occidental",
+      "gender": "m",
+      "number": "s",
+      "species": "Polystichum munitum"
+    },
+    {
+      "name": "Magarza",
+      "gender": "f",
+      "number": "s",
+      "species": "Tanacetum parthenium"
+    },
+    {
+      "name": "Manzanilla",
+      "gender": "f",
+      "number": "s",
+      "species": "Tanacetum parthenium"
+    },
+    {
+      "name": "Hierba de Santa María",
+      "gender": "f",
+      "number": "s",
+      "species": "Tanacetum parthenium"
+    },
+    {
+      "name": "Higuera",
+      "gender": "f",
+      "number": "s",
+      "species": "Ficus spp."
+    },
+    {
+      "name": "Higuera común",
+      "gender": "f",
+      "number": "s",
+      "species": "Ficus carica"
+    },
+    {
+      "name": "Lino",
+      "gender": "m",
+      "number": "s",
+      "species": "Linum usitatissimum"
+    },
+    {
+      "name": "Lino de Nueva Zelanda",
+      "gender": "m",
+      "number": "s",
+      "species": "Phormium tenax, Phormium colensoi"
+    },
+    {
+      "name": "Cebolleta",
+      "gender": "f",
+      "number": "s",
+      "species": "Allium moly"
+    },
+    {
+      "name": "Ajo silvestre en Norteamérica",
+      "gender": "m",
+      "number": "s",
+      "species": "Allium canadense"
+    },
+    {
+      "name": "Aliaria",
+      "gender": "f",
+      "number": "s",
+      "species": "Alliaria petiolata"
+    },
+    {
+      "name": "Hierba del ajo",
+      "gender": "f",
+      "number": "s",
+      "species": "Alliaria petiolata"
+    },
+    {
+      "name": "Ajera",
+      "gender": "f",
+      "number": "s",
+      "species": "Alliaria petiolata"
+    },
+    {
+      "name": "Juliana",
+      "gender": "f",
+      "number": "s",
+      "species": "Hesperis matronalis"
+    },
+    {
+      "name": "Matronal",
+      "gender": "f",
+      "number": "s",
+      "species": "Hesperis matronalis"
+    },
+    {
+      "name": "Violeta de los jardines",
+      "gender": "f",
+      "number": "s",
+      "species": "Hesperis matronalis"
+    },
+    {
+      "name": "Tanaceto",
+      "gender": "m",
+      "number": "s",
+      "species": "Tanacetum vulgare"
+    },
+    {
+      "name": "Hierba lombriguera",
+      "gender": "f",
+      "number": "s",
+      "species": "Tanacetum vulgare"
+    },
+    {
+      "name": "Tansi",
+      "gender": "m",
+      "number": "s",
+      "species": "Tanacetum vulgare"
+    },
+    {
+      "name": "Flor de la pluma",
+      "gender": "f",
+      "number": "s",
+      "species": "Achillea millefolium"
+    },
+    {
+      "name": "Perejil bravío",
+      "gender": "m",
+      "number": "s",
+      "species": "Achillea millefolium"
+    },
+    {
+      "name": "Árbol del pomelo",
+      "gender": "m",
+      "number": "s",
+      "species": "Citrus × paradisi"
+    },
+    {
+      "name": "Pomel",
+      "gender": "m",
+      "number": "s",
+      "species": "Citrus × paradisi"
+    },
+    {
+      "name": "Pomelero",
+      "gender": "m",
+      "number": "s",
+      "species": "Citrus × paradisi"
+    },
+    {
+      "name": "Toronjo",
+      "gender": "m",
+      "number": "s",
+      "species": "Citrus × paradisi"
+    },
+    {
+      "name": "Vid",
+      "gender": "f",
+      "number": "s",
+      "species": "Vitis"
+    },
+    {
+      "name": "Cerraja",
+      "gender": "f",
+      "number": "s",
+      "species": "Sonchus arvensis"
+    },
+    {
+      "name": "Ardincha",
+      "gender": "f",
+      "number": "s",
+      "species": "Sonchus arvensis"
+    },
+    {
+      "name": "Cúrcuma",
+      "gender": "f",
+      "number": "s",
+      "species": "Curcuma domestica"
+    },
+    {
+      "name": "Eléboro",
+      "gender": "m",
+      "number": "s",
+      "species": "Helleborus"
+    },
+    {
+      "name": "Falso eléboro negro",
+      "gender": "m",
+      "number": "s",
+      "species": "Veratrum nigrum"
+    },
+    {
+      "name": "Ballestera",
+      "gender": "f",
+      "number": "s",
+      "species": "Veratrum album"
+    },
+    {
+      "name": "Ballestera blanca",
+      "gender": "f",
+      "number": "s",
+      "species": "Veratrum album"
+    },
+    {
+      "name": "Eléboro blanco",
+      "gender": "m",
+      "number": "s",
+      "species": "Veratrum album"
+    },
+    {
+      "name": "Rizoma de veratro",
+      "gender": "f",
+      "number": "s",
+      "species": "Veratrum album"
+    },
+    {
+      "name": "Hierba de ballesteros",
+      "gender": "f",
+      "number": "s",
+      "species": "Veratrum album"
+    },
+    {
+      "name": "Surbia",
+      "gender": "f",
+      "number": "s",
+      "species": "Veratrum album"
+    },
+    {
+      "name": "Vedegambre",
+      "gender": "f",
+      "number": "s",
+      "species": "Veratrum album"
+    },
+    {
+      "name": "Cáñamo",
+      "gender": "m",
+      "number": "s",
+      "species": "Cannabis spp., en concreto Cannabis sativa"
+    },
+    {
+      "name": "Apocino del Canadá",
+      "gender": "m",
+      "number": "s",
+      "species": "Apocynum cannabinum"
+    },
+    {
+      "name": "Cáñamo del Canadá",
+      "gender": "m",
+      "number": "s",
+      "species": "Apocynum cannabinum"
+    },
+    {
+      "name": "Baba de bebé",
+      "gender": "f",
+      "number": "s",
+      "species": "Sempervivum tectorum"
+    },
+    {
+      "name": "Consolva",
+      "gender": "f",
+      "number": "s",
+      "species": "Sempervivum tectorum"
+    },
+    {
+      "name": "Siempreviva mayor",
+      "gender": "f",
+      "number": "s",
+      "species": "Sempervivum tectorum"
+    },
+    {
+      "name": "Alcachofa de gatos",
+      "gender": "f",
+      "number": "s",
+      "species": "Sempervivum tectorum"
+    },
+    {
+      "name": "Algodoncillo de México",
+      "gender": "m",
+      "number": "s",
+      "species": "Asclepias incarnata"
+    },
+    {
+      "name": "Soldadillo de México",
+      "gender": "m",
+      "number": "s",
+      "species": "Asclepias incarnata"
+    },
+    {
+      "name": "Castilleja",
+      "gender": "f",
+      "number": "s",
+      "species": "Castilleja, Castilleja mutis, Asclepias tuberosa"
+    },
+    {
+      "name": "Col de la isla de Man",
+      "gender": "f",
+      "number": "s",
+      "species": "Coincya monensis"
+    },
+    {
+      "name": "Hiedra",
+      "gender": "f",
+      "number": "s",
+      "species": "Hedera spp."
+    },
+    {
+      "name": "Carrasquilla",
+      "gender": "f",
+      "number": "s",
+      "species": "Amelanchier canadensis"
+    },
+    {
+      "name": "Enebro",
+      "gender": "m",
+      "number": "s",
+      "species": "Juniperus spp."
+    },
+    {
+      "name": "Sabina",
+      "gender": "f",
+      "number": "s",
+      "species": "Juniperus spp."
+    },
+    {
+      "name": "Cornejo de kousa",
+      "gender": "m",
+      "number": "s",
+      "species": "Cornus kousa"
+    },
+    {
+      "name": "Kudzu",
+      "gender": "m",
+      "number": "s",
+      "species": "Pueraria lobata"
+    },
+    {
+      "name": "Lavanda",
+      "gender": "f",
+      "number": "s",
+      "species": "Lavandula"
+    },
+    {
+      "name": "Alhucema",
+      "gender": "f",
+      "number": "s",
+      "species": "Lavandula"
+    },
+    {
+      "name": "Espliego",
+      "gender": "m",
+      "number": "s",
+      "species": "Lavandula"
+    },
+    {
+      "name": "Cantueso",
+      "gender": "m",
+      "number": "s",
+      "species": "Lavandula"
+    },
+    {
+      "name": "Puerro",
+      "gender": "m",
+      "number": "s",
+      "species": "Allium"
+    },
+    {
+      "name": "Limón",
+      "gender": "m",
+      "number": "s",
+      "species": "Citrus × limon"
+    },
+    {
+      "name": "Lechuga",
+      "gender": "f",
+      "number": "s",
+      "species": "Lactuca sativa"
+    },
+    {
+      "name": "Barbas de chivo",
+      "gender": "f",
+      "number": "p",
+      "species": "Clematis virginiana"
+    },
+    {
+      "name": "Barbas de viejo",
+      "gender": "f",
+      "number": "p",
+      "species": "Clematis virginiana"
+    },
+    {
+      "name": "Cabeza de viejo",
+      "gender": "f",
+      "number": "s",
+      "species": "Clematis virginiana"
+    },
+    {
+      "name": "Chilillo",
+      "gender": "m",
+      "number": "s",
+      "species": "Clematis virginiana"
+    },
+    {
+      "name": "Chilillo de cerro",
+      "gender": "m",
+      "number": "s",
+      "species": "Clematis virginiana"
+    },
+    {
+      "name": "Maíz",
+      "gender": "m",
+      "number": "s",
+      "species": "Zea mays"
+    },
+    {
+      "name": "Mango",
+      "gender": "m",
+      "number": "s",
+      "species": "Mangifera indica"
+    },
+    {
+      "name": "Arce",
+      "gender": "m",
+      "number": "s",
+      "species": "Acer"
+    },
+    {
+      "name": "Arce tridente",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer buergerianum"
+    },
+    {
+      "name": "Arce campestre",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer campestre"
+    },
+    {
+      "name": "Arce menor",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer campestre"
+    },
+    {
+      "name": "Arce silvestre",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer campestre"
+    },
+    {
+      "name": "Arce rojo japonés",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer capillipes"
+    },
+    {
+      "name": "Arce de Capadocia",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer cappadocicum"
+    },
+    {
+      "name": "Arce de hojas de carpe",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer carpinifolium"
+    },
+    {
+      "name": "Arce enredadera",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer circinatum"
+    },
+    {
+      "name": "Arce de parra",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer cissifolium"
+    },
+    {
+      "name": "Arce de corteza de serpiente",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer davidii"
+    },
+    {
+      "name": "Arce chino gris",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer griseum"
+    },
+    {
+      "name": "Arce de papel",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer griseum"
+    },
+    {
+      "name": "Arce griego",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer heldreichii"
+    },
+    {
+      "name": "Arce afelpado japonés",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer japonicum"
+    },
+    {
+      "name": "Arce suave",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer laevigatum "
+    },
+    {
+      "name": "Arce nepal",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer laevigatum "
+    },
+    {
+      "name": "Arce de hoja grande",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer macrophyllum"
+    },
+    {
+      "name": "Arce de Oregón",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer macrophyllum"
+    },
+    {
+      "name": "Pterocaria china",
+      "gender": "f",
+      "number": "s",
+      "species" : "Acer mairei"
+    },
+    {
+      "name": "Fresno chino",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer mairei"
+    },
+    {
+      "name": "Nuez china",
+      "gender": "f",
+      "number": "s",
+      "species" : "Acer mairei"
+    },
+    {
+      "name": "Arce manchuriano",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer mandshuricum"
+    },
+    {
+      "name": "Arce nikko",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer maximowiczianum"
+    },
+    {
+      "name": "Arce de Montpellier",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer monspessulanum"
+    },
+    {
+      "name": "Enguelgue",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer monspessulanum"
+    },
+    {
+      "name": "Mundillo",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer monspessulanum"
+    },
+    {
+      "name": "Acezintle",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer negundo"
+    },
+    {
+      "name": "Arce negundo",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer negundo"
+    },
+    {
+      "name": "Negundo",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer negundo"
+    },
+    {
+      "name": "Arce oliver",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer oliverianum"
+    },
+    {
+      "name": "Orón",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer opalus"
+    },
+    {
+      "name": "Asar",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer opalus"
+    },
+    {
+      "name": "Arce palmado",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer palmatum"
+    },
+    {
+      "name": "Arce japonés",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer palmatum"
+    },
+    {
+      "name": "Arce polimorfo",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer palmatum"
+    },
+    {
+      "name": "Arce de Pensilvania",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer pensylvanicum"
+    },
+    {
+      "name": "Arce real",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer platanoides"
+    },
+    {
+      "name": "Arce noruego",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer platanoides"
+    },
+    {
+      "name": "Arce coreano",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer pseudosieboldianum "
+    },
+    {
+      "name": "Arce de flor púrpura",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer pseudosieboldianum "
+    },
+    {
+      "name": "Arce rojo",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer rubrum"
+    },
+    {
+      "name": "Arce de venas rojas",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer rufinerve "
+    },
+    {
+      "name": "Arce de azúcar",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer saccharinum"
+    },
+    {
+      "name": "Arce de plateado",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer saccharinum"
+    },
+    {
+      "name": "Arce blanco americano",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer saccharinum"
+    },
+    {
+      "name": "Arce azucarero",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer saccharum"
+    },
+    {
+      "name": "Arce de Tataria",
+      "gender": "m",
+      "number": "s",
+      "species" : "Acer tataricum"
+    },
+    {
+      "name": "Mezquite",
+      "gender": "m",
+      "number": "s",
+      "species": "Prosopis"
+    },
+    {
+      "name": "Mezquite dulce",
+      "gender": "m",
+      "number": "s",
+      "species": "Prosopis glandulosa, Prosopis pubescens"
+    },
+    {
+      "name": "Tornillo",
+      "gender": "m",
+      "number": "s",
+      "species": "Prosopis pubescens"
+    },
+    {
+      "name": "Nimbo de la India",
+      "gender": "m",
+      "number": "s",
+      "species": "Azadirachta indica"
+    },
+    {
+      "name": "Margosa de la India",
+      "gender": "f",
+      "number": "s",
+      "species": "Azadirachta indica"
+    },
+    {
+      "name": "Nim",
+      "gender": "m",
+      "number": "s",
+      "species": "Azadirachta indica"
+    },
+    {
+      "name": "Neem",
+      "gender": "m",
+      "number": "s",
+      "species": "Azadirachta indica"
+    },
+    {
+      "name": "Lila india",
+      "gender": "f",
+      "number": "s",
+      "species": "Azadirachta indica"
+    },
+    {
+      "name": "Roble azul",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus douglasii"
+    },
+    {
+      "name": "Roble bur",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus macrocarpa"
+    },
+    {
+      "name": "Roble rojo americano",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus rubra"
+    },
+    {
+      "name": "Roble rojo del norte",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus rubra"
+    },
+    {
+      "name": "Encina de California",
+      "gender": "f",
+      "number": "s",
+      "species": "Quercus agrifolia"
+    },
+    {
+      "name": "Encino de la costa",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus agrifolia"
+    },
+    {
+      "name": "Alcornoque mediterráneo",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus suber"
+    },
+    {
+      "name": "Quercitrón",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus velutina"
+    },
+    {
+      "name": "Cuercitrón",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus velutina"
+    },
+    {
+      "name": "Encina tintórea",
+      "gender": "f",
+      "number": "s",
+      "species": "Quercus velutina"
+    },
+    {
+      "name": "Roble negro del este",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus velutina'"
+    },
+    {
+      "name": "Roble común",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus robur"
+    },
+    {
+      "name": "Roble carballo",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus robur"
+    },
+    {
+      "name": "Cajiga",
+      "gender": "f",
+      "number": "s",
+      "species": "Quercus robur"
+    },
+    {
+      "name": "Roble fresnal",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus robur"
+    },
+    {
+      "name": "Encino de las islas",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus tomentella"
+    },
+    {
+      "name": "Roble andaluz",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus canariensis"
+    },
+    {
+      "name": "Quejigo andaluz",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus canariensis"
+    },
+    {
+      "name": "Roble palustre americano",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus palustris"
+    },
+    {
+      "name": "Roble de los pantanos",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus palustris"
+    },
+    {
+      "name": "Roble escarlata",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus coccinea"
+    },
+    {
+      "name": "Roble albar",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus petraea"
+    },
+    {
+      "name": "Roble del invierno",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus petraea"
+    },
+    {
+      "name": "Roble bicolor",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus bicolor"
+    },
+    {
+      "name": "Roble de los valles",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus lobata"
+    },
+    {
+      "name": "Roble blanco americano",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus alba"
+    },
+    {
+      "name": "Roble blanco",
+      "gender": "m",
+      "number": "s",
+      "species": "Quercus alba"
+    },
+    {
+      "name": "Olivo",
+      "gender": "m",
+      "number": "s",
+      "species": "Olea europaea"
+    },
+    {
+      "name": "Olivera",
+      "gender": "f",
+      "number": "s",
+      "species": "Olea europaea"
+    },
+    {
+      "name": "Aceituno",
+      "gender": "m",
+      "number": "s",
+      "species": "Olea europaea"
+    },
+    {
+      "name": "Cebolla común",
+      "gender": "f",
+      "number": "s",
+      "species": "Allium cepa"
+    },
+    {
+      "name": "Ajo gigante",
+      "gender": "m",
+      "number": "s",
+      "species": "Allium giganteum"
+    },
+    {
+      "name": "Ajo de flor gigante",
+      "gender": "m",
+      "number": "s",
+      "species": "Allium giganteum"
+    },
+    {
+      "name": "Naranjo",
+      "gender": "m",
+      "number": "s",
+      "species": "Citrus × sinensis"
+    },
+    {
+      "name": "Naranjero",
+      "gender": "m",
+      "number": "s",
+      "species": "Citrus × sinensis"
+    },
+    {
+      "name": "Naranjo dulce",
+      "gender": "m",
+      "number": "s",
+      "species": "Citrus × sinensis"
+    },
+    {
+      "name": "Perejil",
+      "gender": "m",
+      "number": "s",
+      "species": "Petroselinum crispum"
+    },
+    {
+      "name": "Apio de campo",
+      "gender": "m",
+      "number": "s",
+      "species": "Pastinaca sativa"
+    },
+    {
+      "name": "Guisante",
+      "gender": "m",
+      "number": "s",
+      "species": "Pisum sativum"
+    },
+    {
+      "name": "Cacahuete",
+      "gender": "m",
+      "number": "s",
+      "species": "Arachis hypogaea"
+    },
+    {
+      "name": "Cacahuate",
+      "gender": "m",
+      "number": "s",
+      "species": "Arachis hypogaea"
+    },
+    {
+      "name": "Caguate",
+      "gender": "m",
+      "number": "s",
+      "species": "Arachis hypogaea"
+    },
+    {
+      "name": "Maní",
+      "gender": "m",
+      "number": "s",
+      "species": "Arachis hypogaea"
+    },
+    {
+      "name": "Peral",
+      "gender": "m",
+      "number": "s",
+      "species": "Pyrus"
+    },
+    {
+      "name": "Mastuerzo menor",
+      "gender": "m",
+      "number": "s",
+      "species": "Cardamine concatenata"
+    },
+    {
+      "name": "Pino",
+      "gender": "m",
+      "number": "s",
+      "species": "Pinus"
+    },
+    {
+      "name": "Ananá",
+      "gender": "m",
+      "number": "s",
+      "species": "Ananas comosus"
+    },
+    {
+      "name": "Ananás",
+      "gender": "m",
+      "number": "s",
+      "species": "Ananas comosus"
+    },
+    {
+      "name": "Matzatli",
+      "gender": "m",
+      "number": "s",
+      "species": "Ananas comosus"
+    },
+    {
+      "name": "Piña",
+      "gender": "f",
+      "number": "s",
+      "species": "Ananas comosus"
+    },
+    {
+      "name": "Alfóncigo",
+      "gender": "m",
+      "number": "s",
+      "species": "Pistacia vera"
+    },
+    {
+      "name": "Alfónsigo",
+      "gender": "m",
+      "number": "s",
+      "species": "Pistacia vera"
+    },
+    {
+      "name": "Pistachero",
+      "gender": "m",
+      "number": "s",
+      "species": "Pistacia vera"
+    },
+    {
+      "name": "Plátano de sombra",
+      "gender": "m",
+      "number": "s",
+      "species": "Platanus acerifolia"
+    },
+    {
+      "name": "Guan de México",
+      "gender": "m",
+      "number": "s",
+      "species": "Toxicodendron radicans"
+    },
+    {
+      "name": "Zumaque venenoso",
+      "gender": "m",
+      "number": "s",
+      "species": "Toxicodendron radicans"
+    },
+    {
+      "name": "Hiedra venenosa",
+      "gender": "f",
+      "number": "s",
+      "species": "Toxicodendron radicans"
+    },
+    {
+      "name": "Álamo",
+      "gender": "m",
+      "number": "s",
+      "species": "Populus"
+    },
+    {
+      "name": "Chopo",
+      "gender": "m",
+      "number": "s",
+      "species": "Populus"
+    },
+    {
+      "name": "Trompeto",
+      "gender": "m",
+      "number": "s",
+      "species": "Papaveraceae"
+    },
+    {
+      "name": "Curarador",
+      "gender": "m",
+      "number": "s",
+      "species": "Papaveraceae"
+    },
+    {
+      "name": "Mano de tigre",
+      "gender": "f",
+      "number": "s",
+      "species": "Papaveraceae"
+    },
+    {
+      "name": "Patata",
+      "gender": "f",
+      "number": "s",
+      "species": "Solanum tuberosum"
+    },
+    {
+      "name": "Menta",
+      "gender": "f",
+      "number": "s",
+      "species": "Mentha indica"
+    },
+    {
+      "name": "Perifollo verde",
+      "gender": "m",
+      "number": "s",
+      "species": "Daucus carota, Anthriscus sylvestris"
+    },
+    {
+      "name": "Senecio",
+      "gender": "m",
+      "number": "s",
+      "species": "Senecio"
+    },
+    {
+      "name": "Senecio común",
+      "gender": "m",
+      "number": "s",
+      "species": "Senecio jacobaea, Senecio aquaticus, Senecio vulgaris"
+    },
+    {
+      "name": "Suzón",
+      "gender": "m",
+      "number": "s",
+      "species": "Senecio erucifolius"
+    },
+    {
+      "name": "Zuzón",
+      "gender": "m",
+      "number": "s",
+      "species": "Senecio erucifolius"
+    },
+    {
+      "name": "Senecio cineraria",
+      "gender": "m",
+      "number": "s",
+      "species": "Senecio cineraria"
+    },
+    {
+      "name": "Senecio bicolor",
+      "gender": "m",
+      "number": "s",
+      "species": "Senecio cineraria"
+    },
+    {
+      "name": "Raps",
+      "gender": "m",
+      "number": "s",
+      "species": "Brassica napus"
+    },
+    {
+      "name": "Canola​",
+      "gender": "f",
+      "number": "s",
+      "species": "Brassica napus"
+    },
+    {
+      "name": "Colza",
+      "gender": "f",
+      "number": "s",
+      "species": "Brassica napus"
+    },
+    {
+      "name": "Ciclamor",
+      "gender": "m",
+      "number": "s",
+      "species": "Cercis spp."
+    },
+    {
+      "name": "Árbol de Judas",
+      "gender": "m",
+      "number": "s",
+      "species": "Cercis spp."
+    },
+    {
+      "name": "Árbol del amor específico",
+      "gender": "m",
+      "number": "s",
+      "species": "Cercis spp."
+    },
+    {
+      "name": "Amor del Canadá",
+      "gender": "m",
+      "number": "s",
+      "species": "Cercis canadensis"
+    },
+    {
+      "name": "Ciclamor del Canadá",
+      "gender": "m",
+      "number": "s",
+      "species": "Cercis canadensis"
+    },
+    {
+      "name": "Ruibarbo",
+      "gender": "m",
+      "number": "s",
+      "species": "Rheum rhabarbarum"
+    },
+    {
+      "name": "Arroz",
+      "gender": "m",
+      "number": "s",
+      "species": "Oryza sativa"
+    },
+    {
+      "name": "Arroz africano",
+      "gender": "m",
+      "number": "s",
+      "species": "Oryza glaberrima"
+    },
+    {
+      "name": "Arúgula",
+      "gender": "f",
+      "number": "s",
+      "species": "Eruca vesicaria"
+    },
+    {
+      "name": "Oruga",
+      "gender": "f",
+      "number": "s",
+      "species": "Eruca vesicaria"
+    },
+    {
+      "name": "Ruca",
+      "gender": "f",
+      "number": "s",
+      "species": "Eruca vesicaria"
+    },
+    {
+      "name": "Rúcula",
+      "gender": "f",
+      "number": "s",
+      "species": "Eruca vesicaria"
+    },
+    {
+      "name": "Roqueta",
+      "gender": "f",
+      "number": "s",
+      "species": "Eruca vesicaria"
+    },
+    {
+      "name": "Rosa",
+      "gender": "f",
+      "number": "s",
+      "species": "Rosa"
+    },
+    {
+      "name": "Rosa bebé",
+      "gender": "f",
+      "number": "s",
+      "species": "Rosa multiflora"
+    },
+    {
+      "name": "Rosa vagabunda",
+      "gender": "f",
+      "number": "s",
+      "species": "Rosa multiflora"
+    },
+    {
+      "name": "Romero",
+      "gender": "m",
+      "number": "s",
+      "species": "Rosmarinus officinalis"
+    },
+    {
+      "name": "Centeno",
+      "gender": "m",
+      "number": "s",
+      "species": "Secale cereale"
+    },
+    {
+      "name": "Azafrán",
+      "gender": "m",
+      "number": "s",
+      "species": "Crocus sativus"
+    },
+    {
+      "name": "Guillomo",
+      "gender": "m",
+      "number": "s",
+      "species": "Amelanchier"
+    },
+    {
+      "name": "Guillomo del Canadá",
+      "gender": "m",
+      "number": "s",
+      "species": "Amelanchier canadensis"
+    },
+    {
+      "name": "Cornillo",
+      "gender": "m",
+      "number": "s",
+      "species": "Amelanchier canadensis"
+    },
+    {
+      "name": "Carrasquilla",
+      "gender": "m",
+      "number": "s",
+      "species": "Amelanchier canadensis"
+    },
+    {
+      "name": "Galanto",
+      "gender": "m",
+      "number": "s",
+      "species": "Galanthus"
+    },
+    {
+      "name": "Campanilla de Invierno",
+      "gender": "f",
+      "number": "s",
+      "species": "Galanthus nivalis"
+    },
+    {
+      "name": "Sorrel",
+      "gender": "m",
+      "number": "s",
+      "species": "Oxalis"
+    },
+    {
+      "name": "Oca",
+      "gender": "f",
+      "number": "s",
+      "species": "Oxalis oregana"
+    },
+    {
+      "name": "Vinagrera",
+      "gender": "f",
+      "number": "s",
+      "species": "Oxalis oregana"
+    },
+    {
+      "name": "Borroncillo",
+      "gender": "m",
+      "number": "s",
+      "species": "Veronica arvensis"
+    },
+    {
+      "name": "Estrella de Persia",
+      "gender": "f",
+      "number": "s",
+      "species": "Allium cristophii"
+    },
+    {
+      "name": "Cebolla persa",
+      "gender": "f",
+      "number": "s",
+      "species": "Allium cristophii"
+    },
+    {
+      "name": "Fresa",
+      "gender": "f",
+      "number": "s",
+      "species": "Fragaria × ananassa"
+    },
+    {
+      "name": "Fresón",
+      "gender": "m",
+      "number": "s",
+      "species": "Fragaria × ananassa"
+    },
+    {
+      "name": "Frutilla",
+      "gender": "f",
+      "number": "s",
+      "species": "Fragaria × ananassa"
+    },
+    {
+      "name": "Madroño",
+      "gender": "m",
+      "number": "s",
+      "species": "Arbutus unedo"
+    },
+    {
+      "name": "Caña de azúcar",
+      "gender": "f",
+      "number": "s",
+      "species": "Saccharum"
+    },
+    {
+      "name": "Girasol",
+      "gender": "m",
+      "number": "s",
+      "species": "Helianthus annuus"
+    },
+    {
+      "name": "Batata",
+      "gender": "f",
+      "number": "s",
+      "species": "Ipomoea batatas"
+    },
+    {
+      "name": "Patata dulce",
+      "gender": "f",
+      "number": "s",
+      "species": "Ipomoea batatas"
+    },
+    {
+      "name": "Papa dulce",
+      "gender": "f",
+      "number": "s",
+      "species": "Ipomoea batatas"
+    },
+    {
+      "name": "Camote",
+      "gender": "m",
+      "number": "s",
+      "species": "Ipomoea batatas"
+    },
+    {
+      "name": "Moniato",
+      "gender": "m",
+      "number": "s",
+      "species": "Ipomoea batatas"
+    },
+    {
+      "name": "Boniato",
+      "gender": "m",
+      "number": "s",
+      "species": "Ipomoea batatas"
+    },
+    {
+      "name": "Sicómoro",
+      "gender": "m",
+      "number": "s",
+      "species": "Platanus spp."
+    },
+    {
+      "name": "Planta de té",
+      "gender": "f",
+      "number": "s",
+      "species": "Camellia sinensis"
+    },
+    {
+      "name": "Cardo",
+      "gender": "m",
+      "number": "s",
+      "species": "(Numerosos géneros)"
+    },
+    {
+      "name": "Cardo cundidor",
+      "gender": "m",
+      "number": "s",
+      "species": "Cirsium arvense"
+    },
+    {
+      "name": "Tomillo",
+      "gender": "m",
+      "number": "s",
+      "species": "Thymus, en concreto Thymus vulgaris"
+    },
+    {
+      "name": "Tabaco",
+      "gender": "m",
+      "number": "s",
+      "species": "Nicotiana"
+    },
+    {
+      "name": "Tomate",
+      "gender": "m",
+      "number": "s",
+      "species": "Solanum lycopersicum"
+    },
+    {
+      "name": "Palán palán",
+      "gender": "m",
+      "number": "s",
+      "species": "Nicotiana glauca"
+    },
+    {
+      "name": "Tulipán",
+      "gender": "m",
+      "number": "s",
+      "species": "Tulipa"
+    },
+    {
+      "name": "Vainilla",
+      "gender": "f",
+      "number": "s",
+      "species": "Vanilla"
+    },
+    {
+      "name": "Viburno",
+      "gender": "m",
+      "number": "s",
+      "species": "Viburnum"
+    },
+    {
+      "name": "Violeta",
+      "gender": "f",
+      "number": "s",
+      "species": "(Numerosos géneros)"
+    },
+    {
+      "name": "Diente de perro",
+      "gender": "m",
+      "number": "s",
+      "species": "Erythronium dens-canis"
+    },
+    {
+      "name": "Diente sangriento",
+      "gender": "m",
+      "number": "s",
+      "species": "Erythronium dens-canis"
+    },
+    {
+      "name": "Mantecón",
+      "gender": "m",
+      "number": "s",
+      "species": "Erythronium dens-canis"
+    },
+    {
+      "name": "Nogal",
+      "gender": "m",
+      "number": "s",
+      "species": "Juglans sp."
+    },
+    {
+      "name": "Trigo",
+      "gender": "m",
+      "number": "s",
+      "species": "Triticum spp."
+    },
+    {
+      "name": "Sauce",
+      "gender": "m",
+      "number": "s",
+      "species": "Salix"
+    },
+    {
+      "name": "Sauce de hoja estrecha",
+      "gender": "m",
+      "number": "s",
+      "species": "Salix exigua"
+    },
+    {
+      "name": "Sauce de Gooddin",
+      "gender": "m",
+      "number": "s",
+      "species": "Salix gooddingii"
+    },
+    {
+      "name": "Sauce negro",
+      "gender": "m",
+      "number": "s",
+      "species": "Salix gooddingii"
+    },
+    {
+      "name": "Milenrama",
+      "gender": "f",
+      "number": "s",
+      "species": "Achillea spp., Achillea millefolium"
+    },
+    {
+      "name": "Milenrama dorada",
+      "gender": "f",
+      "number": "s",
+      "species": "Achillea filipendulina"
+    },
+    {
+      "name": "Milenrama borrosa",
+      "gender": "f",
+      "number": "s",
+      "species": "Achillea tomentosa"
+    },
+    {
+      "name": "Estratiote",
+      "gender": "m",
+      "number": "s",
+      "species": "Achillea tomentosa"
+    },
+    {
+      "name": "Virgilia",
+      "gender": "f",
+      "number": "s",
+      "species": "Cladrastis lutea"
+    },
+    {
+      "name": "Tamoilán de Filipinas",
+      "gender": "m",
+      "number": "s",
+      "species": "Curcuma zedoaria"
+    },
+    {
+      "name": "Zedoaria",
+      "gender": "f",
+      "number": "s",
+      "species": "Curcuma zedoaria"
+    }
+  ]
+}
