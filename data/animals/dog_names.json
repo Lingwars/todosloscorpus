@@ -1,0 +1,289 @@
+{
+  "description": "Nombres de mascota comunes para perros (compilación propia).",
+  "dog_names": [
+      {
+        "name": "Apolo",
+        "gender": "m"
+      },
+      {
+        "name": "Atila",
+        "gender": "m"
+      },
+      {
+        "name": "Bella",
+        "gender": "f"
+      },
+      {
+        "name": "Bimba",
+        "gender": "f"
+      },
+      {
+        "name": "Bobby",
+        "gender": "m"
+      },
+      {
+        "name": "Bola",
+        "gender": "c"
+      },
+      {
+        "name": "Bruno",
+        "gender": "m"
+      },
+      {
+        "name": "Buda",
+        "gender": "m"
+      },
+      {
+        "name": "Canela",
+        "gender": "f"
+      },
+      {
+        "name": "Chip",
+        "gender": "c"
+      },
+      {
+        "name": "Chiqui",
+        "gender": "c"
+      },
+      {
+        "name": "Chispa",
+        "gender": "c"
+      },
+      {
+        "name": "Chloé",
+        "gender": "f"
+      },
+      {
+        "name": "Coco",
+        "gender": "c"
+      },
+      {
+        "name": "Cuqui",
+        "gender": "c"
+      },
+      {
+        "name": "Dama",
+        "gender": "f"
+      },
+      {
+        "name": "Denver",
+        "gender": "m"
+      },
+      {
+        "name": "Drogo",
+        "gender": "m"
+      },
+      {
+        "name": "Duque",
+        "gender": "m"
+      },
+      {
+        "name": "Duna",
+        "gender": "f"
+      },
+      {
+        "name": "Fofó",
+        "gender": "m"
+      },
+      {
+        "name": "Gala",
+        "gender": "f"
+      },
+      {
+        "name": "Golfo",
+        "gender": "m"
+      },
+      {
+        "name": "Kiwi",
+        "gender": "c"
+      },
+      {
+        "name": "Kira",
+        "gender": "f"
+      },
+      {
+        "name": "Laika",
+        "gender": "f"
+      },
+      {
+        "name": "Leo",
+        "gender": "m"
+      },
+      {
+        "name": "Linda",
+        "gender": "f"
+      },
+      {
+        "name": "Lola",
+        "gender": "f"
+      },
+      {
+        "name": "Lucas",
+        "gender": "m"
+      },
+      {
+        "name": "Luna",
+        "gender": "f"
+      },
+      {
+        "name": "Max",
+        "gender": "m"
+      },
+      {
+        "name": "Maya",
+        "gender": "f"
+      },
+      {
+        "name": "Mia",
+        "gender": "f"
+      },
+      {
+        "name": "Milú",
+        "gender": "m"
+      },
+      {
+        "name": "Moro",
+        "gender": "m"
+      },
+      {
+        "name": "Nala",
+        "gender": "f"
+      },
+      {
+        "name": "Neska",
+        "gender": "f"
+      },
+      {
+        "name": "Niebla",
+        "gender": "c"
+      },
+      {
+        "name": "Nina",
+        "gender": "f"
+      },
+      {
+        "name": "Noa",
+        "gender": "f"
+      },
+      {
+        "name": "Nube",
+        "gender": "c"
+      },
+      {
+        "name": "Oslo",
+        "gender": "m"
+      },
+      {
+        "name": "Pancho",
+        "gender": "m"
+      },
+      {
+        "name": "Patitas",
+        "gender": "c"
+      },
+      {
+        "name": "Pecas",
+        "gender": "c"
+      },
+      {
+        "name": "Perla",
+        "gender": "f"
+      },
+      {
+        "name": "Pistacho",
+        "gender": "m"
+      },
+      {
+        "name": "Pitágoras",
+        "gender": "m"
+      },
+      {
+        "name": "Princesa",
+        "gender": "f"
+      },
+      {
+        "name": "Pulga",
+        "gender": "c"
+      },
+      {
+        "name": "Rex",
+        "gender": "m"
+      },
+      {
+        "name": "Rocky",
+        "gender": "m"
+      },
+      {
+        "name": "Rocco",
+        "gender": "m"
+      },
+      {
+        "name": "Romeo",
+        "gender": "m"
+      },
+      {
+        "name": "Rubia",
+        "gender": "f"
+      },
+      {
+        "name": "Rufo",
+        "gender": "m"
+      },
+      {
+        "name": "Simba",
+        "gender": "m"
+      },
+      {
+        "name": "Scooby",
+        "gender": "m"
+      },
+      {
+        "name": "Sultán",
+        "gender": "m"
+      },
+      {
+        "name": "Thor",
+        "gender": "m"
+      },
+      {
+        "name": "Tina",
+        "gender": "f"
+      },
+      {
+        "name": "Toby",
+        "gender": "m"
+      },
+      {
+        "name": "Toni",
+        "gender": "m"
+      },
+      {
+        "name": "Trotsky",
+        "gender": "m"
+      },
+      {
+        "name": "Turrón",
+        "gender": "m"
+      },
+      {
+        "name": "Tyson",
+        "gender": "m"
+      },
+      {
+        "name": "Zar",
+        "gender": "m"
+      },
+      {
+        "name": "Zeus",
+        "gender": "m"
+      },
+      {
+        "name": "Zoe",
+        "gender": "f"
+      },
+      {
+        "name": "Zuri",
+        "gender": "c"
+      },
+  ]
+}
