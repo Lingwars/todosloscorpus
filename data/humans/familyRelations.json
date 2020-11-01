@@ -201,7 +201,7 @@
             "inverse":{
                 "m": "tatarabuelo",
                 "f": "tatarabuela"
-            },
+            }
         },
         {
             "member": {
@@ -222,7 +222,6 @@
                 "m": "tío abuelo",
                 "f": "tía abuela"
             }
-
         }
     ]
 }
