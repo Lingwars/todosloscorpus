@@ -32,16 +32,6 @@
       "number": "p"
     },
     {
-      "name": "acacia negra",
-      "gender": "f",
-      "number": "s"
-    },
-    {
-      "name": "acacias negras",
-      "gender": "f",
-      "number": "p"
-    },
-    {
       "name": "acebo",
       "gender": "m",
       "number": "s"
@@ -212,12 +202,12 @@
       "number": "p"
     },
     {
-      "name": "aluparia",
-      "gender": "f",
+      "name": "lodoñero",
+      "gender": "m",
       "number": "s"
     },
     {
-      "name": "aluparias",
+      "name": "lodoñeros",
       "gender": "f",
       "number": "p"
     },
@@ -282,12 +272,12 @@
       "number": "p"
     },
     {
-      "name": "badiano",
+      "name": "baniano",
       "gender": "m",
       "number": "s"
     },
     {
-      "name": "badianos",
+      "name": "banianos",
       "gender": "m",
       "number": "p"
     },
@@ -1182,12 +1172,12 @@
       "number": "p"
     },
     {
-      "name": "secuoya gigante",
+      "name": "secuoya",
       "gender": "f",
       "number": "s"
     },
     {
-      "name": "secuoyas gigantes",
+      "name": "secuoyas",
       "gender": "f",
       "number": "p"
     },
