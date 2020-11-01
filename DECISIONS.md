@@ -17,6 +17,7 @@ Y estas etiquetas para el número:
 De todas formas, esto no significa que haya que desdoblar todas las palabras en todos sus posibles géneros y números, solamente etiquetarlas.
 
 Dos ejemplos:
+
 1)
 - Original en inglés
 ```
@@ -39,6 +40,7 @@ En español
         }
 ```
 Es posible que quieras añadir también relación abuela/nieta, pero no es obligado, aunque en casos como yerno/nuera probablemente sí, ya que es una forma muy diferente.
+
 2)
 - Original en inglés
 ```
