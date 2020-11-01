@@ -1,53 +1,83 @@
 # Decisiones
 Aquí recogemos las decisiones que hemos tenido que ir tomando en Discord.
 
-## ¿Qué hacer con el género?
-Para que puedan usarse de forma combinada con adjetivos, determinantes, etc. en español necesitamos saber qué genero tiene cada palabra (en el caso de nombres y adjetivos). Así que vamos a desdoblarlo, etiquetando cada una de las palabras:
+## ¿Qué hacer con el género y el número?
+Para que puedan usarse de forma combinada con adjetivos, determinantes, etc. en español necesitamos saber qué genero y número tiene cada palabra (en el caso de nombres, adjetivos y verbos). Así que vamos a etiquetar cada una de las palabras de este tipo.
+Estamos usando estas etiquetas para el género:
 - "c" si la palabra se puede usar tanto en femenino como en masculino
 - "f" si la palabra solo se puede usar en femenino
 - "m" si la palabra solo se puede usar en masculino
+Y estas etiquetas para el número:
+- "c" si la palabra se puede usar tanto en singular como en plural
+- "p" si la palabra solo se puede usar en plural
+- "s" si la palabra solo se puede usar en singular
+De todas formas, esto no significa que haya que desdoblar todas las palabras en todos sus posibles géneros y números, solamente etiquetarlas.
 
 Dos ejemplos:
+1)
+- Original en inglés
+```
+        {
+            "member": "grandparent",
+            "inverse": "grandchild"
+        }
+```
+En español
 ```
         {
             "member": {
-                "m": "abuelo",
-                "f": "abuela"
+                "name": "abuelo",
+                "gender": "m"
             }
             "inverse": {
-                "m": "nieto",
-                "f": "nieta"
+                "name": "nieto",
+                "gender": "m"
             }
         }
 ```
-
+2)
+- Original en inglés
+```
+[
+    "ant",
+    "shark",
+    "rhino",
+    "lion"
+]
+```
+- En español
 ```
 [
     {
         "name": "hormiga",
-        "gender": "f"
+        "gender": "f",
+        "number": "s"
     },
     {
         "name": "tiburón",
-        "gender": "m"
+        "gender": "m",
+        "number": "s"
     },
     {
         "name": "rinoceronte",
-        "gender": "c"
+        "gender": "c",
+        "number": "s"
     },
     {
         "name": "león",
-        "gender": "m"
+        "gender": "m",
+        "number": "s"
     },
     {
         "name": "leona",
-        "gender": "f"
+        "gender": "f",
+        "number": "s"
     }
 ]
 ```
 
 ## ¿Puede estar una misma palabra en dos listados diferentes?
-Si tiene sentido, ¡sí! por ejemplo, "ansiedad" es una palabra de uso común, pero también es un término médico, así que podría estar tanto en un fichero de nombres comunes (words/nouns.json) como en uno de, ponte tú, medicina (medicine.json).
+Si tiene sentido, ¡sí! Por ejemplo, "ansiedad" es una palabra de uso común, pero también es un término médico, así que podría estar tanto en un fichero de nombres comunes (words/nouns.json) como en uno de, ponte tú, medicina (medicine.json).
 
 ## ¿Qué hacer con los duplicados en un mismo fichero?
 Elimínalos sin problema, no tiene sentido que haya duplicados
