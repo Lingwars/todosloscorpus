@@ -1,0 +1,279 @@
+{
+    "description": "Comunidades autónomas y provincias de España",
+    "source": ["https://www.ine.es/daco/daco42/codmun/cod_ccaa_provincia.htm",
+        "https://es.wikipedia.org/wiki/Anexo:Capitales_de_comunidades_autónomas_de_España",
+        "https://es.wikipedia.org/wiki/Anexo:Capitales_de_provincia_de_España_por_población"],
+    "comment": "Solamente se ofrecen nombres oficiales o co-oficiales donde corresponda.",
+    "regions":
+    [
+        {
+            "region": "Andalucía",
+            "capital": "Sevilla",
+            "provinces": [
+                {
+                    "name":"Almería",
+                    "capital":"Almería"
+                },
+                {
+                    "name":"Cádiz",
+                    "capital":"Cádiz"
+                },
+                {
+                    "name":"Córdoba",
+                    "capital":"Córdoba"
+                },
+                {
+                    "name":"Granada",
+                    "capital":"Granada"
+                },
+                {
+                    "name":"Huelva",
+                    "capital":"Huelva"
+                },
+                {
+                    "name":"Jaén",
+                    "capital":"Jaén"
+                },
+                {
+                    "name":"Málaga",
+                    "capital":"Málaga"
+                },
+                {
+                    "name":"Sevilla",
+                    "capital":"Sevilla"
+                }
+            ]
+        },
+        {
+            "region": "Aragón",
+            "capital": "Zaragoza",
+            "provinces": [
+                {
+                    "name":"Huesca",
+                    "capital":"Huesca"
+                },
+                {
+                    "name":"Teruel",
+                    "capital":"Teruel"
+                },
+                {
+                    "name":"Zaragoza",
+                    "capital":"Zaragoza"
+                }
+            ]
+        },
+        {
+            "region": "Asturias, Principado de",
+            "capital": "Oviedo"
+        },
+        {
+            "region": "Balears, Illes",
+            "capital": "Palma"
+        },
+        {
+            "region": "Canarias",
+            "capital": ["Santa Cruz de Tenerife",
+                        "Las Palmas de Gran Canaria"],
+            "provinces": [
+                {
+                    "name":"Palmas, Las",
+                    "capital":"Las Palmas de Gran Canaria"
+                },
+                {
+                    "name":"Santa Cruz de Tenerife",
+                    "capital":"Santa Cruz de Tenerife"
+                }
+            ]
+        },
+        {
+            "region": "Cantabria",
+            "capital": "Santander"
+        },
+        {
+            "region": "Castilla-La Mancha",
+            "capital": "Toledo",
+            "provinces": [
+                {
+                    "name":"Albacete",
+                    "capital":"Albacete"
+                },
+                {
+                    "name":"Ciudad Real",
+                    "capital":"Ciudad Real"
+                },
+                {
+                    "name":"Cuenca",
+                    "capital":"Cuenca"
+                },
+                {
+                    "name":"Guadalajara",
+                    "capital":"Guadalajara"
+                },
+                {
+                    "name":"Toledo",
+                    "capital":"Toledo"
+                }
+            ]
+          },
+          {
+            "region": "Castilla y León",
+            "capital": "Valladolid",
+            "provinces": [
+                {
+                    "name":"Ávila",
+                    "capital":"Ávila"
+                },
+                {
+                    "name":"Burgos",
+                    "capital":"Burgos"
+                },
+                {
+                    "name":"León",
+                    "capital":"León"
+                },
+                {
+                    "name":"Palencia",
+                    "capital":"Palencia"
+                },
+                {
+                    "name":"Salamanca",
+                    "capital":"Salamanca"
+                },
+                {
+                    "name":"Segovia",
+                    "capital":"Segovia"
+                },
+                {
+                    "name":"Soria",
+                    "capital":"Soria"
+                },
+                {
+                    "name":"Valladolid",
+                    "capital":"Valladolid"
+                },
+                {
+                    "name":"Zamora",
+                    "capital":"Zamora"
+                }
+            ]
+          },
+          {
+            "region": "Cataluña",
+            "capital": "Barcelona",
+            "provinces": [
+                {
+                    "name":"Barcelona",
+                    "capital":"Barcelona"
+                },
+                {
+                    "name":"Girona",
+                    "capital":"Girona"
+                },
+                {
+                    "name":"Lleida",
+                    "capital":"Lleida"
+                },
+                {
+                    "name":"Tarragona",
+                    "capital":"Tarragona"
+                }
+            ]
+          },
+        {
+            "region": "Ceuta",
+            "capital": "Ceuta"
+        },
+        {
+            "region": "Comunitat Valenciana",
+            "capital": "València",
+            "provinces": [
+                {
+                    "name":["Alacant", "Alicante"],
+                    "capital":["Alacant", "Alicante"]
+                },
+                {
+                    "name":["Castelló", "Castellón"],
+                    "capital":"Castelló de la Plana"
+                },
+                {
+                    "name":["València", "Valencia"],
+                    "capital":"València"
+                }
+            ]
+        },
+        {
+            "region": "Extremadura",
+            "capital": "Mérida",
+            "provinces": [
+                {
+                    "name":"Badajoz",
+                    "capital":"Badajoz"
+                },
+                {
+                    "name":"Cáceres",
+                    "capital":"Cáceres"
+                }
+            ]
+        },
+        {
+            "region": "Galicia",
+            "capital": "Santiago de Compostela",
+            "provinces": [
+                {
+                    "name":"Coruña, A",
+                    "capital":"Coruña, A"
+                },
+                {
+                    "name":"Lugo",
+                    "capital":"Lugo"
+                },
+                {
+                    "name":"Ourense",
+                    "capital":"Ourense"
+                },
+                {
+                    "name":"Pontevedra",
+                    "capital":"Pontevedra"
+                }
+            ]
+        },
+        {
+            "region": "Madrid, Comunidad de",
+            "capital": "Madrid"
+        },
+        {
+            "region": "Melilla",
+            "capital": "Melilla"
+        },
+        {
+            "region": "Murcia, Región de",
+            "capital": "Murcia"
+        },
+        {
+            "region": "Navarra, Comunidad Foral de",
+            "capital": "Pamplona"
+        },
+        {
+            "region": "País Vasco",
+            "capital": "Vitoria-Gasteiz",
+            "provinces": [
+                {
+                    "name":"Araba/Álava",
+                    "capital":"Vitoria-Gasteiz"
+                },
+                {
+                    "name":"Bizkaia",
+                    "capital":"Bilbao"
+                },
+                {
+                    "name":"Gipuzkoa",
+                    "capital":"Donostia / San Sebastián"
+                }
+            ]
+          },
+        {
+            "region": "Rioja, La",
+            "capital": "Logroño"
+        }
+    ]
+}
