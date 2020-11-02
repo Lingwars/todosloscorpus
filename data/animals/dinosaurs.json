@@ -1,5 +1,5 @@
 {
-  "description": "Lista de dinosaurios.",
+  "description": "A list of dinosaurs.",
   "dinosaurs":
     [
 "Aardónyx",
@@ -359,7 +359,7 @@
 "Estegoceras",
 "Estegopelta",
 "Estegosaurio",
-"Estenopélix"
+"Estenopélix",
 "Estereocéfalus",
 "Estreptospondylus",
 "Estruthiomimus",
