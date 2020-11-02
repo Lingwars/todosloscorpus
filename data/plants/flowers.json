@@ -1,0 +1,141 @@
+{
+	"description": "Listado de flores",
+	"flowers": [
+		{
+			"name": "acacia",
+			"gender": "f"
+		},
+		{
+			"name": "alhelí",
+			"gender": "m"
+		},
+		{
+			"name": "amapola",
+			"gender": "f"
+		},
+		{
+			"name": "azahar",
+			"gender": "m"
+		},
+		{
+			"name": "azucena",
+			"gender": "f"
+		},
+		{
+			"name": "begonia",
+			"gender": "f"
+		},
+		{
+			"name": "camelia",
+			"gender": "f"
+		},
+		{
+			"name": "clavel",
+			"gender": "m"
+		},
+		{
+			"name": "crisantemo",
+			"gender": "m"
+		},
+		{
+			"name": "dalia",
+			"gender": "f"
+		},
+		{
+			"name": "geranio",
+			"gender": "m"
+		},
+		{
+			"name": "girasol",
+			"gender": "m"
+		},
+		{
+			"name": "gladiolo",
+			"gender": "m"
+		},
+		{
+			"name": "hortensia",
+			"gender": "f"
+		},
+		{
+			"name": "jacinto",
+			"gender": "m"
+		},
+		{
+			"name": "jazmín",
+			"gender": "m"
+		},
+		{
+			"name": "laurel",
+			"gender": "m"
+		},
+		{
+			"name": "lavanda",
+			"gender": "f"
+		},
+		{
+			"name": "lila",
+			"gender": "f"
+		},
+		{
+			"name": "lirio",
+			"gender": "m"
+		},
+		{
+			"name": "loto",
+			"gender": "m"
+		},
+		{
+			"name": "madreselva",
+			"gender": "f"
+		},
+		{
+			"name": "magnolia",
+			"gender": "f"
+		},
+		{
+			"name": "margarita",
+			"gender": "f"
+		},
+		{
+			"name": "mimosa",
+			"gender": "f"
+		},	
+		{
+			"name": "narciso",
+			"gender": "m"
+		},
+		{	
+			"name": "nenúfar",
+			"gender": "m"
+		},
+		{
+			"name": "orquídea",
+			"gender": "f"
+		},
+		{
+			"name": "peonía",
+			"gender": "f"		
+		},
+		{
+			"name": "pensamiento",
+			"gender": "m"
+		},
+		{
+			"name": "petunia",
+			"gender": "f"
+		},
+		{
+			"name": "rosa",
+			"gender": "f"
+		},
+		{
+			"name": "tulipán",
+			"gender": "m"
+		},
+		{
+			"name": "violeta",
+			"gender": "f"
+		}
+	]
+}

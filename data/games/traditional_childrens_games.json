@@ -1,0 +1,115 @@
+{  	
+	"description": "Juegos tradicionales infantiles.",
+	"games": [
+		{	
+			"name": "ahorcado",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "bolos",
+			"gender": "m",
+			"number": "p"
+		},
+		{
+			"name": "brilé",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "canicas",
+			"gender": "f",
+			"number": "p"
+		},
+		{
+			"name": "carreras de sacos",
+			"gender": "f",
+			"number": "p"
+		},
+		{
+			"name": "comba",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "chapas",
+			"gender": "f",
+			"number": "p"
+		},
+		{
+			"name": "escondite",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "escondite inglés",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "gallinita ciega",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "juego del pañuelo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "oca",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "parchís",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "peonza",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "piedra-papel-tijera",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "ping pong",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "pilla-pilla",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "puzzles",
+			"gender": "m",
+			"number": "p"
+		},
+		{
+			"name": "rayuela",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "juego de las sillas",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "submarinos",
+			"gender": "m",
+			"number": "p"
+		},
+		{
+			"name": "tres en raya",
+			"gender": "m",
+			"number": "s"
+		}
+	]
+}

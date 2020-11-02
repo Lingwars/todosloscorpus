@@ -1,0 +1,1325 @@
+{
+  "description": "List of arborescent plants by common name",
+  "trees": [
+    {
+      "name": "abedul",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "abedules",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "abeto",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "abetos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "acacia",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "acacias",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "acebo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "acebos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "acerolo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "acerolos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "adelfa",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "adelfas",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "aguacatero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "aguacateros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ailanto",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ailantos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "albaricoquero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "albaricoqueros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "albarillo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "albarillos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "alcanforero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "alcanforeros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "alcornoque",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "alcornoques",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "alerce",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "alerces",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "alfóncigo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "alfóncigos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "algarrobo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "algarrobos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "algodonero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "algodoneros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "aligustre",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "aligustres",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "aliso",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "alisos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "almendro",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "almendros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "almez",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "almeces",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "lodoñero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "lodoñeros",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "anís estrellado",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "anises estrellados",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "aromo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "aromos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "arrayán",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "arrayanes",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "avellano",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "avellanos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "azalea",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "azaleas",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "azuceno",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "azucenos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "baniano",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "banianos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "baobab",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "baobabs",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "boj",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "bojes",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cafeto",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cafetos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "canelo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "canelos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "caoba",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "caobas",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "caqui",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "caquis",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "carpe",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "carpes",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "carpe blanco",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "carpes blancos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "castaño",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "castaños",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "castaño de Indias",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "castaños de Indias",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cedro",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cedros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cedro atlántico",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cedros atlánticos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cedro del Líbano",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cedros del Líbano",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cerezo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cerezos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cerezo de flor",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cerezos de flor",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "chopo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "chopos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cinamomo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cinamomos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ciprés",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cipreses",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ciruelo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ciruelos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "citrus",
+      "gender": "m",
+      "number": "c"
+    },
+    {
+      "name": "clavero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "claveros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cocotero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cocoteros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "duraznero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "durazneros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "encina",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "encinas",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "endrino",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "endrinos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "enebro",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "enebros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "enebro rojo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "enebros rojos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "espinillo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "espinillos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "espino",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "espinos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "eucalipto",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "eucaliptos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "falsa acacia",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "falsas acacias",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "ficus",
+      "gender": "m",
+      "number": "c"
+    },
+    {
+      "name": "fresno",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "fresnos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "granado",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "granados",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "guayabo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "guayabos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "guindo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "guindos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "haya",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "hayas",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "hibisco",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "hibiscos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "higuera",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "higueras",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "incienso",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "inciensos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "jazmín",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "jazmines",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "kumquat",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "kumquats",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "laurel",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "laureles",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "laurel aromático",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "laureles aromáticos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "laurel blanco",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "laureles blancos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "lichi",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "lichis",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "limero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "limeros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "limonero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "limoneros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "lárice",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "lárices",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "madroño",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "madroños",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "magnolia",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "magnolias",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "mandarino",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "mandarinos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "mango",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "mangos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "manzano",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "manzanos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "melocotonero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "melocotoneros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "membrillero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "membrilleros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "mimbrera",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "mimbreras",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "mimosa",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "mimosas",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "morera",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "moreras",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "morera blanca",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "moreras blancas",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "morera de papel",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "moreras de papel",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "morera negra",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "moreras negras",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "muérdago",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "muérdagos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "naranjo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "naranjos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "naranjo amargo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "naranjos amargos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "naranjo espinoso",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "naranjos espinosos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "nogal",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "nogales",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "níspero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "nísperos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "olivo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "olivos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "olmo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "olmos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "palmito",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "palmitos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "palosanto",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "palosantos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "papayo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "papayos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "parasol chino",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "parasoles chinos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "pecán",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "pecanes",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "peral",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "perales",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "picea",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "piceas",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "pino",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "pinos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "pino parasol",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "pinos parasol",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "pitanga",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "pitangas",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "planta de té",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "plantas de té",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "platanera",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "plataneras",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "plátano",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "plátanos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "pomelero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "pomeleros",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ricino",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ricinos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "roble",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "robles",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "sabina albar",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "sabinas albares",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "sauce",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "sauces",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "sauce tortuoso",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "sauces tortuosos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "secuoya",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "secuoyas",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "tamarindo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tamarindos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "teca",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "tecas",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "tejo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tejos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "tilo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tilos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "tulípero",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tulíperos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "uva de playa",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "uvas de playa",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "viñátigo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "viñátigos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "zapote blanco",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "zapotes blancos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "zarzamora",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "zarzamoras",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "álamo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "álamo",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "álamo temblón",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "álamos temblones",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "árbol de Judas",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "árboles de Judas",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "árbol de fuego",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "árboles de fuego",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "árbol menta",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "árboles menta",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ébano",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ébanos",
+      "gender": "m",
+      "number": "p"
+    }
+  ]
+}
