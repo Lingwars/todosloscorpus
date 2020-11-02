@@ -42,6 +42,11 @@
       "number": "s"
     },
     {
+      "name": "jugos gástricos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
       "name": "líquido amniótico",
       "gender": "m",
       "number": "s"
@@ -85,6 +90,11 @@
       "name": "lágrimas",
       "gender": "f",
       "number": "p"
+    },
+    {
+      "name": "lágrima",
+      "gender": "f",
+      "number": "s"
     },
     {
       "name": "moco",
