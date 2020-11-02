@@ -7,27 +7,27 @@
       "number": "p"
     },
     {
-      "carbono amorfo",
+      "name": "carbono amorfo",
       "gender": "m",
       "number": "s"
     },
     {
-      "carbono vítreo",
+      "name": "carbono vítreo",
       "gender": "m",
       "number": "s"
     },
     {
-      "carbono atómico",
+      "name": "carbono atómico",
       "gender": "m",
       "number": "s"
     },
     {
-      "carbono diatómico",
+      "name": "carbono diatómico",
       "gender": "m",
       "number": "s"
     },
     {
-      "carbono acetilénico lineal",
+      "name": "carbono acetilénico lineal",
       "gender": "m",
       "number": "s"
     },
@@ -37,17 +37,17 @@
       "number": "s"
     },
     {
-      "grafito",
+      "name": "grafito",
       "gender": "m",
       "number": "s"
     },
     {
-      "grafeno",
+      "name": "grafeno",
       "gender": "m",
       "number": "s"
     },
     {
-      "grafenileno",
+      "name": "grafenileno",
       "gender": "m",
       "number": "s"
     },
@@ -57,22 +57,22 @@
       "number": "s"
     },
     {
-      "nanotubos de carbono",
+      "name": "nanotubos de carbono",
       "gender": "m",
       "number": "s"
     },
     {
-      "nanobuds de carbono",
+      "name": "nanobuds de carbono",
       "gender": "m",
       "number": "s"
     },
     {
-      "nanoespuma de carbono",
+      "name": "nanoespuma de carbono",
       "gender": "f",
       "number": "s"
     },
     {
-      "schwarzites",
+      "name": "schwarzites",
       "gender": "m",
 			"number": "p"
 		}
