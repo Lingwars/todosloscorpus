@@ -1,19 +1,20 @@
 {
-  "description": "carbon allotropes",
-  "carbon allotropes": [
-    "graphite",
-    "graphene",
-    "diamond",
-    "carbon nanotube",
-    "amorphous carbon",
-    "graphenylene",
-    "buckminsterfullerenes",
-    "carbon nanobuds",
-    "schwarzites",
-    "vitreous carbon",
-    "atomic and diatomic carbon",
-    "carbon nanofoam",
-    "lonsdaleite",
-    "linear acetylenic carbon"
+  "description": "alótropos del carbono",
+  "alótropos del carbono": [
+    "buckminsterfulerenos",
+    "carbono amorfo",
+    "carbono vítreo",
+    "carbono atómico",
+    "carbono diatómico",
+    "carbono acetilénico lineal",
+    "diamante",
+    "grafito",
+    "grafeno",
+    "grafenileno",
+    "lonsdaleíta",
+    "nanotubos de carbono",
+    "nanobuds de carbono",
+    "nanoespuma de carbono",
+    "schwarzites"
   ]
 }
