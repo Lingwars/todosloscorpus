@@ -957,7 +957,7 @@
       "species":"Cinnamomum verum"
     },
     {
-      "name":"Canola​",
+      "name":"Canola",
       "gender":"f",
       "number":"s",
       "species":"Brassica napus"
@@ -1019,12 +1019,6 @@
     {
       "name":"Carrasquilla",
       "gender":"f",
-      "number":"s",
-      "species":"Amelanchier canadensis"
-    },
-    {
-      "name":"Carrasquilla",
-      "gender":"m",
       "number":"s",
       "species":"Amelanchier canadensis"
     },
@@ -1245,12 +1239,6 @@
       "species":"Sonchus oleraceus, Sonchus arvensis, Sonchus asper"
     },
     {
-      "name":"Cerraja",
-      "gender":"f",
-      "number":"s",
-      "species":"Sonchus arvensis"
-    },
-    {
       "name":"Cerrajón",
       "gender":"m",
       "number":"s",
@@ -1432,7 +1420,7 @@
     },
     {
       "name":"Coridalis",
-      "gender":"m",
+      "gender":"f",
       "number":"s",
       "species":"Corydalis spp."
     },
@@ -1549,12 +1537,6 @@
       "gender":"m",
       "number":"s",
       "species":"Cornus sericea"
-    },
-    {
-      "name":"Cornejo de kousa",
-      "gender":"m",
-      "number":"s",
-      "species":"Cornus kousa"
     },
     {
       "name":"Cornejo de las pagoda",
@@ -2220,13 +2202,7 @@
       "name":"Hierba de Santa Bárbara",
       "gender":"f",
       "number":"s",
-      "species":"Barbarea vulgaris"
-    },
-    {
-      "name":"Hierba de Santa Bárbara",
-      "gender":"f",
-      "number":"s",
-      "species":"Barbarea verna"
+      "species":"Barbarea vulgaris, Barbarea verna"
     },
     {
       "name":"Hierba de Santa María",
@@ -2626,7 +2602,7 @@
     },
     {
       "name":"Margarita",
-      "gender":"m",
+      "gender":"f",
       "number":"s",
       "species":"Bellis perennis"
     },
