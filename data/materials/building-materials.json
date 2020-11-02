@@ -1,50 +1,230 @@
 {
   "description": "materiales de construcción",
   "materiales de construcción": [
-		"PSL",
-		"azulejo",
-		"adobe",
-		"acero corrugado",
-		"aluminio",
-		"asfalto",
-		"arena",
-		"asbesto",
-		"arcilla",
-		"bloque de hormigón",
-		"barro",
-		"cartón yeso",
-		"cemento",
-		"cable de acero",
-		"cobre",
-		"contrachapado",
-		"cáñamo",
-		"fibra de vidrio",
-		"grava",
-		"hormigón reciclado",
-		"hormigón",
-		"ladrillo",
-		"ladrillo de vidrio",
-		"laminado plástico",
-		"lana de vidrio",
-		"moqueta",
-		"madera",
-		"madera dimensionada",
-		"madera laminada",
-		"papel pintado",
-		"pintura",
-		"piedra",
-		"plástico",
-		"poliuretano",
-		"poliestireno",
-		"poliestireno expandido",
-		"papel",
-		"terrazo",
-		"terracota",
-		"tablero",
-		"traslapo",
-		"tablero de virutas orientadas",
-		"tapial",
-		"vidrio",
-		"yeso"
+		{
+      "name": "PSL",
+			"gender": "c",
+			"number": "c"
+		},
+		{
+			"name": "azulejo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "adobe",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "acero corrugado",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "aluminio",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "asfalto",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "arena",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "asbesto",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "arcilla",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "bloque de hormigón",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "barro",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cartón yeso",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cemento",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cable de acero",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cobre",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "contrachapado",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cáñamo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "fibra de vidrio",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "grava",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "hormigón reciclado",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "hormigón",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "ladrillo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "ladrillo de vidrio",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "laminado plástico",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "lana de vidrio",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "moqueta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "madera",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "madera dimensionada",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "madera laminada",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "papel pintado",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "pintura",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "piedra",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "plástico",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "poliuretano",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "poliestireno",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "poliestireno expandido",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "papel",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "terrazo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "terracota",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "tablero",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "traslapo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "tablero de virutas orientadas",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "tapial",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "vidrio",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "yeso"
+			"gender": "m",
+      "number": "s"
+    }
 	]
 }
