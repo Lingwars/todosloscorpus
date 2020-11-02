@@ -12,9 +12,19 @@
 			"number": "s"
 		},
 		{
+			"name": "azulejos",
+			"gender": "m",
+			"number": "p"
+		},
+		{
 			"name": "adobe",
 			"gender": "m",
 			"number": "s"
+		},
+		{
+			"name": "adobes",
+			"gender": "m",
+			"number": "p"
 		},
 		{
 			"name": "acero corrugado",
@@ -52,6 +62,11 @@
 			"number": "s"
 		},
 		{
+			"name": "bloques de hormigón",
+			"gender": "m",
+			"number": "p"
+		},
+		{
 			"name": "barro",
 			"gender": "m",
 			"number": "s"
@@ -70,6 +85,11 @@
 			"name": "cable de acero",
 			"gender": "m",
 			"number": "s"
+		},
+		{
+			"name": "cables de acero",
+			"gender": "m",
+			"number": "p"
 		},
 		{
 			"name": "cobre",
@@ -112,9 +132,19 @@
 			"number": "s"
 		},
 		{
+			"name": "ladrillos",
+			"gender": "m",
+			"number": "p"
+		},
+		{
 			"name": "ladrillo de vidrio",
 			"gender": "m",
 			"number": "s"
+		},
+		{
+			"name": "ladrillos de vidrio",
+			"gender": "m",
+			"number": "p"
 		},
 		{
 			"name": "laminado plástico",
@@ -162,6 +192,11 @@
 			"number": "s"
 		},
 		{
+			"name": "piedras",
+			"gender": "f",
+			"number": "p"
+		},
+		{
 			"name": "plástico",
 			"gender": "m",
 			"number": "s"
@@ -202,9 +237,19 @@
 			"number": "s"
 		},
 		{
+			"name": "tableros",
+			"gender": "m",
+			"number": "p"
+		},
+		{
 			"name": "traslapo",
 			"gender": "m",
 			"number": "s"
+		},
+		{
+			"name": "traslapos",
+			"gender": "m",
+			"number": "p"
 		},
 		{
 			"name": "tablero de virutas orientadas",
@@ -212,9 +257,19 @@
 			"number": "s"
 		},
 		{
+			"name": "tableros de virutas orientadas",
+			"gender": "m",
+			"number": "p"
+		},
+		{
 			"name": "tapial",
 			"gender": "m",
 			"number": "s"
+		},
+		{
+			"name": "tapiales",
+			"gender": "m",
+			"number": "p"
 		},
 		{
 			"name": "vidrio",
