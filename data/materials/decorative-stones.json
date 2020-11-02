@@ -1,54 +1,250 @@
 {
   "description": "piedras decorativas",
   "piedras decorativas": [
-		"anortosita",
-		"arenisca",
-		"andesita",
-		"anfibolita",
-		"alabastro",
-		"basalto",
-		"caliza",
-		"conglomerado",
-		"cuarcita",
-		"caliza cristalina",
-		"caliza clástica",
-		"caliza micrítica",
-		"calcarenita",
-		"creta",
-		"charnockita",
-		"diorita",
-		"dolomía cristalina",
-		"diabasa",
-		"esquisto",
-		"esteatita",
-		"estromatolito",
-		"filita",
-		"granito de Aberdeen",
-		"granito",
-		"gneis",
-		"gabro",
-		"granodiorita",
-		"lutita",
-		"mármol",
-		"monzonita",
-		"pórfido",
-		"pegmatita",
-		"pizarra",
-		"peridotita",
-		"pumita",
-		"peperino",
-		"pietra serena",
-		"piedra de Pórtland",
-		"riolita",
-		"sienita",
-		"serpentina",
-		"sílex",
-		"traquita",
-		"travertino",
-		"toba volcánica",
-		"tezontle",
-		"travertino",
-		"ónice calcáreo",
-		"ónix"
+		{
+      "name": "anortosita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "arenisca",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "andesita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "anfibolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "alabastro",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "basalto",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "caliza",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "conglomerado",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cuarcita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "caliza cristalina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "caliza clástica",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "caliza micrítica",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "calcarenita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "creta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "charnockita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "diorita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "dolomía cristalina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "diabasa",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "esquisto",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "esteatita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "estromatolito",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "filita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "granito de Aberdeen",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "granito",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "gneis",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "gabro",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "granodiorita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "lutita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "mármol",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "monzonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "pórfido",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "pegmatita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "pizarra",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "peridotita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "pumita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "peperino",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "pietra serena",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "piedra de Pórtland",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "riolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "sienita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "serpentina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "sílex",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "traquita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "travertino",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "toba volcánica",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "tezontle",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "travertino",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "ónice calcáreo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "ónix",
+			"gender": "m",
+			"number": "s"
+		}
 	]
 }
