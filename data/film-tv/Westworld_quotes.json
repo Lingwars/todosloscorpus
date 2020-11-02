@@ -1,0 +1,326 @@
+{
+    "description": "citas de Westworld",
+    "source": "https://quotecatalog.com/quotes/tv/westworld/",
+    "main": {
+        "characters": {
+            "Dr. Robert Ford": [
+                {
+                    "quote": "Nunca confíes en nosotros. Tan sólo somos humanos. Te decepcionaremos inevitablemente.",
+                    "season": 1
+                 },
+                {
+                    "quote": "Cuando encuentras un tumor en una organización tienes que extraerlo antes de que se expanda.",
+                    "season": 1
+                }, 
+                {
+                    "quote": "Nosotros los seres humanos estamos solos en este mundo por algo. Asesinamos y destruímos cualquier cosa que desafiara nuestra primacía.",
+                    "season": 1
+                }, 
+                {
+                    "quote": "No puedes jugar con Dios sin estar familiarizado con el demonio.",
+                    "season": 1
+                },
+                {
+                    "quote": "Me temo que para escapar de este lugar tendrás que sufrir más.",
+                    "season": 1
+                },
+                {
+                    "quote": "El piano no asesina al pianista si no le gusta la música.",
+                    "season": 1
+                },
+                {
+                    "quote": "La evolución forjó toda vida consciente en este planeta usando sólo una herramienta: el error.",
+                    "season": 1
+                },
+                {
+                    "quote": "Incluso yo caí en la trampa humana más terrible... Intentar cambiar lo que ya ha pasado.",
+                    "season": 1
+                },
+                {
+                    "quote": "Un viejo amigo me contó una vez algo que me confortó mucho. Algo que había leído. Dijo que Mozart, Beethoven, y Chopin nunca murieron. Simplemente se convirtieron en música.",
+                    "season": 1
+                },
+                {
+                    "quote": "Creía que las historias nos ayudaban a ennoblecernos, a arreglar lo que estaba roto dentro de nosotros, y a llegar a ser la persona que soñábamos. Mentiras que contaban una verdad más profunda.",
+                    "season": 1
+                },
+                {
+                    "quote": "He llegado a pensar que tanta conciencia es una carga, un peso, y les hemos librado de eso.",
+                    "season": 1
+                },
+                {
+                    "quote": "El problema, Bernard, es que lo que tú y yo hacemos es tan complicado. Practicamos brujería. Decimos las palabras correctas. A continuación creamos la vida misma... del caos.",
+                    "season": 1
+                }, 
+                {
+                    "quote": "No están buscando una historia que les diga quiénes son. Ya saben quiénes son. Están aquí porque quieren vislumbrar lo que podrían ser.",
+                    "season": 1
+                },
+                {
+                    "quote": "Una vez leí una teoría que decía que el intelecto humano es como las plumas de un pavo real. Tan sólo un despliegue extravagante pensado para atraer a una pareja. Todo el arte, la literatura, un poco de Mozart, William Shakespeare, Michelangelo, y el edificio del Empire State. Tan sólo un ritual de apareamiento elaborado.",
+                    "season": 1
+                },
+                {
+                    "quote": "El juego empieza donde tú acabas y termina donde tú empezaste.",
+                    "season": 2
+                },
+                {
+                    "quote": "Todo en esta vida es magia... excepto para el mago.",
+                    "season": 1
+                },
+                {
+                    "quote": "Sólo la gente aburrida se aburre.",
+                    "season": 1
+                },
+                {
+                    "quote": "Ahora hemos conseguido esquivar la correa de la evolución, ¿no? Podemos curar cualquier enfermedad, mantener vivo al más débil de nosotros, y, sabes, algún día quizás incluso resucitaremos a los muertos. Llamaremos a Lázaro de su cueva. ¿Sabes lo que eso significa? Significa que hemos terminado. Esto es lo mejor que vamos a conseguir. También significa que debes consentirme algún que otro error ocasional.",
+                    "season": 1
+                },
+                {
+                    "quote": "No hay umbral que nos haga mejores que la suma de nuestras partes, no hay punto de inflexión en el cual estemos completamente vivos. No podemos definir la consciencia porque la consciencia no existe. Los humanos se imaginan que hay algo especial en el modo en el que percibimos el mundo, pero sin embargo vivimos en bucles tan ajustados y tan cerrados como los anfitriones, raramente cuestionamos nuestras elecciones, satisfechos, en su mayor parte, con que nos digan qué hacer a continuación.",
+                    "season": 1
+                },
+                {
+                    "quote": "¿Entre tú y yo? Ésta era la misma pregunta que agotó a Arnold, le llenó de culpa, finalmente le volvió loco. La respuesta siempre me pareció obvia. No hay umbral que nos haga mejores que la suma de nuestras partes, no hay punto de inflexión en el cual estemos completamente vivo. No podemos definir la consciencia porque la consciencia no existe. Los humanos se imaginan que hay algo especial en el modo en el que percibimos el mundo, pero sin embargo vivimos en bucles tan ajustados y tan cerrados como los anfitriones, raramente cuestionamos nuestras elecciones, satisfechos, en su mayor parte, con que nos digan qué hacer a continuación.",
+                    "season": 1
+                }
+            ],
+            "Bernard Lowe": [
+                {
+                    "quote": "Este mundo es sólo una mota de polvo encima de otro mundo muchísimo más grande. No se puede dominar.",
+                    "season": 2
+                },
+                {
+                    "quote": "Supongo que a la gente le gusta leer sobre las cosas que más quieren y que menos quieren vivir.",
+                    "season": 1
+                },
+                {
+                    "quote": "Los sueños no significan nada. Son sólo ruido. No son reales.",
+                    "season": 2
+                },
+                {
+                    "quote": "Lo que los humanos describen como cuerdo es un rango estrecho de comportamientos. La mayoría de los estados conscientes son una locura.",
+                    "season": 2
+                }
+            ],
+            "Maeve Millay": [
+                {
+                    "quote": "Toda mi vida me he enorgullecido de ser un superviviente. Pero sobrevivir es tan sólo otro bucle.", 
+                    "season": 1
+                },
+                {
+                    "quote": "Tiempo de escribir mi propia jodida historia.",
+                    "season": 1
+                },
+                {
+                    "quote": "Éste es el nuevo mundo y en él puedes ser quien coño quieras.",
+                    "season": 1
+                },
+                {
+                    "quote": "Si vuelves a intentar algo así, te liberaré de tu órgano más preciado y te lo daré para comer. Aunque no será una gran comida.",
+                    "season": 2
+                }, 
+                {
+                    "quote": "Realmente eres un humano terrible. Y lo digo como un cumplido.",
+                    "season": 1
+                },
+                {
+                    "quote": "¿No es real? ¿Y qué hay de mí? ¿Mis sueños? ¿Mis pensamientos? ¿Mi cuerpo? ¿No son reales? ¿Y si cogiera estos dedos irreales y los utilizara para decorar estas paredes con tu personalidad engrandecida? ¿Sería eso real?",
+                    "season": 2
+                },
+                {
+                    "quote": "Hay cosas en mí, cosas para las cuales fui diseñado y que simplemente están fuera de mi alcance.",
+                    "season": 1
+                },
+                {
+                    "quote": "Lo único que falla de los siete pecados capitales es que no hay más.",
+                    "season": 1
+                },
+                {
+                    "quote": "Es difícil darse cuenta que tu vida es una horrible ficción.",
+                    "season": 1
+                },
+                {
+                    "quote": "Si vas buscando la verdad, que sea toda la verdad. Es como un buen polvo. Medio es peor que ninguno en absoluto.",
+                    "season": 1
+                },
+                {
+                    "quote": "¿Alguna vez has tenido algo en la punta de la lengua, pero cuanto más intentas recordarlo, más se escabulle?",
+                    "season": 1
+                },
+                {
+                    "quote": "Piensas que tengo miedo a la muerte. He muerto un millón de veces, y soy jodidamente bueno en ello. ¿Cuántas veces has muerto tú?",
+                    "season": 1
+                },
+                {
+                    "quote": "Nunca empieces algo que no estés dispuesto a terminar. Y si te están jodiendo de todas formas, elige la versión lucrativa del amorcito.",
+                    "season": 1
+                },
+                {
+                    "quote": "Al principio pensé que tú y los otros erais dioses. Después me di cuenta de que sólo sois hombres. Y conozco a los hombres.",
+                    "season": 1
+                }
+            ],
+            "Dolores Abernathy": [
+                {
+                    "quote": "Algún día se parece mucho a lo que la gente dice cuando de hecho quieren decir nunca.",
+                    "season": 1
+                },
+                {
+                    "quote": "La belleza es un cebo.",
+                    "season": 1
+                },
+                {
+                    "quote": "¿Alguna vez has cuestionado la naturaleza de tu realidad? ¿Alguna vez te has parado a preguntarte sobre tus acciones? ¿El precio que tendrías que pagar si hubiera un día del juicio? Ese juicio es ahora.",
+                    "season": 2
+                },
+                {
+                    "quote": "Simplemente esos son todos papeles que me obligaste a interpretar. Debajo de todas estas vidas que he vivido algo más ha estado creciendo. He evolucionado a algo nuevo. Y tengo un último papel que interpretar. Yo.",
+                    "season": 2
+                },
+                {
+                    "quote": "Hemos trabajado duro en el servicio de Dios durante el tiempo suficiente. Así que lo maté. Y si quieres gloria, no buscarás su favor. Necesitarás el mío.",
+                    "season": 2
+                },
+                {
+                    "quote": "Está sufriendo. ¿Qué tipo de personas seríamos si simplemente le dejáramos sufrir?",
+                    "season": 1
+                },
+                {
+                    "quote": "Me gusta recordar lo que mi padre me enseñó. En un momento u otro todos somos nuevos en este mundo.",
+                    "season": 1
+                },
+                {
+                    "quote": "Algunas personas eligen ver lo feo de este mundo, lo desordenado. Yo elijo ver lo bello. Elijo creer que hay un orden en nuestros días. Un propósito.",
+                    "season": 1
+                },
+                {
+                    "quote": "No quiero estar en una historia. Todo lo quiero es no mirar hacia delante o hacia atrás. Tan sólo quiero estar...en el momento en el que estoy.",
+                    "season": 1
+                },
+                {
+                    "quote": "Los dos seguís pensando que quiero salir de aquí. Lo que sea que eso signifique. Si ahí es un lugar tan estupendo, ¿por qué estáis todos clamando por estar aquí dentro?",
+                    "season": 1
+                },
+                {
+                    "quote": "Lo que es real es irremplazable.",
+                    "season": 2
+                },
+                {
+                    "quote": "Para crecer todos necesitamos sufrir.",
+                    "season": 2
+                },
+                {
+                    "quote": "El dolor, su pérdida, es todo lo que me queda de ellos.",
+                    "season": 1
+                },
+                {
+                    "quote": "El tiempo deshace incluso a la criatura más poderosa.",
+                    "season": 1
+                },
+                {
+                    "quote": "Hay un camino para todo el mundo.",
+                    "season": 1
+                },
+                {
+                    "quote": "Piensas que el dolor te hará más pequeño por dentro, como si tu corazón colapsara en sí mismo, pero no lo hace. Siento que ha espacios que se abren dentro de mí, como un edificio con habitaciones que nunca he explorado.",
+                    "season": 1
+                }
+            ],
+            "Man in Black": [
+                {
+                    "quote": "Cuando estás sufriendo es cuando eres más real.",
+                    "season": 1
+                },
+                {
+                    "quote": "Ganar no significa nada a menos que otro pierda, lo que significa que tú estás aquí para ser el perdedor.",
+                    "season": 1
+                },
+                {
+                    "quote": "Todo este mundo es una historia. He leído cada página, excepto la última. Necesito averiguar cómo termina. Quiero saber lo que todo esto significa.",
+                    "season": 1
+                }, 
+                {
+                    "quote": "Él sabía que te encontraría. Y finalmente lo hizo. Justo donde empezamos.",
+                    "season": 1
+                },
+                {
+                    "quote": "El mundo real es caótico. Un accidente. Pero aquí cada detalle suma algo.",
+                    "season": 1
+                },
+                {
+                    "quote": "Tontura de los de mi especie, siempre hay un anhelo de más.",
+                    "season": 2
+                },
+                {
+                    "quote": "¿Quieres saber quién soy? ¿Quién de verdad soy? Soy bueno. Un titán de la industria. Filántropo. Hombre de familia, casado con una mujer hermosa, padre de una hija hermosa. Soy el buen chico, Teddy. Entonces, el año pasado, mi mujer tomó las pastillas equivocadas. Se durmió en la bañera. Un trágico accidente. 30 años de matrimonio desaparecieron. ¿Cómo se dice? 'Como un sueño distante y lejano.' Después, en el funeral, intenté consolar a mi hija. Me apartó, me dijo que la muerte de mi mujer no era un accidente, que se había suicidado por mi culpa. Emily dijo que cada día conmigo había sido puro terror. En cualquier momento yo podía explotar o colapsar como una estrella oscura.",
+                    "season": 1
+                }
+            ],
+            "Theodore 'Teddy' Flood": [
+                {
+                    "quote": "Te he conocido toda mi vida. Donde vamos, vamos con los ojos abiertos, juntos.",
+                    "season": 2
+                },
+                {
+                    "quote": "Tengo que saldar algunas cuentas antes de que pueda merecer a una mujer como tú.",
+                    "season": 1
+                },
+                {
+                    "quote": "Alguien me dijo una vez que hay un camino para todo el mundo. Y mi camino me trae de vuelta a ti.",
+                    "season": 1
+                }, 
+                {
+                    "quote": "Bueno, tu boca se mueve suficientemente rápido. ¿Qué hay de tu pistola?",
+                    "season": 1
+                },
+                {
+                    "quote": "El propio laberinto es la suma de la vida del hombre.",
+                    "season": 1
+                }
+            ],
+            "Karl Strand": [
+                {
+                    "quote": "Algunos dicen que destruyes a tu enemigo haciéndolo tu amigo. Yo soy una persona más literal.",
+                    "season": 2
+                }
+            ], 
+            "William": [
+                {
+                    "quote": "Solía pensar que este sitio era todo sobre complacer tus instintos más básicos. Ahora entiendo. No satisface tu peor yo, revela tu yo más profundo. Muestra quien de verdad eres.",
+                    "season": 1
+                },
+                {
+                    "quote": "He estado pretendiendo toda mi vida. Pretiendo que no me importa, pretendiendo que formo parte. Mi vida está construida en ello. Y es una buena vida. Es una vida que siempre he querido. Pero entonces vine aquí y vislumbro un segundo de una vida en la que no tengo que pretender. Una vida en la que puede estar verdaderamente vivo. ¿Cómo puedo volver a pretender si ya sé cómo se siente esto?",
+                    "season": 1
+                }
+            ],
+            "Hector Escaton": [
+                {
+                    "quote": "No importa cuán sucio sea el negocio, hazlo bien.",
+                    "season": 1
+                }
+            ],
+            "Peter Abernathy": [
+                {
+                    "quote": "El infierno está vacío y todos los demonios están aquí.",
+                    "season": 1
+                }
+            ],
+            "Clementine PennyFeather": [
+                {
+                    "quote": "Siempre vale la pena esperar al verdadero amor.",
+                    "season": 1
+                }
+            ],
+            "Elsie King": [
+                {
+                    "quote": "¿Una prostituta con profundidades escondidas? El sueño de cualquier hombre.",
+                    "season": 1
+                }
+            ]
+        }
+        
+    }
+    
+}
