@@ -2,116 +2,560 @@
   "description": "tejidos",
   "source": "https://telas.com/glosario-textil/",
   "tejidos": [
-		"ante",
-		"arpillera",
-		"astracán",
-		"alpaca",
-		"angora",
-		"bagdalín",
-		"barrège",
-		"batavia",
-		"batista",
-		"bellardina",
-		"bengalina",
-		"bombasín",
-		"brocado",
-		"brocatel",
-		"bucle",
-		"bayeta",
-		"cachemir",
-		"calandrado",
-		"calicó",
-		"calmuc",
-		"cambric",
-		"cantón",
-		"cañamazo",
-		"castorín",
-		"cazoleta",
-		"cefiro",
-		"chambray",
-		"charme invertido",
-		"charmelaine",
-		"cheviot",
-		"chiffon",
-		"cibelina",
-		"cloque",
-		"cool wool",
-		"cotelé",
-		"crepé",
-		"crespo",
-		"crespón",
-		"crespón de China",
-		"crespón marroquí",
-		"crespón Georgette",
-		"crespón satín",
-		"cretona",
-		"curado",
-		"cutí",
-		"chantung",
-		"charmense",
-		"cheviot",
-		"cordura",
-		"damasco",
-		"denim",
-		"doble satén",
-		"dril",
-		"duchesse",
-		"duchester",
-		"empesa",
-		"fieltro",
-		"fresco",
-		"franela",
-		"fibra acrílica",
-		"gamuza",
-		"gasa",
-		"glacé",
-		"guata",
-		"indiana",
-		"jersey",
-		"lino",
-		"loden",
-		"lona",
-		"lustrina",
-		"melton",
-		"milrayas",
-		"muaré",
-		"muletón",
-		"muselina",
-		"nylon balístico",
-		"organdí",
-		"otomán",
-		"pana",
-		"panamá",
-		"pañete",
-		"percal",
-		"piqué",
-		"plumeti",
-		"popelín",
-		"pana lisa",
-		"rayadillo",
-		"rashel",
-		"raso de seda",
-		"reversible",
-		"rizo",
-		"sarga",
-		"shido",
-		"tafetán",
-		"tarlatana",
-		"tejano",
-		"terciopelo",
-		"terciopelo acrílico",
-		"terciopelo algodón",
-		"terciopelo chiffon",
-		"terciopelo de seda",
-		"tisú",
-		"traversina",
-		"tricot",
-		"tul",
-		"tweed",
-		"velour",
-		"velvetón",
-		"vichy",
-		"viyella",
-		"voile"
+		{
+      "name": "ante",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "arpillera",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "astracán",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "alpaca",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "angora",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "bagdalín",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "barège",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "batavia",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "batista",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "bellardina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "bengalina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "bombasín",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "brocado",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "brocatel",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "buclé",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "bayeta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cachemir",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "calandrado",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "calicó",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "calmuc",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cambric",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cantón",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cañamazo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "castorín",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cazoleta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "céfiro",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "chambray",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "charme invertido",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "charmelaine",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cheviot",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "chiffon",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cibelina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cloqué",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cool wool",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cotelé",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "crepé",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "crespo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "crespón",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "crespón de China",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "crespón marroquí",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "crespón Georgette",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "crespón satín",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cretona",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "curado",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cutí",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "shantung",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "charmeuse",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cheviot",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cordura",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "damasco",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "denim",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "doble satén",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "dril",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "duchesse",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "duchester",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "empesa",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "fieltro",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "fresco",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "franela",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "fibra acrílica",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "gamuza",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "gasa",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "glacé",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "guata",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "indiana",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "jersey",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "lino",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "loden",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "lona",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "lustrina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "melton",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "milrayas",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "muaré",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "muletón",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "muselina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "nylon balístico",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "organdí",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "otomán",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "pana",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "panamá",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "pañete",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "percal",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "piqué",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "plumeti",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "popelín",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "pana lisa",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "rayadillo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "rashel",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "raso de seda",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "reversible",
+			"gender": "c",
+			"number": "s"
+		},
+		{
+			"name": "rizo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "sarga",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "sidú",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "tafetán",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "tarlatana",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "tejano",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "terciopelo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "terciopelo acrílico",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "terciopelo algodón",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "terciopelo chiffon",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "terciopelo de seda",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "tisú",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "traversina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "tricot",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "tul",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "tweed",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "velour",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "velvetón",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "vichy",
+			"gender": "c",
+			"number": "s"
+		},
+		{
+			"name": "viyela",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "voile"
+			"gender": "f",
+			"number": "s"
+		}
 	]
 }
