@@ -2,7 +2,7 @@
 	"description": "Modalidades fantásticas de magia y sus practicantes",
 	"magics": [{
 			"name": "abjuración",
-			"gender": "l",
+			"gender": "f",
 			"practitioners": [{
 				"name": "abjuradora",
 				"gender": "f"
@@ -92,7 +92,7 @@
 		},
 		{
 			"name": "conjuración",
-			"gender": "l",
+			"gender": "f",
 			"practitioners": [{
 				"name": "conjuradora",
 				"gender": "f"
