@@ -1,97 +1,465 @@
 {
   "description": "metales",
   "metales": [
-    "actinio",
-    "aluminio",
-    "americio",
-    "bario",
-    "berkelio",
-    "berilio",
-    "bismuto",
-    "borio",
-    "cadmio",
-    "calcio",
-    "californio",
-    "cerio",
-    "cesio",
-    "cromio",
-    "cobalto",
-    "cobre",
-    "curio",
-    "copernicio",
-    "circonio",
-    "darmstatio",
-    "dubnio",
-    "disprosio",
-    "einstenio",
-    "erbio",
-    "europio",
-    "escandio",
-    "estroncio",
-    "estaño",
-    "fermio",
-    "francio",
-    "flerovio",
-    "gadolinio",
-    "galio",
-    "hafnio",
-    "hasio",
-    "holmio",
-    "hierro",
-    "indio",
-    "iridio",
-    "iterbio",
-    "itrio",
-    "lantano",
-    "laurencio",
-    "litio",
-    "lutecio",
-    "livermorio",
-    "magnesio",
-    "manganeso",
-    "meitnerio",
-    "mendelevio",
-    "mercurio",
-    "molibdeno",
-    "moscovio",
-    "neodimio",
-    "neptunio",
-    "níquel",
-    "niobio",
-    "nobelio",
-    "nihonio",
-    "oro",
-    "osmio",
-    "plomo",
-    "paladio",
-    "platino",
-    "plutonio",
-    "polonio",
-    "potasio",
-    "praseodimio",
-    "prometio",
-    "protactinio",
-    "plata",
-    "radio",
-    "renio",
-    "rodio",
-    "roentgenio",
-    "rubidio",
-    "rutenio",
-    "rutherfordio",
-    "samario",
-    "seaborgio",
-    "sodio",
-    "tántalo",
-    "tecnecio",
-    "terbio",
-    "talio",
-    "torio",
-    "tulio",
-    "titanio",
-    "tungsteno",
-    "uranio",
-    "vanadio",
-    "zinc"
+    {
+      "name": "actinio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "aluminio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "americio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "bario",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "berkelio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "berilio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "bismuto",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "borio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cadmio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "calcio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "californio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cerio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cesio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cromio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cobalto",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cobre",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "curio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "copernicio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "circonio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "darmstatio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "dubnio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "disprosio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "einstenio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "erbio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "europio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "escandio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "estroncio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "estaño",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "fermio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "francio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "flerovio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "gadolinio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "galio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "hafnio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "hasio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "holmio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "hierro",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "indio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "iridio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "iterbio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "itrio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "lantano",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "laurencio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "litio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "lutecio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "livermorio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "magnesio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "manganeso",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "meitnerio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "mendelevio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "mercurio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "molibdeno",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "moscovio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "neodimio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "neptunio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "níquel",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "niobio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "nobelio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "nihonio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "oro",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "osmio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "plomo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "paladio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "platino",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "plutonio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "polonio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "potasio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "praseodimio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "prometio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "protactinio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "plata",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "radio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "renio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "rodio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "roentgenio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "rubidio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "rutenio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "rutherfordio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "samario",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "seaborgio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "sodio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tántalo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tecnecio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "terbio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "talio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "torio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tulio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "titanio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tungsteno",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "uranio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "vanadio",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "zinc",
+      "gender": "m",
+			"number": "s"
+		}
   ]
 }
