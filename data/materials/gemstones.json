@@ -1,346 +1,1710 @@
 {
   "description":"Lista de nombres de materiales comúnmente usados como gemas",
   "gemas":[
-    "actinolita",
-    "adamita",
-    "egirina",
-    "afghanita",
-    "agardita",
-    "ágata",
-    "aguamarina",
-    "alejandrita",
-    "alabastro",
-    "albita",
-    "almandino",
-    "granate almandino",
-    "alunitea",
-    "amazonita",
-    "ámbar",
-    "amatista",
-    "ametrino",
-    "amolita",
-    "analcima",
-    "anatasa",
-    "andalusita",
-    "andesina",
-    "andradita",
-    "anglesita",
-    "anhidrita",
-    "ankerita",
-    "annabergita",
-    "antofilita",
-    "antigorita",
-    "antlerita",
-    "aniolita",
-    "obsidiana",
-    "apatita",
-    "apofilita",
-    "aragonito",
-    "astrofilita",
-    "atacamita",
-    "augita",
-    "auricalcita",
-    "austinita",
-    "aventurina",
-    "axinita",
-    "azurita",
-    "azabache",
-    "topacio azótico",
-    "baritina",
-    "bauxita",
-    "bayldonita",
-    "benitoíta",
-    "berilio",
-    "beudantita",
-    "biotita",
-    "bixbyíta",
-    "ámbar azul",
-    "boleíta",
-    "hueso",
-    "boracita",
-    "bornita",
-    "botallackita",
-    "botriógeno",
-    "bavenita",
-    "brasilianita",
-    "brochantita",
-    "broncita",
-    "brookita",
-    "brucita",
-    "vitrografía",
-    "bytownita",
-    "cacoxenita",
-    "calcita",
-    "caledonita",
-    "vesuvianita",
-    "idocrasa",
-    "carletonita",
-    "carminita",
-    "carnalita",
-    "cornalina",
-    "casiterita",
-    "castorita",
-    "cavansita",
-    "celestina",
-    "celestita",
-    "cerusita",
-    "ceylonita",
-    "calcedonia",
-    "calcopirita",
-    "chambersita",
-    "charoíta",
-    "clorastrolita",
-    "jadeíta",
-    "condrodita",
-    "crisoberilo",
-    "crisocola",
-    "crisotilo",
-    "cinabrio",
-    "citrino",
-    "clinocloro",
-    "clinohumita",
-    "clinozoisita",
-    "clintonita",
-    "conicalcita",
-    "copal",
-    "coral",
-    "cordierita",
-    "corindón",
-    "creedita",
-    "crocidolita",
-    "cummingtonita",
-    "cuprita",
-    "cimofana",
-    "ojo de gato",
-    "danburita",
-    "datolita",
-    "diaboleíta",
-    "diamante",
-    "diásporo",
-    "diópsido",
-    "dioptasa",
-    "dolomita",
-    "dravita",
-    "druzy",
-    "dumortierita",
-    "piedra de Eilat",
-    "ekanita",
-    "nefelina",
-    "elbaíta",
-    "esmeralda",
-    "enstatita",
-    "epidosita",
-    "epidota",
-    "eritrina",
-    "esperita",
-    "fayalita",
-    "feldespato",
-    "ferroaxinita",
-    "sílex",
-    "fluorapatita",
-    "fluorapofilita",
-    "fluorita",
-    "forsterita",
-    "granate",
-    "garnierita",
-    "gibbsita",
-    "glaucofana",
-    "goethita",
-    "grandidierita",
-    "grosularia",
-    "aljez",
-    "halita",
-    "hambergita",
-    "hanksite",
-    "hardystonita",
-    "haüyna",
-    "helenita",
-    "heliodoro",
-    "hematita",
-    "hemimorfita",
-    "hessonita",
-    "hibonita",
-    "hiddenita",
-    "humita",
-    "iddingsita",
-    "iolita",
-    "marfil",
-    "jacinto",
-    "jade",
-    "jadeíta",
-    "jarosita",
-    "jaspe",
-    "jeremejevita",
-    "kainita",
-    "kimberlita",
-    "kornerupina",
-    "kuncita",
-    "espodumena",
-    "kutnohorita",
-    "cianita",
-    "labradorita",
-    "espectrolita",
-    "lammerita",
-    "langbeinita",
-    "langita",
-    "lapislázuli",
-    "larimar",
-    "lawsonita",
-    "lazurita",
-    "leadhillita",
-    "lechatelierita",
-    "legrandita",
-    "lepidolita",
-    "leucofanita",
-    "linarita",
-    "londonita",
-    "magnesioaxinita",
-    "magnesita",
-    "malaquita",
-    "manganaxinita",
-    "manganocalcita",
-    "jade albita",
-    "melanterita",
-    "mendipita",
-    "cuarzo lechoso",
-    "mimetita",
-    "moissanita",
-    "radiolarita",
-    "piedra de luna",
-    "morganita",
-    "moscovita",
-    "musgravita",
-    "nácar",
-    "natrofilita",
-    "nefrita",
-    "clorita",
-    "normandita",
-    "turmalina",
-    "olivenita",
-    "olivino",
-    "dunita",
-    "ónix",
-    "ópalo",
-    "ortoclasa",
-    "pallasita",
-    "pantelarita",
-    "papagoíta",
-    "pargasita",
-    "perla",
-    "pectolita",
-    "peridoto",
-    "peridotita",
-    "petalita",
-    "piedra de Petoskey",
-    "pezzottaíta",
-    "farmacosiderita",
-    "flogopita",
-    "fosgenita",
-    "ojo de tigre",
-    "pimelita",
-    "plancheíta",
-    "plumbogummita",
-    "polucita",
-    "polihalita",
-    "posnjakita",
-    "poudretteíta",
-    "cuarzo verde",
-    "prehnita",
-    "proustita",
-    "pumpellyíte",
-    "purpurita",
-    "pirita",
-    "piromorfita",
-    "piropo",
-    "pirrotina",
-    "cuarzo",
-    "raspita",
-    "rodonita",
-    "rodocrosita",
-    "riebeckita",
-    "rosasita",
-    "cuarzo rosa",
-    "rubí",
-    "rutilo",
-    "zafiro",
-    "escapolita",
-    "scheelita",
-    "schorlomita",
-    "escolecita",
-    "escorodita",
-    "selenita",
-    "serafinita",
-    "serendibita",
-    "serpentina",
-    "shattuckita",
-    "shigaíta",
-    "siderita",
-    "smithsonita",
-    "cuarzo ahumado",
-    "esteatita",
-    "sodalita",
-    "espesartina",
-    "lamprófido",
-    "titanita",
-    "esferocobaltita",
-    "espinela",
-    "espodumena",
-    "stichtita",
-    "estilbita",
-    "stishovita",
-    "stolzita",
-    "strengita",
-    "sugilita",
-    "heliotita",
-    "piedra del Sol",
-    "susannita",
-    "silvina",
-    "alejandrita sintética",
-    "berilio sintético",
-    "corindón sintético",
-    "zirconia cúbica sintética",
-    "diamante sintético",
-    "moissanita sintética",
-    "ópalo sintético",
-    "cuarzo sintético",
-    "espinela sintética",
-    "turquesa sintética",
-    "sérandita",
-    "taaffeíta",
-    "skarn",
-    "talco",
-    "tantalita",
-    "tanzanita",
-    "thomsonita",
-    "thulita",
-    "tinaksita",
-    "topacio",
-    "tremolita",
-    "trinitita",
-    "vidrio de Alamogordo",
-    "tsavorita",
-    "tschermakita",
-    "tugtupita",
-    "tusionita",
-    "tirolita",
-    "unakita",
-    "uvarovita",
-    "vanadinita",
-    "variscita",
-    "vauxita",
-    "vermiculita",
-    "villiaumita",
-    "wakefieldita",
-    "wavellita",
-    "weloganita",
-    "wulfenita",
-    "xenotima",
-    "yag",
-    "zektzerita",
-    "zeolita",
-    "cincita",
-    "zinnwaldita",
-    "zircón",
-    "zoisita"
-  ]
+		{
+			"name": "actinolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "adamita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "afghanita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "agardita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "aguamarina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "alabastro",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "albita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "alejandrita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "alejandrita sintética",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "aljez",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "almandino",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "alunitea",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "amatista",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "amazonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "ametrino",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "amolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "analcima",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "anatasa",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "andalusita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "andesina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "andradita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "anglesita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "anhidrita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "aniolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "ankerita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "annabergita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "antigorita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "antlerita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "antofilita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "apatita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "apofilita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "aragonito",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "astrofilita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "atacamita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "augita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "auricalcita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "austinita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "aventurina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "axinita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "azabache",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "azurita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "baritina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "bauxita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "bavenita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "bayldonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "benitoíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "berilio",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "berilio sintético",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "beudantita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "biotita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "bixbyíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "boleíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "boracita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "bornita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "botallackita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "botriógeno",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "brasilianita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "brochantita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "broncita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "brookita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "brucita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "bytownita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cacoxenita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "calcedonia",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "calcita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "calcopirita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "caledonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "carletonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "carminita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "carnalita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "casiterita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "castorita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cavansita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "celestina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "celestita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cerusita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "ceylonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "chambersita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "charoíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cianita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cimofana",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cinabrio",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cincita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "citrino",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "clinocloro",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "clinohumita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "clinozoisita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "clintonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "clorastrolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "clorita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "condrodita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "conicalcita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "copal",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "coral",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cordierita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "corindón",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "corindón sintético",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cornalina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "creedita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "crisoberilo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "crisocola",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "crisotilo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "crocidolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cuarzo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cuarzo ahumado",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cuarzo lechoso",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cuarzo rosa",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cuarzo sintético",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cuarzo verde",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "cummingtonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "cuprita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "danburita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "datolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "diaboleíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "diamante",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "diamante sintético",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "dioptasa",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "diásporo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "diópsido",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "dolomita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "dravita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "druzy",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "dumortierita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "dunita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "egirina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "ekanita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "elbaíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "enstatita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "epidosita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "epidota",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "eritrina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "escapolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "escolecita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "escorodita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "esferocobaltita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "esmeralda",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "espectrolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "esperita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "espesartina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "espinela",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "espinela sintética",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "espodumena",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "espodumena",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "esteatita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "estilbita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "farmacosiderita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "fayalita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "feldespato",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "ferroaxinita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "flogopita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "fluorapatita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "fluorapofilita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "fluorita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "forsterita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "fosgenita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "garnierita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "gibbsita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "glaucofana",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "goethita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "granate",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "granate almandino",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "grandidierita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "grosularia",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "halita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "hambergita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "hanksita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "hardystonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "haüyna",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "helenita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "heliodoro",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "heliotita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "hematita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "hemimorfita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "hessonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "hibonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "hiddenita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "hueso",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "humita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "iddingsita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "idocrasa",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "iolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "jacinto",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "jade",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "jade albita",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "jadeíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "jadeíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "jarosita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "jaspe",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "jeremejevita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "kainita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "kimberlita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "kornerupina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "kuncita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "kutnohorita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "labradorita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "lammerita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "lamprófido",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "langbeinita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "langita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "lapislázuli",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "larimar",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "lawsonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "lazurita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "leadhillita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "lechatelierita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "legrandita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "lepidolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "leucofanita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "linarita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "londonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "magnesioaxinita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "magnesita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "malaquita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "manganaxinita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "manganocalcita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "marfil",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "melanterita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "mendipita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "mimetita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "moissanita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "moissanita sintética",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "morganita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "moscovita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "musgravita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "natrofilita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "nefelina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "nefrita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "normandita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "nácar",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "obsidiana",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "ojo de gato",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "ojo de tigre",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "olivenita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "olivino",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "ortoclasa",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "pallasita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "pantelarita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "papagoíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "pargasita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "pectolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "peridotita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "peridoto",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "perla",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "petalita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "pezzottaíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "piedra de Eilat",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "piedra de Petoskey",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "piedra de luna",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "piedra del Sol",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "pimelita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "pirita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "piromorfita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "piropo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "pirrotina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "plancheíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "plumbogummita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "polihalita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "polucita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "posnjakita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "poudretteíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "prehnita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "proustita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "pumpellyíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "purpurita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "radiolarita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "raspita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "riebeckita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "rodocrosita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "rodonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "rosasita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "rubí",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "rutilo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "scheelita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "schorlomita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "selenita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "serafinita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "serendibita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "serpentina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "shattuckita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "shigaíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "siderita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "silvina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "skarn",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "smithsonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "sodalita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "stichtita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "stishovita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "stolzita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "strengita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "sugilita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "susannita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "sérandita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "sílex",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "taaffeíta",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "talco",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "tantalita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "tanzanita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "thomsonita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "thulita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "tinaksita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "tirolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "titanita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "topacio",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "topacio azótico",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "tremolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "trinitita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "tsavorita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "tschermakita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "tugtupita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "turmalina",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "turquesa sintética",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "tusionita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "unakita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "uvarovita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "vanadinita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "variscita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "vauxita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "vermiculita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "vesuvianita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "vidrio de Alamogordo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "villiaumita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "vitrografía",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "wakefieldita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "wavellita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "weloganita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "wulfenita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "xenotima",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "yag",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "zafiro",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "zektzerita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "zeolita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "zinnwaldita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "zirconia cúbica sintética",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "zircón",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "zoisita",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "ágata",
+			"gender": "f",
+			"number": "s"
+		},
+		{
+			"name": "ámbar",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "ámbar azul",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "ónix",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "ópalo",
+			"gender": "m",
+			"number": "s"
+		},
+		{
+			"name": "ópalo sintético",
+			"gender": "m",
+			"number": "s"
+		}
+	]
 }
