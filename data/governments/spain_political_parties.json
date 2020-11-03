@@ -1,0 +1,161 @@
+{
+    "description": "Lista de partidos políticos de España según  https://es.wikipedia.org/wiki/Partido_político_(España)",
+    "parties": [
+        {
+            "name":"Alianza Nacional", 
+            "acronym":"AN"
+        },
+        {
+            "name":"Alternativa Española",
+            "acronym":"AES"
+        },
+        {
+            "name":"Alternativa Nacionalista Canaria",
+            "acronym":"ANC"
+        },
+        {
+            "name":"Andecha Astur",
+            "acronym":"AA"
+        },
+        {
+            "name":"Bloque Nacionalista Galego",
+            "acronym":"BNG"
+        },
+        {
+            "name":"Chunta Aragonesista",
+            "acronym":"CHA"
+        },
+        {
+            "name":"Ciudadanos",
+            "acronym":"Cs"
+        },
+        {
+            "name":"Coalición Canaria",
+            "acronym":"CC"
+        },
+        {
+            "name":"Compromís",
+            "acronym":"CCPV"
+        },
+        {
+            "name":"Compromisu per Asturies",
+            "acronym":"CxA"
+        },
+        {
+            "name":"Comunión Tradicionalista Carlista",
+            "acronym":"CTC"
+        },
+        {
+            "name":"Convergència Democràtica de Catalunya",
+            "acronym":"CDC"
+        },
+        {
+            "name":"Democracia Nacional",
+            "acronym":"DN"
+        },
+        {
+            "name":"Equo",
+            "acronym":"EQUO"
+        },
+        {
+            "name":"España 2000",
+            "acronym":"E-2000"
+        },
+        {
+            "name":"Esquerra Republicana de Catalunya",
+            "acronym":"ERC"
+        },
+        {
+            "name":"Euskal Herria Bildu",
+            "acronym":"EH Bildu"
+        },
+        {
+            "name":"Falange Auténtica",
+            "acronym":"FA"
+        },
+        {
+            "name":"Falange Española de las JONS",
+            "acronym":"FE de las JONS"
+        },
+        {
+            "name":"Foro Asturias",
+            "acronym":"FORO"
+        },
+        {
+            "name":"Impulso Social",
+            "acronym":"IS"
+        },
+        {
+            "name":"Izquierda Unida",
+            "acronym":"IU"
+        },
+        {
+            "name":"La España en Marcha",
+            "acronym":"LEM"
+        },
+        {
+            "name":"La Falange",
+            "acronym":"FE"
+        },
+        {
+            "name":"Movimiento Católico Español",
+            "acronym":"MCE"
+        },
+        {
+            "name":"Partido Andalucista",
+            "acronym":"PA"
+        },
+        {
+            "name":"Partido Castellano-Tierra Comunera",
+            "acronym":"PCAS-TC"
+        },
+        {
+            "name":"Partido del Trabajo Democrático",
+            "acronym":"PTD"
+        },
+        {
+            "name":"Partido Familia y Vida",
+            "acronym":"PFyV"
+        },
+        {
+            "name":"Partido Nacionalista Vasco",
+            "acronym":"PNV"
+        },
+        {
+            "name":"Partido Popular",
+            "acronym":"PP"
+        },
+        {
+            "name":"Partido Regionalista de Cantabria",
+            "acronym":"PRC"
+        },
+        {
+            "name":"Partido Socialista Obrero Español",
+            "acronym":"PSOE"
+        },
+        {
+            "name":"Puyalón de Cuchas",
+            "acronym":"Puyalón"
+        },
+        {
+            "name":"Socialistas Independientes de Extremadura",
+            "acronym":"SIEX"
+        },
+        {
+            "name":"Unidad del Pueblo",
+            "acronym":"UP"
+        },
+        {
+            "name":"Unión del Pueblo Leonés",
+            "acronym":"UPL"
+        },
+        {
+            "name":"Unión Progreso y Democracia",
+            "acronym":"UPyD"
+        },
+        {
+            "name":"Vox",
+            "acronym":"Vox"
+        }
+    ]
+}
