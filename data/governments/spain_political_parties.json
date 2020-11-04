@@ -1,5 +1,5 @@
 {
-    "description": "Lista de partidos políticos de España según  https://es.wikipedia.org/wiki/Partido_político_(España)",
+    "description": "Lista de partidos políticos de España según https://es.wikipedia.org/wiki/Partido_político_(España)",
     "parties": [
         {
             "name":"Alianza Nacional", 
