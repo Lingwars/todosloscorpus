@@ -1,0 +1,355 @@
+{
+	"description": "Listado de vinos de España con Denominación de Origen.",
+	"wines": [
+		{
+			"name": "Abona",
+			"area": "Arico",
+			"autonomous_community": "Islas Canarias"
+		},
+		{
+			"name": "Alella",
+			"area": "Alella",
+			"autonomous_community": "Cataluña"
+		},
+		{
+			"name": "Alicante",
+			"area": "Alicante",
+			"autonomous_community": "Comunidad Valenciana"
+		},
+		{
+			"name": "Almansa",
+			"area": "Almansa",
+			"autonomous_community": "Castilla-La Mancha"
+		},
+		{
+			"name": "Arlanza",
+			"area": "Burgos y Palencia",
+			"autonomous_community": "Castilla y León"
+		},
+		{
+			"name": "Arribes",
+			"area": "Salamanca y Zamora",
+			"autonomous_community": "Castilla y León"
+		},
+		{
+			"name": "Bierzo",
+			"area": "El Bierzo",
+			"autonomous_community": "Castilla y León"
+		},
+		{
+			"name": "Binissalem-Mallorca",
+			"area": "Mallorca",
+			"autonomous_community": "Islas Baleares"
+		},
+		{
+			"name": "Bullas",
+			"area": "Murcia",
+			"autonomous_community": "Murcia"
+		},
+		{
+			"name": "Calatayud",
+			"area": "Calatayud (Zaragoza)",
+			"autonomous_community": "Aragón"
+		},
+		{
+			"name": "Campo de Borja",
+			"area": "Borja",
+			"autonomous_community": "Aragón"
+		},
+		{
+			"name": "Cangas",
+			"area": "Cangas",
+			"autonomous_community": "Asturias"
+		},
+		{
+			"name": "Cariñena",
+			"area": "Cariñena",
+			"autonomous_community": "Aragón"
+		},
+		{
+			"name": "Catalunya",
+			"area": "Cataluña",
+			"autonomous_community": "Cataluña"
+		},
+		{
+			"name": "Cava",
+			"area": "Penedés",
+			"autonomous_community": "Cataluña"
+		},
+		{
+			"name": "Txacoli de Álava",
+			"area": "Álava",
+			"autonomous_community": "Pais Vasco"
+		},
+		{
+			"name": "Txacoli de Guetaria",
+			"area": "Gipuzkoa",
+			"autonomous_community": "Pais Vasco"
+		},
+		{
+			"name": "Txacoli de Bizkaia",
+			"area": "Bizkaia",
+			"autonomous_community": "Pais Vasco"
+		},
+		{
+			"name": "Cigales",
+			"area": "Palencia y Valladolid",
+			"autonomous_community": "Castilla y León"
+		},
+		{
+			"name": "Conca de Barberá",
+			"area": "Tarragona",
+			"autonomous_community": "Cataluña"
+		},
+		{
+			"name": "Condado de Huelva",
+			"area": "Huelva",
+			"autonomous_community": "Andalucía"
+		},
+		{
+			"name": "Costers del Segre",
+			"area": "Lleida",
+			"autonomous_community": "Cataluña"
+		},
+		{
+			"name": "El Hierro",
+			"area": "El Hierro",
+			"autonomous_community": "Islas Canarias"
+		},
+		{
+			"name": "Empordá",
+			"area": "Ampurdán",
+			"autonomous_community": "Cataluña"
+		},
+		{
+			"name": "Gran Canaria",
+			"area": "Gran Canaria",
+			"autonomous_community": "Islas Canarias"
+		},
+		{
+			"name": "Jerez-Xérez-Sherry",
+			"area": "Jérez",
+			"autonomous_community": "Andalucía"
+		},
+		{
+			"name": "Jumilla",
+			"area": "Albacete",
+			"autonomous_community": "Castilla la Mancha"
+		},
+		{
+			"name": "La Gomera",
+			"area": "La Gomera",
+			"autonomous_community": "Islas Canarias"
+		},
+		{
+			"name": "La Mancha",
+			"area": "La Mancha",
+			"autonomous_community": "Castilla La Mancha"
+		},
+		{
+			"name": "La Palma",
+			"area": "La Palma",
+			"autonomous_community": "Islas Canarias"
+		},
+		{
+			"name": "Lanzarote",
+			"area": "Lanzarote",
+			"autonomous_community": "Islas Canarias"
+		},
+		{
+			"name": "Málaga",
+			"area": "Málaga",
+			"autonomous_community": "Andalucía"
+		},
+		{
+			"name": "Manchuela",
+			"area": "Manchuela",
+			"autonomous_community": "Castilla la Mancha"
+		},
+		{
+			"name": "Manzanilla Sanlúcar de Barrameda",
+			"area": "Sanlúcar de Barrameda",
+			"autonomous_community": "Andalucía"
+		},
+		{
+			"name": "Méntrida",
+			"area": "Toledo",
+			"autonomous_community": "Castilla la Mancha"
+		},
+		{
+			"name": "Mondéjar",
+			"area": "Guadalajara",
+			"autonomous_community": "Castilla la Mancha"
+		},
+		{
+			"name": "Monterrei",
+			"area": "Monterrei",
+			"autonomous_community": "Galicia"
+		},
+		{
+			"name": "Montilla-Moriles",
+			"area": "Córdoba",
+			"autonomous_community": "Andalucía"
+		},
+		{
+			"name": "Montsant",
+			"area": "El Priorato",
+			"autonomous_community": "Cataluña"
+		},
+		{
+			"name": "Navarra",
+			"area": "Navarra",
+			"autonomous_community": "Navarra"
+		},
+		{
+			"name": "Penedés",
+			"area": "El Penedés",
+			"autonomous_community": "Cataluña"
+		},
+		{
+			"name": "Pla de  Bages",
+			"area": "Bages",
+			"autonomous_community": "Cataluña"
+		},
+		{
+			"name": "Pla i Llevant",
+			"area": "Mallorca",
+			"autonomous_community": "Islas Baleares"
+		},
+		{
+			"name": "Priorat",
+			"area": "Tarragona",
+			"autonomous_community": "Cataluña"
+		},
+		{
+			"name": "Rias Baixas",
+			"area": "Rias Baixas",
+			"autonomous_community": "Galicia"
+		},
+		{
+			"name": "Ribeira Sacra",
+			"area": "Ribeira Sacra",
+			"autonomous_community": "Galicia"
+		},
+		{
+			"name": "Ribeiro",
+			"area": "Ourense",
+			"autonomous_community": "Galicia"
+		},
+		{
+			"name": "Ribera del Duero",
+			"area": "Duero",
+			"autonomous_community": "Castilla y León"
+		},
+		{
+			"name": "Ribera del Guadiana",
+			"area": "Extremadura",
+			"autonomous_community": "Extremadura"
+		},
+		{
+			"name": "Ribera del Júcar",
+			"area": "Cuenca",
+			"autonomous_community": "Castilla la Mancha"
+		},
+		{
+			"name": "Rioja",
+			"area": "La Rioja",
+			"autonomous_community": "Rioja y Pais Vasco"
+		},
+		{
+			"name": "Rueda",
+			"area": "Castilla y León",
+			"autonomous_community": "Castilla y León"
+		},
+		{
+			"name": "Sierras de Málaga",
+			"area": "Málaga",
+			"autonomous_community": "Andalucía"
+		},
+		{
+			"name": "Somontano",
+			"area": "Huesca",
+			"autonomous_community": "Aragón"
+		},
+		{
+			"name": "Tacoronte-Acentejo",
+			"area": "Tenerife",
+			"autonomous_community": "Islas Canarias"
+		},
+		{
+			"name": "Tarragona",
+			"area": "Tarragona",
+			"autonomous_community": "Cataluña"
+		},
+		{
+			"name": "Terra Alta",
+			"area": "Tarragona",
+			"autonomous_community": "Cataluña"
+		},
+		{
+			"name": "León",
+			"area": "León",
+			"autonomous_community": "Castilla y León"
+		},
+		{
+			"name": "Tierra del vino de Zamora",
+			"area": "Zamora y Salamanca",
+			"autonomous_community": "Castilla y León"
+		},
+		{
+			"name": "Toro",
+			"area": "Zamora y Valladolid",
+			"autonomous_community": "Castilla y León"
+		},
+		{
+			"name": "Uclés",
+			"area": "Cuenca y Toledo",
+			"autonomous_community": "Castilla la Mancha"
+		},
+		{
+			"name": "Utiel-Requena",
+			"area": "Valencia",
+			"autonomous_community": "C. Valenciana"
+		},
+		{
+			"name": "Valdeorras",
+			"area": "Ourese",
+			"autonomous_community": "Galicia"
+		},
+		{
+			"name": "Valdepeñas",
+			"area": "Valdepeñas)",
+			"autonomous_community": "Castilla la Mancha"
+		},
+		{
+			"name": "Valencia",
+			"area": "Valencia",
+			"autonomous_community": "C. Valenciana"
+		},
+		{
+			"name": "Valle de Güimar",
+			"area": "Tenerife",
+			"autonomous_community": "Islas Canarias"
+		},
+		{
+			"name": "Valle de la Orotava",
+			"area": "Tenerife",
+			"autonomous_community": "Islas Canarias"
+		},
+		{
+			"name": "Vinos de Madrid",
+			"area": "Madrid",
+			"autonomous_community": "Madrid"
+		},
+		{
+			"name": "Ycoden-Daute-Isora",
+			"area": "La Guancha",
+			"autonomous_community": "Islas Canarias"
+		},
+		{
+			"name": "Yecla",
+			"area": "Yecla",
+			"autonomous_community": "Murcia"
+		}
+	]
+}
