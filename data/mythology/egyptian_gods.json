@@ -119,7 +119,8 @@
         "Khentekhtai": {"depictions": ["cocodrilo"], "genders": ["masculino"], "keywords": ["cocodrilo"]},
         "Khenti-Amenti": {"depictions": [], "genders": ["masculino"], "keywords": []},
         "Khenti-qerer": {"depictions": [], "genders": ["masculino"], "keywords": []},
-        "Khepri": {"depictions": ["escarabajo"], "genders": ["masculino"], "keywords": ["escarabajo", "creación", "escarabajo", "sol"]},
+        "Khepri": {"depictions": ["escarabajo"], "genders": ["masculino"], "keywords": ["escarabajo", "creación", "sol"]},
+
         "Kherty": {"depictions": ["carnero"], "genders": ["masculino"], "keywords": ["carnero", "inframundo"]},
         "Khesfu": {"depictions": [], "genders": ["masculino"], "keywords": ["lanza"]},
         "Khnum (Khnemu)": {"depictions": ["carnero"], "genders": ["masculino"], "keywords": ["Nilo", "inundación", "vida", "carnero"]},
