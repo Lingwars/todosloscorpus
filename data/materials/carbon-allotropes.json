@@ -1,0 +1,80 @@
+{
+  "description": "alótropos del carbono",
+  "alótropos del carbono": [
+    {
+      "name": "buckminsterfulerenos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "carbono amorfo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "carbono vítreo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "carbono atómico",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "carbono diatómico",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "carbono acetilénico lineal",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "diamante",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "grafito",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "grafeno",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "grafenileno",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "lonsdaleíta",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "nanotubos de carbono",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "nanobuds de carbono",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "nanoespuma de carbono",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "schwarzites",
+      "gender": "m",
+      "number": "p"
+		}
+  ]
+}
