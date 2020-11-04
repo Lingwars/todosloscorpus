@@ -2,7 +2,7 @@
   "description": "piedras decorativas",
   "piedras decorativas": [
 		{
-      "name": "anortosita",
+                  "name": "anortosita",
 			"gender": "f",
 			"number": "s"
 		},
