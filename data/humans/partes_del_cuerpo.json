@@ -1,5 +1,6 @@
 {
-  "description": "Una lista partes comunes del cuerpo humano.",
+  "description": "Una lista de partes comunes del cuerpo humano.",
+
   "bodyParts": [
     "axilas",
     "antebrazo",
