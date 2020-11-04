@@ -9,12 +9,12 @@
 		{
 			"name": "Alella",
 			"area": "Alella",
-			"autonomous_community": "Cataluña"
+			"autonomous_community": "Catalunya"
 		},
 		{
 			"name": "Alicante",
 			"area": "Alicante",
-			"autonomous_community": "Comunidad Valenciana"
+			"autonomous_community": "Comunitat Valenciana"
 		},
 		{
 			"name": "Almansa",
@@ -39,7 +39,7 @@
 		{
 			"name": "Binissalem-Mallorca",
 			"area": "Mallorca",
-			"autonomous_community": "Islas Baleares"
+			"autonomous_community": "Illes Balears"
 		},
 		{
 			"name": "Bullas",
@@ -48,7 +48,7 @@
 		},
 		{
 			"name": "Calatayud",
-			"area": "Calatayud (Zaragoza)",
+			"area": "Calatayud",
 			"autonomous_community": "Aragón"
 		},
 		{
@@ -68,28 +68,28 @@
 		},
 		{
 			"name": "Catalunya",
-			"area": "Cataluña",
-			"autonomous_community": "Cataluña"
+			"area": "Catalunya",
+			"autonomous_community": "Catalunya"
 		},
 		{
 			"name": "Cava",
-			"area": "Penedés",
-			"autonomous_community": "Cataluña"
+			"area": "Penedès",
+			"autonomous_community": "Catalunya"
 		},
 		{
 			"name": "Txacoli de Álava",
-			"area": "Álava",
-			"autonomous_community": "Pais Vasco"
+			"area": "Araba/Álava",
+			"autonomous_community": "Euskadi"
 		},
 		{
 			"name": "Txacoli de Guetaria",
 			"area": "Gipuzkoa",
-			"autonomous_community": "Pais Vasco"
+			"autonomous_community": "Euskadi"
 		},
 		{
 			"name": "Txacoli de Bizkaia",
 			"area": "Bizkaia",
-			"autonomous_community": "Pais Vasco"
+			"autonomous_community": "Euskadi"
 		},
 		{
 			"name": "Cigales",
@@ -99,7 +99,7 @@
 		{
 			"name": "Conca de Barberá",
 			"area": "Tarragona",
-			"autonomous_community": "Cataluña"
+			"autonomous_community": "Catalunya"
 		},
 		{
 			"name": "Condado de Huelva",
@@ -109,7 +109,7 @@
 		{
 			"name": "Costers del Segre",
 			"area": "Lleida",
-			"autonomous_community": "Cataluña"
+			"autonomous_community": "Catalunya"
 		},
 		{
 			"name": "El Hierro",
@@ -117,9 +117,9 @@
 			"autonomous_community": "Islas Canarias"
 		},
 		{
-			"name": "Empordá",
-			"area": "Ampurdán",
-			"autonomous_community": "Cataluña"
+			"name": "Empordà",
+			"area": "Empordà",
+			"autonomous_community": "Catalunya"
 		},
 		{
 			"name": "Gran Canaria",
@@ -134,7 +134,7 @@
 		{
 			"name": "Jumilla",
 			"area": "Albacete",
-			"autonomous_community": "Castilla la Mancha"
+			"autonomous_community": "Castilla-La Mancha"
 		},
 		{
 			"name": "La Gomera",
@@ -144,7 +144,7 @@
 		{
 			"name": "La Mancha",
 			"area": "La Mancha",
-			"autonomous_community": "Castilla La Mancha"
+			"autonomous_community": "Castilla-La Mancha"
 		},
 		{
 			"name": "La Palma",
@@ -164,7 +164,7 @@
 		{
 			"name": "Manchuela",
 			"area": "Manchuela",
-			"autonomous_community": "Castilla la Mancha"
+			"autonomous_community": "Castilla-La Mancha"
 		},
 		{
 			"name": "Manzanilla Sanlúcar de Barrameda",
@@ -174,12 +174,12 @@
 		{
 			"name": "Méntrida",
 			"area": "Toledo",
-			"autonomous_community": "Castilla la Mancha"
+			"autonomous_community": "Castilla-La Mancha"
 		},
 		{
 			"name": "Mondéjar",
 			"area": "Guadalajara",
-			"autonomous_community": "Castilla la Mancha"
+			"autonomous_community": "Castilla-La Mancha"
 		},
 		{
 			"name": "Monterrei",
@@ -193,8 +193,8 @@
 		},
 		{
 			"name": "Montsant",
-			"area": "El Priorato",
-			"autonomous_community": "Cataluña"
+			"area": "El Priorat",
+			"autonomous_community": "Catalunya"
 		},
 		{
 			"name": "Navarra",
@@ -202,28 +202,28 @@
 			"autonomous_community": "Navarra"
 		},
 		{
-			"name": "Penedés",
-			"area": "El Penedés",
-			"autonomous_community": "Cataluña"
+			"name": "Penedès",
+			"area": "El Penedès",
+			"autonomous_community": "Catalunya"
 		},
 		{
 			"name": "Pla de  Bages",
 			"area": "Bages",
-			"autonomous_community": "Cataluña"
+			"autonomous_community": "Catalunya"
 		},
 		{
 			"name": "Pla i Llevant",
 			"area": "Mallorca",
-			"autonomous_community": "Islas Baleares"
+			"autonomous_community": "Illes Balears"
 		},
 		{
 			"name": "Priorat",
-			"area": "Tarragona",
-			"autonomous_community": "Cataluña"
+			"area": "El Priorat",
+			"autonomous_community": "Catalunya"
 		},
 		{
-			"name": "Rias Baixas",
-			"area": "Rias Baixas",
+			"name": "Rías Baixas",
+			"area": "Ríaas Baixas",
 			"autonomous_community": "Galicia"
 		},
 		{
@@ -238,7 +238,7 @@
 		},
 		{
 			"name": "Ribera del Duero",
-			"area": "Duero",
+			"area": "Soria/Burgos/Segovia/Valladolid",
 			"autonomous_community": "Castilla y León"
 		},
 		{
@@ -249,16 +249,16 @@
 		{
 			"name": "Ribera del Júcar",
 			"area": "Cuenca",
-			"autonomous_community": "Castilla la Mancha"
+			"autonomous_community": "Castilla-La Mancha"
 		},
 		{
 			"name": "Rioja",
 			"area": "La Rioja",
-			"autonomous_community": "Rioja y Pais Vasco"
+			"autonomous_community": "La Rioja y Euskadi"
 		},
 		{
 			"name": "Rueda",
-			"area": "Castilla y León",
+			"area": "Valladolid/Segovia/Ávila",
 			"autonomous_community": "Castilla y León"
 		},
 		{
@@ -279,12 +279,12 @@
 		{
 			"name": "Tarragona",
 			"area": "Tarragona",
-			"autonomous_community": "Cataluña"
+			"autonomous_community": "Catalunya"
 		},
 		{
 			"name": "Terra Alta",
 			"area": "Tarragona",
-			"autonomous_community": "Cataluña"
+			"autonomous_community": "Catalunya"
 		},
 		{
 			"name": "León",
@@ -304,7 +304,7 @@
 		{
 			"name": "Uclés",
 			"area": "Cuenca y Toledo",
-			"autonomous_community": "Castilla la Mancha"
+			"autonomous_community": "Castilla-La Mancha"
 		},
 		{
 			"name": "Utiel-Requena",
@@ -313,18 +313,18 @@
 		},
 		{
 			"name": "Valdeorras",
-			"area": "Ourese",
+			"area": "Ourense",
 			"autonomous_community": "Galicia"
 		},
 		{
 			"name": "Valdepeñas",
-			"area": "Valdepeñas)",
-			"autonomous_community": "Castilla la Mancha"
+			"area": "Valdepeñas",
+			"autonomous_community": "Castilla-La Mancha"
 		},
 		{
 			"name": "Valencia",
-			"area": "Valencia",
-			"autonomous_community": "C. Valenciana"
+			"area": "València",
+			"autonomous_community": "Comunitat Valenciana"
 		},
 		{
 			"name": "Valle de Güimar",
@@ -338,7 +338,7 @@
 		},
 		{
 			"name": "Vinos de Madrid",
-			"area": "Madrid",
+			"area": "Arganda del Rey/Navalcarnero/San Martin de Valdeiglesias/El Molar",
 			"autonomous_community": "Madrid"
 		},
 		{
