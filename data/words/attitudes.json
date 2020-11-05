@@ -1,237 +1,1397 @@
 {
-  "Description": "Lista de adjetivos calificativos connotados de actitud o de características personales."
+  "description": "Lista de adjetivos calificativos connotados de actitud o de características personales."
   "adjetives": [
-    "abierto",
-    "activo",
-    "afanoso",
-    "atareado",
-    "afable",
-    "afectuoso",
-    "acogedor",
-    "apacible",
-    "ameno",
-    "amistoso",
-    "afectivo",
-    "agradable",
-    "atractivo",
-    "adorable",
-    "alegre",
-    "alborozado",
-    "alerta",
-    "amable",
-    "ambicioso",
-    "amigable",
-    "analítico",
-    "animoso",
-    "alacre",
-    "asertivo",
-    "atento",
-    "auténtico",
-    "apto",
-    "audaz",
-    "altruista",
-    "astuto",
-    "bondadoso",
-    "benévolo",
-    "bromista",
-    "bravo",
-    "claro",
-    "campechano",
-    "cariñoso",
-    "cálido",
-    "cautivante",
-    "contento",
-    "chistoso",
-    "concienzudo",
-    "comedido",
-    "capaz",
-    "competente",
-    "calificado",
-    "cauteloso",
-    "cauto",
-    "coherente",
-    "colaborador",
-    "comprensivo",
-    "comunicador",
-    "conciliador",
-    "concreto",
-    "confiable",
-    "consciente",
-    "constante",
-    "constructivo",
-    "controlado",
-    "conversador",
-    "convincente",
-    "cooperativo",
-    "coordinador",
-    "cordial",
-    "cortés",
-    "creativo",
-    "crítico",
-    "cuidadoso",
-    "cumplidor",
-    "consecuente",
-    "culto",
-    "cultivado",
-    "diligente",
-    "dinámico",
-    "dulce",
-    "divertido",
-    "determinado",
-    "decidido",
-    "desenvuelto",
-    "decente",
-    "dispuesto",
-    "diestro",
-    "digno",
-    "diplomático",
-    "discreto",
-    "docto",
-    "dialogante",
-    "detallista",
-    "expresivo",
-    "efusivo",
-    "entendido",
-    "encantador",
-    "enérgico",
-    "entregado",
-    "entusiasta",
-    "estable",
-    "exacto",
-    "exigente",
-    "experto",
-    "extravertido",
-    "económico",
-    "ecuánime",
-    "equitativo",
-    "educado",
-    "enseñado",
-    "eficaz",
-    "eficiente",
-    "ejecutivo",
-    "emprendedor",
-    "erudito",
-    "franco",
-    "festivo",
-    "fidedigno",
-    "fiable",
-    "fiel",
-    "firme",
-    "flexible",
-    "formal",
-    "gracioso",
-    "gentil",
-    "grato",
-    "galante",
-    "generoso",
-    "honesto",
-    "honrado",
-    "hábil",
-    "habilidoso",
-    "hablador",
-    "interesante",
-    "intrépido",
-    "inteligente",
-    "indulgente",
-    "imaginativo",
-    "independiente",
-    "inventivo",
-    "infatigable",
-    "incansable",
-    "imparcial",
-    "instruido",
-    "ilustrado",
-    "jocoso",
-    "jubiloso",
-    "juicioso",
-    "jovial",
-    "justo",
-    "llano",
-    "ligero",
-    "legal",
-    "leal",
-    "lanzado",
-    "laborioso",
-    "líder",
-    "lógico",
-    "moderno",
-    "moderado",
-    "mesurado",
-    "mañoso",
-    "maduro",
-    "matemático",
-    "mecánico",
-    "memorioso",
-    "metódico",
-    "minucioso",
-    "motivador",
-    "moral",
-    "noble",
-    "negociador",
-    "obsequioso",
-    "objetivo",
-    "optimista",
-    "ordenado",
-    "organizado",
-    "presto",
-    "pronto",
-    "perseverante",
-    "poderoso",
-    "paciente",
-    "perceptivo",
-    "persistente",
-    "persuasivo",
-    "polivalente",
-    "ponderado",
-    "positivo",
-    "práctico",
-    "precavido",
-    "preciso",
-    "previsor",
-    "productivo",
-    "prudente",
-    "puntual",
-    "perfeccionista",
-    "resiliente",
-    "resuelto",
-    "risueño",
-    "recto",
-    "riguroso",
-    "rápido",
-    "razonable",
-    "reflexivo",
-    "relajado",
-    "respetuoso",
-    "sencillo",
-    "sociable",
-    "servicial",
-    "sensato",
-    "sabio",
-    "serio",
-    "sagaz",
-    "sosegado",
-    "seguro",
-    "sensible",
-    "sereno",
-    "simpático",
-    "sincero",
-    "sistemático",
-    "solucionador",
-    "tierno",
-    "tratable",
-    "transigente",
-    "trabajador",
-    "tenaz",
-    "tolerante",
-    "tranquilo",
-    "urbano",
-    "vivaracho",
-    "vivo",
-    "virtuoso",
-    "valiente",
-    "vendedor",
-    "versado",
-    "ágil",
-    "ético"
+    {
+      "word": "abierto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "activo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "afanoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "atareado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "afable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "afectuoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "acogedor",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "apacible",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "ameno",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "amistoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "afectivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "agradable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "atractivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "adorable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "alegre",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "alborozado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "alerta",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "amable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "ambicioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "amigable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "analítico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "animoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "alacre",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "asertivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "atento",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "auténtico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "apto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "audaz",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "altruista",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "astuto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "bondadoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "benévolo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "bromista",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "bravo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "claro",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "campechano",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "cariñoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "cálido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "cautivante",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "contento",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "chistoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "concienzudo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "comedido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "capaz",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "competente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "calificado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "cauteloso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "cauto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "coherente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "colaborador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "comprensivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "comunicador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "conciliador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "concreto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "confiable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "consciente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "constante",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "constructivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "controlado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "conversador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "convincente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "cooperativo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "coordinador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "cordial",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "cortés",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "creativo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "crítico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "cuidadoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "cumplidor",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "consecuente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "culto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "cultivado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "diligente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "dinámico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "dulce",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "divertido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "determinado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "decidido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "desenvuelto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "decente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "dispuesto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "diestro",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "digno",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "diplomático",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "discreto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "docto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "dialogante",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "detallista",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "expresivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "efusivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "entendido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "encantador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "enérgico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "entregado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "entusiasta",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "estable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "exacto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "exigente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "experto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "extravertido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "económico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "ecuánime",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "equitativo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "educado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "enseñado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "eficaz",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "eficiente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "ejecutivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "emprendedor",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "erudito",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "franco",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "festivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "fidedigno",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "fiable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "fiel",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "firme",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "flexible",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "formal",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "gracioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "gentil",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "grato",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "galante",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "generoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "honesto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "honrado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "hábil",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "habilidoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "hablador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "interesante",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "intrépido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "inteligente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "indulgente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "imaginativo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "independiente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "inventivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "infatigable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "incansable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "imparcial",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "instruido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "ilustrado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "jocoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "jubiloso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "juicioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "jovial",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "justo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "llano",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "ligero",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "legal",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "leal",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "lanzado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "laborioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "líder",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "lógico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "moderno",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "moderado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "mesurado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "mañoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "maduro",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "matemático",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "mecánico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "memorioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "metódico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "minucioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "motivador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "moral",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "noble",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "negociador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "obsequioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "objetivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "optimista",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "ordenado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "organizado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "presto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "pronto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "perseverante",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "poderoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "paciente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "perceptivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "persistente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "persuasivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "polivalente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "ponderado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "positivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "práctico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "precavido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "preciso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "previsor",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "productivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "prudente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "puntual",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "perfeccionista",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "resiliente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "resuelto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "risueño",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "recto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "riguroso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "rápido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "razonable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "reflexivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "relajado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "respetuoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "sencillo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "sociable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "servicial",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "sensato",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "sabio",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "serio",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "sagaz",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "sosegado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "seguro",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "sensible",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "sereno",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "simpático",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "sincero",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "sistemático",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "solucionador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "tierno",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "tratable",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "transigente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "trabajador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "tenaz",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "tolerante",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "tranquilo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "urbano",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "vivaracho",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "vivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "virtuoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "valiente",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "vendedor",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "versado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "ágil",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "ético",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    }
   ]
 }
