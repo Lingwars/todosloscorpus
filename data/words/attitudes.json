@@ -2066,30 +2066,6 @@
       "number": "p"
     },
     {
-      "word": "económico",
-      "connotation": "p",
-      "gender": "m",
-      "number": "s"
-    },
-    {
-      "word": "económicos",
-      "connotation": "p",
-      "gender": "m",
-      "number": "p"
-    },
-    {
-      "word": "económica",
-      "connotation": "p",
-      "gender": "f",
-      "number": "s"
-    },
-    {
-      "word": "económicas",
-      "connotation": "p",
-      "gender": "f",
-      "number": "p"
-    },
-    {
       "word": "ecuánime",
       "connotation": "p",
       "gender": "c",
@@ -3189,54 +3165,6 @@
     },
     {
       "word": "maduras",
-      "connotation": "p",
-      "gender": "f",
-      "number": "p"
-    },
-    {
-      "word": "matemático",
-      "connotation": "p",
-      "gender": "m",
-      "number": "s"
-    },
-    {
-      "word": "matemáticos",
-      "connotation": "p",
-      "gender": "m",
-      "number": "p"
-    },
-    {
-      "word": "matemática",
-      "connotation": "p",
-      "gender": "f",
-      "number": "s"
-    },
-    {
-      "word": "matemáticas",
-      "connotation": "p",
-      "gender": "f",
-      "number": "p"
-    },
-    {
-      "word": "mecánico",
-      "connotation": "p",
-      "gender": "m",
-      "number": "s"
-    },
-    {
-      "word": "mecánicos",
-      "connotation": "p",
-      "gender": "m",
-      "number": "p"
-    },
-    {
-      "word": "mecánica",
-      "connotation": "p",
-      "gender": "f",
-      "number": "s"
-    },
-    {
-      "word": "mecánicas",
       "connotation": "p",
       "gender": "f",
       "number": "p"
