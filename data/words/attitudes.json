@@ -1,5 +1,5 @@
 {
-  "description": "Lista de adjetivos calificativos connotados de actitud o de características personales."
+  "description": "Lista de adjetivos calificativos connotados de actitud o de características personales.",
   "adjetives": [
     {
       "word": "abierto",
@@ -8,10 +8,46 @@
       "number": "s"
     },
     {
+      "word": "abiertos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "abierta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "abiertas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "activo",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "activos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "activa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "activas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "afanoso",
@@ -20,16 +56,58 @@
       "number": "s"
     },
     {
+      "word": "afanosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "afanosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "afanosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "atareado",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "afable",
+      "word": "atareados",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "atareada",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "atareadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "afable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "afables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "afectuoso",
@@ -38,16 +116,58 @@
       "number": "s"
     },
     {
+      "word": "afectuosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "afectuosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "afectuosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "acogedor",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "apacible",
+      "word": "acogedores",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "acogedora",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "acogedoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "apacible",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "apacibles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "ameno",
@@ -56,10 +176,46 @@
       "number": "s"
     },
     {
+      "word": "amenos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "amena",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "amenas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "amistoso",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "amistosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "amistosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "amistosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "afectivo",
@@ -68,10 +224,34 @@
       "number": "s"
     },
     {
-      "word": "agradable",
+      "word": "afectivos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "afectiva",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "afectivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "agradable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "agradables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "atractivo",
@@ -80,16 +260,46 @@
       "number": "s"
     },
     {
-      "word": "adorable",
+      "word": "atractivos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "atractiva",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "atractivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "adorable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "adorable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "alegre",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "alegres",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "alborozado",
@@ -98,16 +308,46 @@
       "number": "s"
     },
     {
-      "word": "alerta",
+      "word": "alborozados",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "alborozada",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "alborozadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "alerta",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "alertas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "amable",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "amables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "ambicioso",
@@ -116,10 +356,34 @@
       "number": "s"
     },
     {
-      "word": "amigable",
+      "word": "ambiciosos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "ambiciosa",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "ambiciosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "amigable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "amigable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "analítico",
@@ -128,16 +392,58 @@
       "number": "s"
     },
     {
+      "word": "analíticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "analítica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "analíticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "animoso",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "alacre",
+      "word": "animosos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "animosa",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "animosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "alacre",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "alacres",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "asertivo",
@@ -146,10 +452,46 @@
       "number": "s"
     },
     {
+      "word": "asertivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "asertiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "asertivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "atento",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "atentos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "atenta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "atentas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "auténtico",
@@ -158,22 +500,70 @@
       "number": "s"
     },
     {
+      "word": "auténticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "auténtica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "auténticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "apto",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "audaz",
+      "word": "aptos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "apta",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "aptas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "audaz",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "audaces",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "altruista",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "altruistas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "astuto",
@@ -182,10 +572,46 @@
       "number": "s"
     },
     {
+      "word": "astutos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "astuta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "astutas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "bondadoso",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "bondadosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "bondadosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "bondadosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "benévolo",
@@ -194,10 +620,34 @@
       "number": "s"
     },
     {
-      "word": "bromista",
+      "word": "benévolos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "benévola",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "benévolas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "bromista",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "bromistas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "bravo",
@@ -206,10 +656,46 @@
       "number": "s"
     },
     {
+      "word": "bravos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "brava",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "bravas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "claro",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "claros",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "clara",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "claras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "campechano",
@@ -218,10 +704,46 @@
       "number": "s"
     },
     {
+      "word": "campechanos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "campechana",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "campechanas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "cariñoso",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "cariñosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "cariñosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "cariñosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "cálido",
@@ -230,10 +752,34 @@
       "number": "s"
     },
     {
-      "word": "cautivante",
+      "word": "cálidos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "cálida",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "cálidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "cautivante",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "cautivantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "contento",
@@ -242,10 +788,46 @@
       "number": "s"
     },
     {
+      "word": "contentos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "contenta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "contentas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "chistoso",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "chistosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "chistosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "chistosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "concienzudo",
@@ -254,22 +836,70 @@
       "number": "s"
     },
     {
+      "word": "concienzudos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "concienzuda",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "concienzudas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "comedido",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "capaz",
+      "word": "comedidos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "comedida",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "comedidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "capaz",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "capaces",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "competente",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "competentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "calificado",
@@ -278,10 +908,46 @@
       "number": "s"
     },
     {
+      "word": "calificados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "calificada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "calificadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "cauteloso",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "cautelosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "cautelosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "cautelosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "cauto",
@@ -290,10 +956,34 @@
       "number": "s"
     },
     {
-      "word": "coherente",
+      "word": "cautos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "cauta",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "cautas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "coherente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "coherentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "colaborador",
@@ -302,10 +992,46 @@
       "number": "s"
     },
     {
+      "word": "colaboradores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "colaboradora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "colaboradoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "comprensivo",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "comprensivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "comprensiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "comprensivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "comunicador",
@@ -314,10 +1040,46 @@
       "number": "s"
     },
     {
+      "word": "comunicadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "comunicadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "comunicadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "conciliador",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "conciliadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "conciliadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "conciliadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "concreto",
@@ -326,22 +1088,58 @@
       "number": "s"
     },
     {
-      "word": "confiable",
+      "word": "concretos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "concreta",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "concretas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "confiable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "confiables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "consciente",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "conscientes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "constante",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "constantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "constructivo",
@@ -350,10 +1148,46 @@
       "number": "s"
     },
     {
+      "word": "constructivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "constructiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "constructivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "controlado",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "controlados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "controlada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "controladas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "conversador",
@@ -362,10 +1196,34 @@
       "number": "s"
     },
     {
-      "word": "convincente",
+      "word": "conversadores",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "conversadora",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "conversadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "convincente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "convincentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "cooperativo",
@@ -374,22 +1232,70 @@
       "number": "s"
     },
     {
+      "word": "cooperativos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "cooperativa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "cooperativas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "coordinador",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "cordial",
+      "word": "coordinadores",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "coordinadora",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "coordinadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "cordial",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "cordiales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "cortés",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "corteses",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "creativo",
@@ -398,10 +1304,46 @@
       "number": "s"
     },
     {
+      "word": "creativos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "creativa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "creativas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "crítico",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "críticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "crítica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "críticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "cuidadoso",
@@ -410,16 +1352,58 @@
       "number": "s"
     },
     {
+      "word": "cuidadosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "cuidadosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "cuidadosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "cumplidor",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "consecuente",
+      "word": "cumplidores",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "cumplidora",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "cumplidoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "consecuente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "consecuentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "culto",
@@ -428,16 +1412,58 @@
       "number": "s"
     },
     {
+      "word": "cultos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "culta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "cultas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "cultivado",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "diligente",
+      "word": "cultivados",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "cultivada",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "cultivadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "diligente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "diligentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "dinámico",
@@ -446,10 +1472,34 @@
       "number": "s"
     },
     {
-      "word": "dulce",
+      "word": "dinámicos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "dinámica",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "dinámicas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "dulce",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "dulce",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "divertido",
@@ -458,10 +1508,46 @@
       "number": "s"
     },
     {
+      "word": "divertidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "divertida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "divertidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "determinado",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "determinados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "determinada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "determinadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "decidido",
@@ -470,16 +1556,58 @@
       "number": "s"
     },
     {
+      "word": "decididos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "decidida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "decididas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "desenvuelto",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "decente",
+      "word": "desenvueltos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "desenvuelta",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "desenvueltas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "decente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "decentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "dispuesto",
@@ -488,10 +1616,46 @@
       "number": "s"
     },
     {
+      "word": "dispuestos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "dispuesta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "dispuestas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "diestro",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "diestros",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "diestra",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "diestras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "digno",
@@ -500,10 +1664,46 @@
       "number": "s"
     },
     {
+      "word": "dignos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "digna",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "dignas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "diplomático",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "diplomáticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "diplomática",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "diplomáticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "discreto",
@@ -512,22 +1712,70 @@
       "number": "s"
     },
     {
+      "word": "discretos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "discreta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "discretas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "docto",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "dialogante",
+      "word": "doctos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "docta",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "doctas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "dialogante",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "dialogantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "detallista",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "detallistas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "expresivo",
@@ -536,10 +1784,46 @@
       "number": "s"
     },
     {
+      "word": "expresivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "expresiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "expresivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "efusivo",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "efusivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "efusiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "efusivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "entendido",
@@ -548,10 +1832,46 @@
       "number": "s"
     },
     {
+      "word": "entendidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "entendida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "entendidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "encantador",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "encantadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "encantadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "encantadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "enérgico",
@@ -560,22 +1880,70 @@
       "number": "s"
     },
     {
+      "word": "enérgicos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "enérgica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "enérgicas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "entregado",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "entusiasta",
+      "word": "entregados",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "entregada",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "entregadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "entusiasta",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "entusiastas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "estable",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "estables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "exacto",
@@ -584,10 +1952,34 @@
       "number": "s"
     },
     {
-      "word": "exigente",
+      "word": "exactos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "exacta",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "exactas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "exigente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "exigentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "experto",
@@ -596,10 +1988,46 @@
       "number": "s"
     },
     {
+      "word": "expertos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "experta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "expertas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "extravertido",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "extravertidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "extravertida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "extravertidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "económico",
@@ -608,10 +2036,34 @@
       "number": "s"
     },
     {
-      "word": "ecuánime",
+      "word": "económicos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "económica",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "económicas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "ecuánime",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "ecuánimes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "equitativo",
@@ -620,10 +2072,46 @@
       "number": "s"
     },
     {
+      "word": "equitativos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "equitativa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "equitativas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "educado",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "educados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "educada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "educadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "enseñado",
@@ -632,16 +2120,46 @@
       "number": "s"
     },
     {
-      "word": "eficaz",
+      "word": "enseñados",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "enseñada",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "enseñadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "eficaz",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "eficaces",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "eficiente",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "eficientes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "ejecutivo",
@@ -650,10 +2168,46 @@
       "number": "s"
     },
     {
+      "word": "ejecutivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "ejecutiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "ejecutivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "emprendedor",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "emprendedores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "emprendedora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "emprendedoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "erudito",
@@ -662,10 +2216,46 @@
       "number": "s"
     },
     {
+      "word": "eruditos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "erudita",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "eruditas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "franco",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "francos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "franca",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "francas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "festivo",
@@ -674,16 +2264,58 @@
       "number": "s"
     },
     {
+      "word": "festivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "festiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "festivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "fidedigno",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "fiable",
+      "word": "fidedignos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "fidedigna",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "fidedignas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "fiable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "fiables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "fiel",
@@ -692,22 +2324,46 @@
       "number": "s"
     },
     {
+      "word": "fieles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
       "word": "firme",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "firmes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "flexible",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "flexibles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "formal",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "formales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "gracioso",
@@ -716,10 +2372,34 @@
       "number": "s"
     },
     {
-      "word": "gentil",
+      "word": "graciosos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "graciosa",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "graciosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "gentil",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "gentiles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "grato",
@@ -728,10 +2408,34 @@
       "number": "s"
     },
     {
-      "word": "galante",
+      "word": "gratos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "grata",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "gratas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "galante",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "galantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "generoso",
@@ -740,10 +2444,46 @@
       "number": "s"
     },
     {
+      "word": "generosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "generosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "generosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "honesto",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "honestos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "honesta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "honestas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "honrado",
@@ -752,10 +2492,34 @@
       "number": "s"
     },
     {
-      "word": "hábil",
+      "word": "honrados",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "honrada",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "honradas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "hábil",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "hábiles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "habilidoso",
@@ -764,16 +2528,58 @@
       "number": "s"
     },
     {
+      "word": "habilidosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "habilidosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "habilidosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "hablador",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "interesante",
+      "word": "habladores",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "habladora",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "habladoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "interesante",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "interesantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "intrépido",
@@ -782,16 +2588,46 @@
       "number": "s"
     },
     {
-      "word": "inteligente",
+      "word": "intrépidos",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
+      "word": "intrépida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "intrépidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "inteligente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "inteligentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
       "word": "indulgente",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "indulgentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "imaginativo",
@@ -800,10 +2636,34 @@
       "number": "s"
     },
     {
-      "word": "independiente",
+      "word": "imaginativos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "imaginativa",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "imaginativas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "independiente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "independientes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "inventivo",
@@ -812,22 +2672,58 @@
       "number": "s"
     },
     {
-      "word": "infatigable",
+      "word": "inventivos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "inventiva",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "inventivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "infatigable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "infatigables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "incansable",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "incansables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "imparcial",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "imparciales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "instruido",
@@ -836,10 +2732,46 @@
       "number": "s"
     },
     {
+      "word": "instruidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "instruida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "instruidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "ilustrado",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "ilustrados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "ilustrada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "ilustradas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "jocoso",
@@ -848,10 +2780,46 @@
       "number": "s"
     },
     {
+      "word": "jocosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "jocosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "jocosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "jubiloso",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "jubilosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "jubilosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "jubilosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "juicioso",
@@ -860,10 +2828,34 @@
       "number": "s"
     },
     {
-      "word": "jovial",
+      "word": "juiciosos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "juiciosa",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "juiciosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "jovial",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "joviales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "justo",
@@ -872,10 +2864,46 @@
       "number": "s"
     },
     {
+      "word": "justos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "justa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "justas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "llano",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "llanos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "llana",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "llanas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "ligero",
@@ -884,16 +2912,46 @@
       "number": "s"
     },
     {
-      "word": "legal",
+      "word": "ligeros",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "ligera",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "ligeras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "legal",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "legales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "leal",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "leales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "lanzado",
@@ -902,16 +2960,58 @@
       "number": "s"
     },
     {
+      "word": "lanzados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "lanzada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "lanzadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "laborioso",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "líder",
+      "word": "laboriosos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "laboriosa",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "laboriosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "líder",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "líderes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "lógico",
@@ -920,10 +3020,46 @@
       "number": "s"
     },
     {
+      "word": "lógicos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "lógica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "lógicas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "moderno",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "modernos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "moderna",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "modernas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "moderado",
@@ -932,10 +3068,46 @@
       "number": "s"
     },
     {
+      "word": "moderados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "moderada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "moderadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "mesurado",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "mesurados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "mesurada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "mesuradas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "mañoso",
@@ -944,10 +3116,46 @@
       "number": "s"
     },
     {
+      "word": "mañosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "mañosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "mañosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "maduro",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "maduros",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "madura",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "maduras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "matemático",
@@ -956,10 +3164,46 @@
       "number": "s"
     },
     {
+      "word": "matemáticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "matemática",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "matemáticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "mecánico",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "mecánicos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "mecánica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "mecánicas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "memorioso",
@@ -968,10 +3212,46 @@
       "number": "s"
     },
     {
+      "word": "memoriosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "memoriosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "memoriosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "metódico",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "metódicos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "metódica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "metódicas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "minucioso",
@@ -980,22 +3260,70 @@
       "number": "s"
     },
     {
+      "word": "minuciosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "minuciosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "minuciosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "motivador",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "moral",
+      "word": "motivadores",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "motivadora",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "motivadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "moral",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "morales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "noble",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "nobles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "negociador",
@@ -1004,10 +3332,46 @@
       "number": "s"
     },
     {
+      "word": "negociadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "negociadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "negociadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "obsequioso",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "obsequiosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "obsequiosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "obsequiosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "objetivo",
@@ -1016,10 +3380,34 @@
       "number": "s"
     },
     {
-      "word": "optimista",
+      "word": "objetivos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "objetiva",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "objetivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "optimista",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "optimistas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "ordenado",
@@ -1028,10 +3416,46 @@
       "number": "s"
     },
     {
+      "word": "ordenados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "ordenada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "ordenadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "organizado",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "organizados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "organizada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "organizadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "presto",
@@ -1040,16 +3464,58 @@
       "number": "s"
     },
     {
+      "word": "prestos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "presta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "prestas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "pronto",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "perseverante",
+      "word": "prontos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "pronta",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "prontas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "perseverante",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "perseverantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "poderoso",
@@ -1058,10 +3524,34 @@
       "number": "s"
     },
     {
-      "word": "paciente",
+      "word": "poderosos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "poderosa",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "poderosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "paciente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "pacientes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "perceptivo",
@@ -1070,10 +3560,34 @@
       "number": "s"
     },
     {
-      "word": "persistente",
+      "word": "perceptivos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "perceptiva",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "perceptivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "persistente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "persistentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "persuasivo",
@@ -1082,10 +3596,34 @@
       "number": "s"
     },
     {
-      "word": "polivalente",
+      "word": "persuasivos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "persuasiva",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "persuasivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "polivalente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "polivalentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "ponderado",
@@ -1094,10 +3632,46 @@
       "number": "s"
     },
     {
+      "word": "ponderados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "ponderada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "ponderadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "positivo",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "positivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "positiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "positivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "práctico",
@@ -1106,10 +3680,46 @@
       "number": "s"
     },
     {
+      "word": "prácticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "práctica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "prácticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "precavido",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "precavidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "precavida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "precavidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "preciso",
@@ -1118,9 +3728,45 @@
       "number": "s"
     },
     {
+      "word": "precisos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "precisa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "precisas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "previsor",
       "connotation": "p",
       "gender": "m",
+      "number": "s"
+    },
+    {
+      "word": "previsores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "previsora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "previsoras",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
     },
     {
@@ -1130,28 +3776,70 @@
       "number": "s"
     },
     {
-      "word": "prudente",
+      "word": "productivos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "productiva",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "productivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "prudente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "prudentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "puntual",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "puntuales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "perfeccionista",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "perfeccionistas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "resiliente",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "resilientes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "resuelto",
@@ -1160,10 +3848,46 @@
       "number": "s"
     },
     {
+      "word": "resueltos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "resuelta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "resueltas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "risueño",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "risueños",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "risueña",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "risueñas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "recto",
@@ -1172,10 +3896,46 @@
       "number": "s"
     },
     {
+      "word": "rectos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "recta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "rectas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "riguroso",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "rigurosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "rigurosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "rigurosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "rápido",
@@ -1184,10 +3944,34 @@
       "number": "s"
     },
     {
-      "word": "razonable",
+      "word": "rápidos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "rápida",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "rápidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "razonable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "razonables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "reflexivo",
@@ -1196,10 +3980,46 @@
       "number": "s"
     },
     {
+      "word": "reflexivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "reflexiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "reflexivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "relajado",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "relajados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "relajada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "relajadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "respetuoso",
@@ -1208,22 +4028,70 @@
       "number": "s"
     },
     {
+      "word": "respetuosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "respetuosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "respetuosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "sencillo",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "sociable",
+      "word": "sencillos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "sencilla",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "sencillas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "sociable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "sociables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "servicial",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "serviciales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "sensato",
@@ -1232,10 +4100,46 @@
       "number": "s"
     },
     {
+      "word": "sensatos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "sensata",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "sensatas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "sabio",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "sabios",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "sabia",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "sabias",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "serio",
@@ -1244,10 +4148,34 @@
       "number": "s"
     },
     {
-      "word": "sagaz",
+      "word": "serios",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "seria",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "serias",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "sagaz",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "sagaces",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "sosegado",
@@ -1256,16 +4184,58 @@
       "number": "s"
     },
     {
+      "word": "sosegados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "sosegada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "sosegadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "seguro",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "sensible",
+      "word": "seguros",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "segura",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "seguras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "sensible",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "sensibles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "sereno",
@@ -1274,10 +4244,46 @@
       "number": "s"
     },
     {
+      "word": "serenos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "serena",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "serenas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "simpático",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "simpáticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "simpática",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "simpáticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "sincero",
@@ -1286,10 +4292,46 @@
       "number": "s"
     },
     {
+      "word": "sinceros",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "sincera",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "sinceras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "sistemático",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "sistemáticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "sistemática",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "sistemáticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "solucionador",
@@ -1298,22 +4340,70 @@
       "number": "s"
     },
     {
+      "word": "solucionadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "solucionadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "solucionadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "tierno",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "tratable",
+      "word": "tiernos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "tierna",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "tiernas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "tratable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "tratables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "transigente",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "transigentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "trabajador",
@@ -1322,16 +4412,46 @@
       "number": "s"
     },
     {
-      "word": "tenaz",
+      "word": "trabajadores",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "trabajadora",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "trabajadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "tenaz",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "tenaces",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "tolerante",
       "connotation": "p",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
+    },
+    {
+      "word": "tolerantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "tranquilo",
@@ -1340,10 +4460,46 @@
       "number": "s"
     },
     {
+      "word": "tranquilos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "tranquila",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "tranquilas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "urbano",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "urbanos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "urbana",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "urbanas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "vivaracho",
@@ -1352,10 +4508,46 @@
       "number": "s"
     },
     {
+      "word": "vivarachos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "vivaracha",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "vivarachas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "vivo",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "vivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "viva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "vivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     },
     {
       "word": "virtuoso",
@@ -1364,10 +4556,34 @@
       "number": "s"
     },
     {
-      "word": "valiente",
+      "word": "virtuosos",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "virtuosa",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "virtuosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "valiente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "valientes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "vendedor",
@@ -1376,22 +4592,82 @@
       "number": "s"
     },
     {
+      "word": "vendedores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "vendedora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "vendedoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
       "word": "versado",
       "connotation": "p",
       "gender": "m",
       "number": "s"
     },
     {
-      "word": "ágil",
+      "word": "versados",
       "connotation": "p",
       "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "versada",
+      "connotation": "p",
+      "gender": "f",
       "number": "s"
+    },
+    {
+      "word": "versadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "word": "ágil",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "word": "ágiles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
     },
     {
       "word": "ético",
       "connotation": "p",
       "gender": "m",
       "number": "s"
+    },
+    {
+      "word": "éticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "word": "ética",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "word": "éticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
     }
   ]
 }
