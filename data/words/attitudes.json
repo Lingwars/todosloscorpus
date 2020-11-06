@@ -7870,25 +7870,13 @@
     {
       "name": "vulgar",
       "connotation": "n",
-      "gender": "m",
+      "gender": "c",
       "number": "s"
     },
     {
       "name": "vulgares",
       "connotation": "n",
-      "gender": "m",
-      "number": "p"
-    },
-    {
-      "name": "vulgara",
-      "connotation": "n",
-      "gender": "f",
-      "number": "s"
-    },
-    {
-      "name": "vulgaras",
-      "connotation": "n",
-      "gender": "f",
+      "gender": "c",
       "number": "p"
     },
     {
