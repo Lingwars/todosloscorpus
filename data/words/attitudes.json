@@ -1,0 +1,8003 @@
+{
+  "description": "Lista de adjetivos calificativos connotados de actitud o de características personales.",
+  "adjetives": [
+    {
+      "name": "abierto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "abiertos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "abierta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "abiertas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "activo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "activos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "activa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "activas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "afanoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "afanosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "afanosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "afanosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "atareado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "atareados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "atareada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "atareadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "afable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "afables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "afectuoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "afectuosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "afectuosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "afectuosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "acogedor",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "acogedores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "acogedora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "acogedoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "apacible",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "apacibles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "ameno",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "amenos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "amena",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "amenas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "amistoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "amistosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "amistosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "amistosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "afectivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "afectivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "afectiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "afectivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "agradable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "agradables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "atractivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "atractivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "atractiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "atractivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "adorable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "adorable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "alegre",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "alegres",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "alborozado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "alborozados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "alborozada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "alborozadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "alerta",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "alertas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "amable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "amables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "ambicioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ambiciosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ambiciosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ambiciosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "amigable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "amigables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "analítico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "analíticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "analítica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "analíticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "animoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "animosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "animosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "animosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "alacre",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "alacres",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "asertivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "asertivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "asertiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "asertivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "atento",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "atentos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "atenta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "atentas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "auténtico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "auténticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "auténtica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "auténticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "apto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "aptos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "apta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "aptas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "audaz",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "audaces",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "altruista",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "altruistas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "astuto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "astutos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "astuta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "astutas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "bondadoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "bondadosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "bondadosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "bondadosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "benévolo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "benévolos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "benévola",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "benévolas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "bromista",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "bromistas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "bravo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "bravos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "brava",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "bravas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "claro",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "claros",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "clara",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "claras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "campechano",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "campechanos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "campechana",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "campechanas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cariñoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cariñosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cariñosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cariñosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cálido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cálidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cálida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cálidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cautivante",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "cautivantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "clemente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "clementes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "compasivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "compasivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "compasiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "compasivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "contento",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "contentos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "contenta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "contentas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "chistoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "chistosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "chistosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "chistosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "concienzudo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "concienzudos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "concienzuda",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "concienzudas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "comedido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "comedidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "comedida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "comedidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "capaz",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "capaces",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "competente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "competentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "calificado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "calificados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "calificada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "calificadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cauteloso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cautelosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cautelosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cautelosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cauto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cautos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cauta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cautas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "coherente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "coherentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "colaborador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "colaboradores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "colaboradora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "colaboradoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "comprensivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "comprensivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "comprensiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "comprensivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "comunicador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "comunicadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "comunicadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "comunicadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "conciliador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "conciliadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "conciliadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "conciliadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "concreto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "concretos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "concreta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "concretas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "confiable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "confiables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "consciente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "conscientes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "constante",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "constantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "constructivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "constructivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "constructiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "constructivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "controlado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "controlados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "controlada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "controladas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "conversador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "conversadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "conversadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "conversadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "convincente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "convincentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "cooperativo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cooperativos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cooperativa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cooperativas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "coordinador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "coordinadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "coordinadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "coordinadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cordial",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "cordiales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "cortés",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "corteses",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "creativo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "creativos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "creativa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "creativas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "crítico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "críticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "crítica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "críticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cuidadoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cuidadosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cuidadosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cuidadosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cumplidor",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cumplidores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cumplidora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cumplidoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "consecuente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "consecuentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "culto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cultos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "culta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cultas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cultivado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cultivados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cultivada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cultivadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "diligente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "diligentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "dinámico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "dinámicos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "dinámica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "dinámicas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "dulce",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "dulces",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "divertido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "divertidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "divertida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "divertidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "determinado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "determinados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "determinada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "determinadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "decidido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "decididos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "decidida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "decididas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "desenvuelto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "desenvueltos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "desenvuelta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "desenvueltas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "decente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "decentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "dispuesto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "dispuestos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "dispuesta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "dispuestas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "diestro",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "diestros",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "diestra",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "diestras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "digno",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "dignos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "digna",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "dignas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "diplomático",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "diplomáticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "diplomática",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "diplomáticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "discreto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "discretos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "discreta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "discretas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "docto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "doctos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "docta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "doctas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "dialogante",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "dialogantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "detallista",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "detallistas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "expresivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "expresivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "expresiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "expresivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "efusivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "efusivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "efusiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "efusivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "entendido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "entendidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "entendida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "entendidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "encantador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "encantadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "encantadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "encantadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "enérgico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "enérgicos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "enérgica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "enérgicas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "entregado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "entregados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "entregada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "entregadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "entusiasta",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "entusiastas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "estable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "estables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "exacto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "exactos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "exacta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "exactas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "exigente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "exigentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "experto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "expertos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "experta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "expertas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "extravertido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "extravertidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "extravertida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "extravertidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "ecuánime",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "ecuánimes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "equitativo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "equitativos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "equitativa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "equitativas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "educado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "educados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "educada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "educadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "enseñado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "enseñados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "enseñada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "enseñadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "eficaz",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "eficaces",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "eficiente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "eficientes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "ejecutivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ejecutivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ejecutiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ejecutivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "emprendedor",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "emprendedores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "emprendedora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "emprendedoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "erudito",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "eruditos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "erudita",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "eruditas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "franco",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "francos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "franca",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "francas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "festivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "festivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "festiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "festivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "fidedigno",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "fidedignos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "fidedigna",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "fidedignas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "fiable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "fiables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "fiel",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "fieles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "firme",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "firmes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "flexible",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "flexibles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "formal",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "formales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "gracioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "graciosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "graciosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "graciosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "gentil",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "gentiles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "grato",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "gratos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "grata",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "gratas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "galante",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "galantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "generoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "generosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "generosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "generosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "honesto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "honestos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "honesta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "honestas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "honrado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "honrados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "honrada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "honradas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "hábil",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "hábiles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "habilidoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "habilidosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "habilidosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "habilidosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "hablador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "habladores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "habladora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "habladoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "interesante",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "interesantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "intrépido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "intrépidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "intrépida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "intrépidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "inteligente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "inteligentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "indulgente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "indulgentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "imaginativo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "imaginativos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "imaginativa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "imaginativas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "independiente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "independientes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "inventivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "inventivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "inventiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "inventivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "infatigable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "infatigables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "incansable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "incansables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "imparcial",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "imparciales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "instruido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "instruidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "instruida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "instruidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "ilustrado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ilustrados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ilustrada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ilustradas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "jocoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "jocosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "jocosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "jocosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "jubiloso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "jubilosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "jubilosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "jubilosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "juicioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "juiciosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "juiciosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "juiciosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "jovial",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "joviales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "justo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "justos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "justa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "justas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "llano",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "llanos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "llana",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "llanas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "ligero",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ligeros",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ligera",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ligeras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "legal",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "legales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "leal",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "leales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "lanzado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "lanzados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "lanzada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "lanzadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "laborioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "laboriosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "laboriosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "laboriosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "líder",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "líderes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "lógico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "lógicos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "lógica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "lógicas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "moderno",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "modernos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "moderna",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "modernas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "moderado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "moderados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "moderada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "moderadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "mesurado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "mesurados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "mesurada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "mesuradas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "mañoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "mañosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "mañosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "mañosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "maduro",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "maduros",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "madura",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "maduras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "memorioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "memoriosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "memoriosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "memoriosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "metódico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "metódicos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "metódica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "metódicas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "minucioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "minuciosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "minuciosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "minuciosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "motivador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "motivadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "motivadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "motivadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "moral",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "morales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "noble",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "nobles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "negociador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "negociadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "negociadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "negociadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "obsequioso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "obsequiosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "obsequiosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "obsequiosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "objetivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "objetivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "objetiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "objetivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "optimista",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "optimistas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "ordenado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ordenados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ordenada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ordenadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "organizado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "organizados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "organizada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "organizadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "presto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "prestos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "presta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "prestas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "pronto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "prontos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "pronta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "prontas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "perseverante",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "perseverantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "poderoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "poderosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "poderosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "poderosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "paciente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "pacientes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "perceptivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "perceptivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "perceptiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "perceptivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "persistente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "persistentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "persuasivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "persuasivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "persuasiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "persuasivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "polivalente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "polivalentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "ponderado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ponderados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ponderada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ponderadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "positivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "positivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "positiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "positivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "práctico",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "prácticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "práctica",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "prácticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "precavido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "precavidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "precavida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "precavidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "preciso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "precisos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "precisa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "precisas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "previsor",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "previsores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "previsora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "previsoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "productivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "productivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "productiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "productivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "prudente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "prudentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "puntual",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "puntuales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "perfeccionista",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "perfeccionistas",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "resiliente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "resilientes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "resuelto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "resueltos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "resuelta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "resueltas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "risueño",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "risueños",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "risueña",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "risueñas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "recto",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "rectos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "recta",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "rectas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "riguroso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "rigurosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "rigurosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "rigurosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "rápido",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "rápidos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "rápida",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "rápidas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "razonable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "razonables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "reflexivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "reflexivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "reflexiva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "reflexivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "relajado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "relajados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "relajada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "relajadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "respetuoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "respetuosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "respetuosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "respetuosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "sencillo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "sencillos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "sencilla",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "sencillas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "sociable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "sociables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "servicial",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "serviciales",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "sensato",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "sensatos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "sensata",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "sensatas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "sabio",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "sabios",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "sabia",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "sabias",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "serio",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "serios",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "seria",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "serias",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "sagaz",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "sagaces",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "sosegado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "sosegados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "sosegada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "sosegadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "seguro",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "seguros",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "segura",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "seguras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "sensible",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "sensibles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "sereno",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "serenos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "serena",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "serenas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "simpático",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "simpáticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "simpática",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "simpáticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "sincero",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "sinceros",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "sincera",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "sinceras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "sistemático",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "sistemáticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "sistemática",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "sistemáticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "solucionador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "solucionadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "solucionadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "solucionadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "tierno",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tiernos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "tierna",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "tiernas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "tratable",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "tratables",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "transigente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "transigentes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "trabajador",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "trabajadores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "trabajadora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "trabajadoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "tenaz",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "tenaces",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "tolerante",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "tolerantes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "tranquilo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tranquilos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "tranquila",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "tranquilas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "urbano",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "urbanos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "urbana",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "urbanas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "vivaracho",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "vivarachos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "vivaracha",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "vivarachas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "vivo",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "vivos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "viva",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "vivas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "virtuoso",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "virtuosos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "virtuosa",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "virtuosas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "valiente",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "valientes",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "vendedor",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "vendedores",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "vendedora",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "vendedoras",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "versado",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "versados",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "versada",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "versadas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "ágil",
+      "connotation": "p",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "ágiles",
+      "connotation": "p",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "ético",
+      "connotation": "p",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "éticos",
+      "connotation": "p",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ética",
+      "connotation": "p",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "éticas",
+      "connotation": "p",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "antipático",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "antipáticos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "antipática",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "antipáticas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "arisco",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ariscos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "arisca",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ariscas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "adusto",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "adustos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "adusta",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "adustas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "apagado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "apagados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "apagada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "apagadas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "avaricioso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "avariciosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "avariciosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "avariciosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "arribista",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "arribistas",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "avaro",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "avaros",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "avara",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "avaras",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "absurdo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "absurdos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "absurda",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "absurdas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "amoral",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "amorales",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "aburrido",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "aburridos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "aburrida",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "aburridas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "blandengue",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "blandengues",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "blando",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "blandos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "blanda",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "blandas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "bárbaro",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "bárbaros",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "bárbara",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "bárbaras",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cerrado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cerrados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cerrada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cerradas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "ceñudo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ceñudos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ceñuda",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ceñudas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cándido",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cándidos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cándida",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cándidas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cáustico",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cáusticos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cáustica",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cáusticas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "chapucero",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "chapuceros",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "chapucera",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "chapuceras",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "callado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "callados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "callada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "calladas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cínico",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cínicos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cínica",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cínicas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cansino",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cansinos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "cansina",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cansinas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cascarrabias",
+      "connotation": "n",
+      "gender": "c",
+      "number": "c"
+    },
+    {
+      "name": "chiflado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "chiflados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "chiflada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "chifladas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cobarde",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "cobardes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "conservador",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "conservadores",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "conservadora",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "conservadoras",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "convencional",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "convencionales",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "creído",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "creídos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "creída",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "creídas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "cruel",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "crueles",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "desabrido",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "desabridos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "desabrida",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "desabridas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "descortés",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "descorteses",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "desagradable",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "desagradables",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "desapacible",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "desapacibles",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "detestable",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "detestables",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "desprevenido",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "desprevenidos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "desprevenida",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "desprevenidas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "desdeñoso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "desdeñosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "desdeñosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "desdeñosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "despistado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "despistados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "despistada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "despistadas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "desleal",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "desleales",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "despiadado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "despiadados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "despiadada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "despiadadas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "desconsiderado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "desconsiderados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "desconsiderada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "desconsideradas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "desaprensivo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "desaprensivos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "desaprensiva",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "desaprensivas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "desfasado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "desfasados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "desfasada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "desfasadas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "deshonesto",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "deshonestos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "deshonesta",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "deshonestas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "desordenado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "desordenados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "desordenada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "desordenadas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "desorganizado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "desorganizados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "desorganizada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "desorganizadas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "descuidado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "descuidados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "descuidada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "descuidadas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "despreocupado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "despreocupados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "despreocupada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "despreocupadas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "discutidor",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "discutidores",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "discutidora",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "discutidoras",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "estúpido",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "estúpidos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "estúpida",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "estúpidas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "embustero",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "embusteros",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "embustera",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "embusteras",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "engreído",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "engreídos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "engreída",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "engreídas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "estricto",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "estrictos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "estricta",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "estrictas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "extraño",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "extraños",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "extraña",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "extrañas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "egoísta",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "egoístas",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "frío",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "fríos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "fría",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "frías",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "falso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "falsos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "falsa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "falsas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "grosero",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "groseros",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "grosera",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "groseras",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "hipócrita",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "hipócritas",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "hosco",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "hoscos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "hosca",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "hoscas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "hostil",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "hostiles",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "huraño",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "huraños",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "huraña",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "hurañas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "inactivo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "inactivos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "inactiva",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "inactivas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "indolente",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "indolentes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "incómodo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "incómodos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "incómoda",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "incómodas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "intratable",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "intratables",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "insociable",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "insociables",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "impostor",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "impostores",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "impostora",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "impostoras",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "infiel",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "infieles",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "inepto",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ineptos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "inepta",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ineptas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "indeciso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "indecisos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "indecisa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "indecisas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "insatisfecho",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "insatisfechos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "insatisfecha",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "insatisfechas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "imprudente",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "imprudentes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "indiscreto",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "indiscretos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "indiscreta",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "indiscretas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "incapaz",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "incapaes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "ineficaz",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "ineficaes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "incompetente",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "incompetentes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "incauto",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "incautos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "incauta",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "incautas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "intolerante",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "intolerantes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "inconsciente",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "inconscientes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "inconstante",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "inconstantes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "informal",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "informales",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "inculto",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "incultos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "inculta",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "incultas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "ignorante",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "ignorantes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "irascible",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "irascibles",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "indecente",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "indecentes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "inexperto",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "inexpertos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "inexperta",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "inexpertas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "inhábil",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "inhábiles",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "indigno",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "indignos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "indigna",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "indignas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "insensato",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "insensatos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "insensata",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "insensatas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "impreciso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "imprecisos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "imprecisa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "imprecisas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "inexacto",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "inexactos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "inexacta",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "inexactas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "injusto",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "injustos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "injusta",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "injustas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "ingrato",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ingratos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ingrata",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ingratas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "indeseable",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "indeseables",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "ininteresante",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "ininteresantes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "ilógico",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ilógicos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ilógica",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ilógicas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "inmoral",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "inmorales",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "innoble",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "innobles",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "impaciente",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "impacientes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "improductivo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "improductivos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "improductiva",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "improductivas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "impuntual",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "impuntuales",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "inseguro",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "inseguros",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "insegura",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "inseguras",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "intransigente",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "intransigentes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "inflexible",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "inflexibles",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "ingenuo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ingenuos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ingenua",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ingenuas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "introvertido",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "introvertidos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "introvertida",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "introvertidas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "jaranero",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "jaraneros",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "jaranera",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "jaraneras",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "lacónico",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "lacónicos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "lacónica",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "lacónicas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "lento",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "lentos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "lenta",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "lentas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "loco",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "locos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "loca",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "locas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "miedoso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "miedosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "miedosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "miedosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "maleducado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "maleducados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "maleducada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "maleducadas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "mentiroso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "mentirosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "mentirosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "mentirosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "malo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "malos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "mala",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "malas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "malicioso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "maliciosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "maliciosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "maliciosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "maquiavélico",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "maquiavélicos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "maquiavélica",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "maquiavélicas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "mañoso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "mañosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "mañosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "mañosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "misántropo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "misántropos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "misántropa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "misántropas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "mafioso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "mafiosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "mafiosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "mafiosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "malhumorado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "malhumorados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "malhumorada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "malhumoradas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "modesto",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "modestos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "modesta",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "modestas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "negligente",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "negligentes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "negativo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "negativos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "negativa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "negativas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "necio",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "necios",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "necia",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "necias",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "ocioso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ociosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ociosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ociosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "odioso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "odiosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "odiosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "odiosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "ominoso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ominosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ominosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ominosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "obtuso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "obtusos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "obtusa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "obtusas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "orgulloso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "orgullosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "orgullosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "orgullosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "pasivo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "pasivos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "pasiva",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "pasivas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "pesimista",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "pesimistas",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "pusilánime",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "pusilánimes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "perverso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "perversos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "perversa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "perversas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "parcial",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "parciales",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "pesado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "pesados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "pesada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "pesadas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "presumido",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "presumidos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "presumida",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "presumidas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "perezoso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "perezosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "perezosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "perezosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "rudo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "rudos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ruda",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "rudas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "revoltoso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "revoltosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "revoltosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "revoltosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "reservado",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "reservados",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "reservada",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "reservadas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "repelente",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "repelentes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "repulsivo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "repulsivos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "repulsiva",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "repulsivas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "repugnante",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "repugnantes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "retorcido",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "retorcidos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "retorcida",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "retorcidas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "raro",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "raros",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "rara",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "raras",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "seco",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "secos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "seca",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "secas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "siniestro",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "siniestros",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "siniestra",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "siniestras",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "superficial",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "superficiales",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "severo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "severos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "severa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "severas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "torvo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "torvos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "torva",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "torvas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "triste",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "tristes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "temeroso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "temerosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "temerosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "temerosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "torpe",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "torpes",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "tramposo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tramposos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "tramposa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "tramposas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "tacaño",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tacaños",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "tacaña",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "tacañas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "terco",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tercos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "terca",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "tercas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "testarudo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "testarudos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "testaruda",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "testarudas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "tímido",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tímidos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "tímida",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "tímidas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "tozudo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "tozudos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "tozuda",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "tozudas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "travieso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "traviesos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "traviesa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "traviesas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "vulgar",
+      "connotation": "n",
+      "gender": "c",
+      "number": "s"
+    },
+    {
+      "name": "vulgares",
+      "connotation": "n",
+      "gender": "c",
+      "number": "p"
+    },
+    {
+      "name": "vago",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "vagos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "vaga",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "vagas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "venenoso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "venenosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "venenosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "venenosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "vergonzoso",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "vergonzosos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "vergonzosa",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "vergonzosas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "zurdo",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "zurdos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "zurda",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "zurdas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "ávido",
+      "connotation": "n",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "ávidos",
+      "connotation": "n",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "ávida",
+      "connotation": "n",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "ávidas",
+      "connotation": "n",
+      "gender": "f",
+      "number": "p"
+    }
+  ]
+}
