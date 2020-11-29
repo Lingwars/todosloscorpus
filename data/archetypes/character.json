@@ -1,0 +1,257 @@
+{
+    "description": "Aquetipos de personajes comunes.",
+    "characters": [
+        {
+            "name": "héroe",
+            "synonyms": ["protagonista"],
+            "qualities": ["valiente", "voluntarioso", "decidido"],
+            "nature": "bueno"
+        },
+        {
+            "name": "antihéroe",
+            "synonyms": ["antagonista"],
+            "qualities": ["reticente", "reacio"],
+            "nature": "neutral"
+        },
+        {
+            "name": "analista",
+            "synonyms": ["razonador"],
+            "qualities": ["racional", "lógico"],
+            "nature": "neutral"
+        },
+        {
+            "name": "burócrata",
+            "synonyms": ["abogado", "político", "gerente"],
+            "qualities": ["obediente"],
+            "nature": "neutral"
+        },
+        {
+            "name": "cuidador",
+            "synonyms": ["sanador", "doctor", "enfermero"],
+            "qualities": ["atento", "reconfortante"],
+            "nature": "bueno"
+        },
+        {
+            "name": "catalizador",
+            "synonyms": ["hacedor"],
+            "qualities": ["dinámico", "maleable", "voluble", "impredecible"],
+            "nature": "neutral"
+        },
+        {
+            "name": "cobarde",
+            "synonyms": ["pelele"],
+            "qualities": ["débil", "pusilánime", "temeroso"],
+            "nature": "malvado"
+        },
+        {
+            "name": "cascarrabias",
+            "synonyms": ["gruñón"],
+            "qualities": ["dogmático", "quejoso", "resuelto"],
+            "nature": "malvado"
+        },
+        {
+            "name": "mentor",
+            "synonyms": ["anciano", "maestro", "profesor", "padre", "sabio"],
+            "qualities": ["docente", "guía", "servicial"],
+            "nature": "neutral"
+        },
+        {
+            "name": "chamán",
+            "synonyms": ["guía", "médium", "adivino"],
+            "qualities": ["místico", "misterioso"],
+            "nature": "neutral"
+        },
+        {
+            "name": "heraldo",
+            "synonyms": ["gerofonte", "narrador"],
+            "qualities": ["exponente", "revelador"],
+            "nature": "neutral"
+        },
+        {
+            "name": "embaucador",
+            "synonyms": ["cambiaformas", "mago", "demonio", "celestina", "hechicero"],
+            "qualities": ["complicado", "egocéntrico", "engañoso", "astuto", "manipulador"],
+            "nature": "malo"
+        },
+        {
+            "name": "necio",
+            "synonyms": ["bromista", "bufón", "idiota"],
+            "qualities": ["desconsiderado", "tonto", "divertido"],
+            "nature": "malo"
+        },
+        {
+            "name": "niño",
+            "synonyms": ["inocente", "virgen", "joven", "ingenuo"],
+            "qualities": ["inocente", "inexperto", "simple", "honesto", "crédulo", "adorable"],
+            "nature": "bueno"
+        },
+        {
+            "name": "reflejo",
+            "synonyms": ["espejo", "uno mismo"],
+            "qualities": ["reflectivo"],
+            "nature": "bueno"
+        },
+        {
+            "name": "ermitaño",
+            "synonyms": ["solitario", "introvertido"],
+            "qualities": ["tranquilo", "reservado", "silencioso"],
+            "nature": "neutral"
+        },
+        {
+            "name": "vagabundo",
+            "synonyms": ["viajero", "explorador"],
+            "qualities": ["curioso"],
+            "nature": "neutral"
+        },
+        {
+            "name": "cazador",
+            "synonyms": ["buscador", "rastreador", "detective", "inspector"],
+            "qualities": ["curioso", "comprometido", "decidido"],
+            "nature": "neutral"
+        },
+        {
+            "name": "juez",
+            "synonyms": ["justicia", "magistrado", "árbitro", "alguacil", "sheriff", "investigador"],
+            "qualities": ["justo", "imparcial", "paciente"],
+            "nature": "neutral"
+        },
+        {
+            "name": "tejedor",
+            "synonyms": ["creador", "hilandero", "artesano"],
+            "qualities": ["meticuloso", "hábil"],
+            "nature": "neutral"
+        },
+        {
+            "name": "muerte",
+            "synonyms": ["ejecutor", "verdugo"],
+            "qualities": ["final", "macabro", "mórbido", "oscuro", "sombrío"],
+            "nature": "malo"
+        },
+        {
+            "name": "dador",
+            "synonyms": ["donante", "benefactor"],
+            "qualities": ["dadivoso", "generoso", "caritativo", "patrocinador"],
+            "nature": "bueno"
+        },
+        {
+            "name": "superhumano",
+            "synonyms": ["dios", "semidios"],
+            "qualities": ["increíble", "excepcional"],
+            "nature": "bueno"
+        },
+        {
+            "name": "soñador",
+            "synonyms": ["pensador"],
+            "qualities": ["idealista", "ambicioso"],
+            "nature": "bueno"
+        },
+        {
+            "name": "chismoso",
+            "synonyms": ["cotilla", "soplón", "susurrador", "comunicador"],
+            "qualities": ["hablador", "exponente", "bocazas", "egocéntrico"],
+            "nature": "malo"
+        },
+        {
+            "name": "guardián",
+            "synonyms": ["protector", "guardaespaldas"],
+            "qualities": ["fuerte", "defensor"],
+            "nature": "bueno"
+        },
+        {
+            "name": "hedonista",
+            "synonyms": ["epicúreo"],
+            "qualities": ["egocéntrico", "narcisista", "corto de miras"],
+            "nature": "malo"
+        },
+        {
+            "name": "líder",
+            "synonyms": ["capitán", "general"],
+            "qualities": ["inspirador", "motivador", "persuasivo"],
+            "nature": "bueno"
+        },
+        {
+            "name": "mártir",
+            "synonyms": ["inmolado"],
+            "qualities": ["autosacrificado", "noble"],
+            "nature": "neutral"
+        },
+        {
+            "name": "cualquiera",
+            "synonyms": ["hombre medio"],
+            "qualities": ["común", "típico", "ordinario", "normal"],
+            "nature": "neutral"
+        },
+        {
+            "name": "poeta",
+            "synonyms": ["bardo", "juglar", "trovador", "filósofo"],
+            "qualities": ["reflexivo", "entusiasta", "misterioso", "visionario"],
+            "nature": "bueno"
+        },
+        {
+            "name": "rebelde",
+            "synonyms": ["pícaro", "forastero", "extraño", "luchador"],
+            "qualities": ["indómito", "insurgente", "ingobernable", "inquisitivo"],
+            "nature": "neutral"
+        },
+        {
+            "name": "esclavo",
+            "synonyms": ["cautivo", "peón"],
+            "qualities": ["atrapado", "explotado", "maltratado", "apurado", "enfadado", "enojado"],
+            "nature": "neutral"
+        },
+        {
+            "name": "samaritano",
+            "synonyms": ["ayudante", "asistente"],
+            "qualities": ["abnegado", "altruista", "generoso", "dadivoso"],
+            "nature": "bueno"
+        },
+        {
+            "name": "estudiante",
+            "synonyms": ["didacta", "académico", "intelectual", "teórico", "aprendiz"],
+            "qualities": ["reflexivo", "curioso", "comprometido"],
+            "nature": "neutral"
+        },
+        {
+            "name": "superviviente",
+            "synonyms": ["fugitivo", "prófugo"],
+            "qualities": ["comprometido", "afortunado", "malherido"],
+            "nature": "bueno"
+        },
+        {
+            "name": "adulador",
+            "synonyms": ["sumiso"],
+            "qualities": ["predecible", "complaciente", "solícito", "dependiente"],
+            "nature": "malo"
+        },
+        {
+            "name": "seductor",
+            "synonyms": ["tentador", "donjuán", "femme fatale"],
+            "qualities": ["atractivo", "deshonesto"],
+            "nature": "malo"
+        },
+        {
+            "name": "tirano",
+            "synonyms": ["déspota", "abusón", "matón"],
+            "qualities": ["dominante", "exigente", "desafiante", "enfadado", "enojado", "egocéntrico", "comprometido"],
+            "nature": "malo"
+        },
+        {
+            "name": "víctima",
+            "synonyms": ["sufridor", "blanco"],
+            "qualities": ["malherido", "maltratado", "herido", "lastimado", "temeroso"],
+            "nature": "neutral"
+        },
+        {
+            "name": "huérfano",
+            "synonyms": ["enclenque", "débil", "pillo", "golfo"],
+            "qualities": ["enfermizo", "pobre", "abandonado", "descuidado", "desatendido"],
+            "nature": "neutral"
+        },
+        {
+            "name": "compinche",
+            "synonyms": ["secuaz", "lacayo", "subalterno", "subordinado", "empleado"],
+            "qualities": ["leal", "fiel", "devoto", "obediente", "autómata", "irreflexivo"],
+            "nature": "neutral"
+        }
+    ]
+}

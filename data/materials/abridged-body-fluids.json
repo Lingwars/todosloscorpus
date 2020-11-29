@@ -1,0 +1,160 @@
+{
+  "description": "Compendio de fluidos corporales",
+  "fluidos corporales": [
+    {
+      "name": "bilis",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "cerumen",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "cera",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "endolinfa",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "esputo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "humor acuoso",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "humor vítreo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "jugo gástrico",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "jugos gástricos",
+      "gender": "m",
+      "number": "p"
+    },
+    {
+      "name": "líquido amniótico",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "líquido cefalorraquídeo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "linfa",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "líquido pericárdico",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "líquido peritoneal",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "líquido pleural",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "legaña",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "líquido sinovial",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "lágrimas",
+      "gender": "f",
+      "number": "p"
+    },
+    {
+      "name": "lágrima",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "moco",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "perilinfa",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "pus",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "quilo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "quimo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "sangre",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "suero sanguíneo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "saliva",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "sebo",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "sinovia",
+      "gender": "f",
+      "number": "s"
+    },
+    {
+      "name": "sudor",
+      "gender": "m",
+      "number": "s"
+    },
+    {
+      "name": "vómito",
+      "gender": "m",
+      "number": "s"
+    }
+  ]
+}

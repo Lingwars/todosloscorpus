@@ -1,0 +1,227 @@
+{
+    "description": "Lista de designación de los miembros de una familia y el parentesco",
+    "familyRelations": [
+        {
+             "member": {
+                "m": "abuelo",
+                "f": "abuela"
+            },
+            "inverse": {
+                "m": "nieto",
+                "f": "nieta"
+            }
+        },
+        {
+            "member":{
+                "m": "padre",
+                "f": "madre"
+            },
+            "inverse":{
+                "m": "hijo",
+                "f": "hija"
+            }
+        },
+        {
+            "member":{
+                "m": "primo",
+                "f": "prima"
+            },
+            "inverse":{
+                "m": "primo",
+                "f": "prima"   
+            }
+        },
+        {
+            "member":{
+                "m": "hermano menor",
+                "f": "hermana menor"
+            },
+            "inverse":{
+                "m": "hermano mayor",
+                "f": "hermana mayor"
+            }
+        },
+        {
+            "member": {
+                "m": "hermano mayor",
+                "f": "hermana mayor"
+            },
+            "inverse": {
+                "m": "hermano menor",
+                "f": "hermana menor"
+            }
+        },
+        {
+            "member":{
+                "m": "mellizo",
+                "f": "melliza"
+            },
+            "inverse": {
+                "m": "mellizo",
+                "f": "melliza"
+            }
+        },
+        {
+            "member":{
+                "m": "gemelo",
+                "f": "gemela"
+            },
+            "inverse": {
+                "m": "gemelo",
+                "f": "gemela"
+            }
+        },
+        {
+            "member":{
+                "m": "hermanastro",
+                "f": "hermanastra"  
+          },
+            "inverse": {
+                "m": "hermanastro",
+                "f": "hermanastra"  
+          }
+        },
+        {
+            "member":{
+                "m": "medio hermano",
+                "f": "medio hermana"
+            },
+            "inverse":{
+                "m": "medio hermano",
+                "f": "medio hermana"
+            }
+        },
+        {
+            "member":{
+                "m": "tío",
+                "f": "tía"
+            },
+            "inverse": {
+                "m": "sobrino",
+                "f": "sobrina"
+            }
+        },
+        {
+            "member":{
+                "m": "sobrino",
+                "f": "sobrina"
+            },
+            "inverse":{
+                "m": "tío",
+                "f": "tía"
+            }
+        },
+        {
+            "member":{
+                "m": "padrastro",
+                "f": "madrastra"
+            },
+            "inverse":{
+                "m": "hijastro",
+                "f": "hijastra"
+            }
+        },
+        {
+            "member":{
+                "m": "hijastro",
+                "f": "hijastra"
+            },
+            "inverse":{
+                "m": "padrastro",
+                "f": "madrastra"
+            }
+        },
+        {
+            "member":{
+                "m": "suegro",
+                "f": "suegra"
+            },
+            "inverse":{
+                "m": "yerno",
+                "f": "nuera"
+            }
+        },
+        {
+            "member":{
+                "m": "yerno",
+                "f": "nuera"
+            },
+            "inverse":{
+                "m": "suegro",
+                "f": "suegra"  
+            }
+        },
+        {
+            "member": {
+                "m": "cuñado",
+                "f": "cuñada"
+            },
+            "inverse":{
+                "m": "cuñado",
+                "f": "cuñada"
+            }
+        },
+        {
+            "member": {
+                "m": "bisabuelo",
+                "f": "bisabuela"
+            },
+            "inverse":{
+                "m": "bisnieto",
+                "f": "bisnieta"
+            }
+
+        },
+        {
+            "member": {
+                "m": "bisnieto",
+                "f": "bisnieta"
+            },
+            "inverse":{
+                "m": "bisabuelo",
+                "f": "bisabuela"
+            }
+        },
+        {
+            "member": {
+                "m": "tatarabuelo",
+                "f": "tatarabuela"
+            },
+            "inverse":{
+                "m": "tataranieto",
+                "f": "tataranieta"
+            }
+
+        },
+        {
+            "member": {
+                "m": "tataranieto",
+                "f": "tataranieta"
+            },
+            "inverse":{
+                "m": "tatarabuelo",
+                "f": "tatarabuela"
+            }
+        },
+        {
+            "member": {
+                "m": "tío abuelo",
+                "f": "tía abuela"
+            },
+            "inverse":{
+                "m": "sobrino nieto",
+                "f": "sobrina nieta"
+            }
+        },
+        {
+            "member": {
+                "m": "sobrino nieto",
+                "f": "sobrina nieta"
+            },
+            "inverse":{
+                "m": "tío abuelo",
+                "f": "tía abuela"
+            }
+        }
+    ]
+}
