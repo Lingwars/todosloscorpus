@@ -126,6 +126,10 @@
         "gender": "m"
       },
       {
+        "name": "ambiente",
+        "gender": "m"
+      },
+      {
         "name": "ambulancia",
         "gender": "f"
       },
@@ -474,6 +478,10 @@
         "gender": "f"
       },
       {
+        "name": "comensal",
+        "gender": "c"
+      },
+      {
         "name": "comentarista",
         "gender": "c"
       },
@@ -610,6 +618,10 @@
         "gender": "c"
       },
       {
+        "name": "conveniencia",
+        "gender": "f"
+      },
+      {
         "name": "conversación",
         "gender": "f"
       },
@@ -730,11 +742,19 @@
         "gender": "m"
       },
       {
+        "name": "descubrimiento",
+        "gender": "m"
+      },
+      {
         "name": "deserción",
         "gender": "f"
       },
       {
         "name": "designación",
+        "gender": "f"
+      },
+      {
+        "name": "desobediencia",
         "gender": "f"
       },
       {
@@ -747,6 +767,10 @@
       },
       {
         "name": "destreza",
+        "gender": "f"
+      },
+      {
+        "name": "desventaja",
         "gender": "f"
       },
       {
@@ -782,12 +806,28 @@
         "gender": "m"
       },
       {
+        "name": "distribución",
+        "gender": "f"
+      },
+      {
         "name": "doblez",
+        "gender": "m"
+      },
+      {
+        "name": "dominio",
         "gender": "m"
       },
       {
         "name": "edificio",
         "gender": "m"
+      },
+      {
+        "name": "efectividad",
+        "gender": "f"
+      },
+      {
+        "name": "eficacia",
+        "gender": "f"
       },
       {
         "name": "elección",
@@ -798,7 +838,23 @@
         "gender": "m"
       },
       {
+        "name": "embriaguez",
+        "gender": "f"
+      },
+      {
         "name": "empleador",
+        "gender": "m"
+      },
+      {
+        "name": "entorno",
+        "gender": "m"
+      },
+      {
+        "name": "error",
+        "gender": "m"
+      },
+      {
+        "name": "esclarecimiento",
         "gender": "m"
       },
       {
@@ -822,6 +878,14 @@
         "gender": "f"
       },
       {
+        "name": "exageración",
+        "gender": "f"
+      },
+      {
+        "name": "experiencia",
+        "gender": "f"
+      },
+      {
         "name": "facturación",
         "gender": "f"
       },
@@ -839,6 +903,10 @@
       },
       {
         "name": "fraternidad",
+        "gender": "f"
+      },
+      {
+        "name": "ganancia",
         "gender": "f"
       },
       {
@@ -860,6 +928,14 @@
       {
         "name": "informática",
         "gender": "f"
+      },
+      {
+        "name": "inmersión",
+        "gender": "f"
+      },
+      {
+        "name": "interés",
+        "gender": "m"
       },
       {
         "name": "interrogatorio",
@@ -918,6 +994,10 @@
         "gender": "m"
       },
       {
+        "name": "misión",
+        "gender": "f"
+      },
+      {
         "name": "molestia",
         "gender": "f"
       },
@@ -938,11 +1018,19 @@
         "gender": "m"
       },
       {
+        "name": "oportunidad",
+        "gender": "f"
+      },
+      {
         "name": "oscuridad",
         "gender": "f"
       },
       {
         "name": "panadero",
+        "gender": "m"
+      },
+      {
+        "name": "peligro",
         "gender": "m"
       },
       {
@@ -952,6 +1040,14 @@
       {
         "name": "perdón",
         "gender": "m"
+      },
+      {
+        "name": "perjuicio",
+        "gender": "m"
+      },
+      {
+        "name": "personificación",
+        "gender": "f"
       },
       {
         "name": "piedra",
@@ -971,6 +1067,10 @@
       },
       {
         "name": "posavasos",
+        "gender": "m"
+      },
+      {
+        "name": "predominio",
         "gender": "m"
       },
       {
@@ -1002,7 +1102,15 @@
         "gender": "f"
       },
       {
+        "name": "rechazo",
+        "gender": "m"
+      },
+      {
         "name": "recorte",
+        "gender": "m"
+      },
+      {
+        "name": "refugio",
         "gender": "m"
       },
       {
