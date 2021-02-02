@@ -1,0 +1,172 @@
+{
+	"description": "Razas de mundos de fantasía",
+	"races": [{
+			"name": "centauros",
+			"individuals": [{
+				"name": "centaura",
+				"gender": "f",
+				"qualities": ["cazadora", "territorial", "bárbara"]
+			}, {
+				"name": "centauro",
+				"gender": "m",
+				"qualities": ["cazador", "territorial", "bárbaro"]
+			}]
+		},
+		{
+			"name": "diablos",
+			"individuals": [{
+				"name": "diablesa",
+				"gender": "f",
+				"qualities": ["maligna", "infernal", "impía"]
+			}, {
+				"name": "diablo",
+				"gender": "m",
+				"qualities": ["maligno", "infernal", "impío"]
+			}]
+		},
+		{
+			"name": "dragones",
+			"individuals": [{
+				"name": "dragona",
+				"gender": "f",
+				"qualities": ["inteligente", "fiera", "ambiciosa"]
+			}, {
+				"name": "dragón",
+				"gender": "m",
+				"qualities": ["inteligente", "fiero", "ambicioso"]
+			}]
+		},
+		{
+			"name": "elfos",
+			"individuals": [{
+				"name": "elfa",
+				"gender": "f",
+				"qualities": ["bella", "sabia", "mágica"]
+			}, {
+				"name": "elfo",
+				"gender": "m",
+				"qualities": ["bello", "sabio", "mágico"]
+			}]
+		},
+		{
+			"name": "enanos",
+			"individuals": [{
+				"name": "enana",
+				"gender": "f",
+				"qualities": ["robusta", "barbuda", "persistente"]
+			}, {
+				"name": "enano",
+				"gender": "m",
+				"qualities": ["robusto", "barbudo", "persistente"]
+			}]
+		},
+		{
+			"name": "gigantes",
+			"individuals": [{
+				"name": "giganta",
+				"gender": "f",
+				"qualities": ["enorme", "fuerte", "violenta"]
+			}, {
+				"name": "gigante",
+				"gender": "m",
+				"qualities": ["enorme", "fuerte", "violento"]
+			}]
+		},
+		{
+			"name": "gnomos",
+			"individuals": [{
+				"name": "gnómida",
+				"gender": "f",
+				"qualities": ["astuta", "bondadosa", "pequeña"]
+			}, {
+				"name": "gnomo",
+				"gender": "m",
+				"qualities": ["astuto", "bondadoso", "pequeño"]
+			}]
+		},
+		{
+			"name": "hobbits",
+			"individuals": [{
+				"name": "hobbit",
+				"gender": "f",
+				"qualities": ["valerosa", "tímida", "pequeña"]
+			}, {
+				"name": "hobbit",
+				"gender": "m",
+				"qualities": ["valeroso", "tímido", "pequeño"]
+			}]
+		},
+		{
+			"name": "humanos",
+			"individuals": [{
+				"name": "humana",
+				"gender": "f",
+				"qualities": ["adaptable", "ambiciosa", "oportunista"]
+			}, {
+				"name": "humano",
+				"gender": "m",
+				"qualities": ["adaptable", "ambicioso", "oportunista"]
+			}]
+		},
+		{
+			"name": "no-muertos",
+			"individuals": [{
+				"name": "no-muerta",
+				"gender": "f",
+				"qualities": ["resistente", "caníbal", "impía"]
+			}, {
+				"name": "no-muerto",
+				"gender": "m",
+				"qualities": ["resistente", "caníbal", "impío"]
+			}]
+		},
+		{
+			"name": "orcos",
+			"individuals": [{
+				"name": "orca",
+				"gender": "f",
+				"qualities": ["agresiva", "malévola", "fea"]
+			}, {
+				"name": "orco",
+				"gender": "m",
+				"qualities": ["agresivo", "malévolo", "feo"]
+			}]
+		},
+		{
+			"name": "ogros",
+			"individuals": [{
+				"name": "ogresa",
+				"gender": "f",
+				"qualities": ["voraz", "fuerte", "grande"]
+			}, {
+				"name": "ogro",
+				"gender": "m",
+				"qualities": ["voraz", "fuerte", "grande"]
+			}]
+		},
+		{
+			"name": "tritones",
+			"individuals": [{
+				"name": "tritona",
+				"gender": "f",
+				"qualities": ["acuática", "delicada", "reservada"]
+			}, {
+				"name": "tritón",
+				"gender": "m",
+				"qualities": ["acuático", "delicado", "reservado"]
+			}]
+		},
+		{
+			"name": "vampiros",
+			"individuals": [{
+				"name": "vampiresa",
+				"gender": "f",
+				"qualities": ["atractiva", "inmortal", "lujuriosa"]
+			}, {
+				"name": "vampiro",
+				"gender": "m",
+				"qualities": ["atractivo", "inmortal", "lujurioso"]
+			}]
+		}
+	]
+}
