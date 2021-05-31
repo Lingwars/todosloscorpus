@@ -1,0 +1,2816 @@
+[
+	{
+		"name": "Abu",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Adatara",
+		"location": "Japón",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Agua de Pau",
+		"location": "Islas Azores",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Agung",
+		"location": "Isla Bali",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Akagi",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Akan",
+		"location": "Isla Hokkaido",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Akita-Yake-Yama",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Akutan",
+		"location": "Islas Aleutianas",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Akyalarlar",
+		"location": "Turquía",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Alaid",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Alcedo",
+		"location": "Isla Isabela",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Ambang",
+		"location": "Islas Sulawesi",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Ambre-Bobaomby",
+		"location": "Madagascar",
+		"continent": "África",
+		"status": "dormido"
+	},
+	{
+		"name": "Anak-Krakatau",
+		"location": "Isla Sunda",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Ankaizina",
+		"location": "Madagascar",
+		"continent": "África",
+		"status": "dormido"
+	},
+	{
+		"name": "Ankaratra",
+		"location": "Madagascar",
+		"continent": "África",
+		"status": "dormido"
+	},
+	{
+		"name": "Antisana",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Antuco",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Aogashima",
+		"location": "Islas Izú",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Apo",
+		"location": "Isla Mindanao",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Ararat",
+		"location": "Turquía",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Arayat",
+		"location": "Isla Luzón",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Arenal",
+		"location": "Costa Rica",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Arenales",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Arjuno-Welirang",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Asama",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Askja",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Aso",
+		"location": "Isla Kyushu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Atacazo-Ninahuilca",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Atlin",
+		"location": "Canadá",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Atlitán",
+		"location": "Guatemala",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Atsonupuri",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Augustine",
+		"location": "Islas Cook",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Avachinski",
+		"location": "Kamchatka",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Awu",
+		"location": "Islas Sangihe",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Azuma",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Babuyan Claro",
+		"location": "Isla Luzón",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Bagana",
+		"location": "Isla Bougainville",
+		"continent": "Oceanía",
+		"status": "inquieto"
+	},
+	{
+		"name": "Baker",
+		"location": "Washington",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Baluran",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Banahaw",
+		"location": "Isla Luzón",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Banda Api",
+		"location": "Islas Banda",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Bandai",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Banua Wuhu",
+		"location": "Islas Sangihe",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Baransky",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Bárðarbunga",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Barú",
+		"location": "Panamá",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Batu Tara",
+		"location": "Isla Batu Tara",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Batur",
+		"location": "Isla Bali",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Bayonnaise Rocks",
+		"location": "Islas Izú",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Beerenberg",
+		"location": "Isla Jan Mayen",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Belinda",
+		"location": "Islas Sandwich del Sur",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Berutarube",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Besar",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Bezymianny",
+		"location": "Kamchatka",
+		"continent": "Asia",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Bibinoi",
+		"location": "Isla Halmahera",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Biliran",
+		"location": "Isla Biliran",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Binuluan",
+		"location": "Isla Luzón",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Bogatur Ridge",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Bogostof",
+		"location": "Islas Aleutianas",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Bolshay Udina",
+		"location": "Kamchatka",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Bratan",
+		"location": "Isla Bali",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Bromo",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Bulusan",
+		"location": "Isla Luzón",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Burney",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Cabalian",
+		"location": "Isla Leyte",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Cachimbiro",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Cagua",
+		"location": "Isla Luzón",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Calbuco",
+		"location": "Chile",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Callaqui",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Camiguin de Babuyanes",
+		"location": "Islas Babuyan",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Campi Flegrei",
+		"location": "Campania",
+		"continent": "Europa",
+		"status": "inquieto"
+	},
+	{
+		"name": "Campo de Calatrava",
+		"location": "Ciudad Real",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Canlaon",
+		"location": "Isla Negros",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Carrán-Los Venados",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Cayambe",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Cerro azul",
+		"location": "Isla Isabela",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Cerro Negro",
+		"location": "Nicaragua",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Cerro Negro de Mayasquer",
+		"location": "Colombia/Ecuador",
+		"continent": "América del Sur",
+		"status": "inquieto"
+	},
+	{
+		"name": "Chacana",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Chaitén",
+		"location": "Chile",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Changhbaishan",
+		"location": "China/Corea del Norte",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Chichinautzin",
+		"location": "México",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Chikurachiki",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Chiliques",
+		"location": "Chile/Bolivia/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Chimborazo",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Chirinkotan",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Chirip",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Chirpoi",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Chokai",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Cleveland",
+		"location": "Islas Aleutianas",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Copahue",
+		"location": "Chile",
+		"continent": "América del Sur",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Cordón del Azufre",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Cotopaxi",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Cuicocha",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Cumbal",
+		"location": "Colombia",
+		"continent": "América del Sur",
+		"status": "inquieto"
+	},
+	{
+		"name": "Darwin",
+		"location": "Isla Isabela",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Demon",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Dempo",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Descabezado Grande",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Dieng",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Dukono",
+		"location": "Isla Halmahera",
+		"continent": "Asia",
+		"status": "en erupción"
+	},
+	{
+		"name": "Ebeko",
+		"location": "Isla Paramushir",
+		"continent": "Asia",
+		"status": "en erupción"
+	},
+	{
+		"name": "Ecuador",
+		"location": "Isla Isabela",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Edziza",
+		"location": "Canadá",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Egon",
+		"location": "Isla Flores",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Egon",
+		"location": "Isla Flores",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Ekarma",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "El Hierro",
+		"location": "Isla Hierro",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Elbrús",
+		"location": "Kabardia-Balkaria",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Eldfell",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Elubobo",
+		"location": "Isla Flores",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Emi Koussi",
+		"location": "Chad",
+		"continent": "África",
+		"status": "dormido"
+	},
+	{
+		"name": "Emperator of China",
+		"location": "Mar de Bana",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Erciyes dag",
+		"location": "Turquía",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Erebus",
+		"location": "Isla de Ross",
+		"continent": "Antártida",
+		"status": "en erupción"
+	},
+	{
+		"name": "Erta Ale",
+		"location": "Depresión de Danakil",
+		"continent": "África",
+		"status": "en erupción"
+	},
+	{
+		"name": "Esjufjöll",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Etna",
+		"location": "Sicilia",
+		"continent": "Europa",
+		"status": "en erupción"
+	},
+	{
+		"name": "Europa",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Eyjafjallajökull",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Fernandina",
+		"location": "Isla Fernandina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Fort Selkirk",
+		"location": "Canadá",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Fuego",
+		"location": "Guatemala",
+		"continent": "América Central",
+		"status": "en erupción"
+	},
+	{
+		"name": "Fueguino",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Fuji-san",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Fuss Peak",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Kiaraberes-Gagak",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Galeras",
+		"location": "Colombia",
+		"continent": "América del Sur",
+		"status": "inquieto"
+	},
+	{
+		"name": "Galunggung",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Gamalama",
+		"location": "Isla Halmahera",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Gamkonora",
+		"location": "Isla Halmahera",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Gaua",
+		"location": "Vanuatu",
+		"continent": "Oceanía",
+		"status": "inquieto"
+	},
+	{
+		"name": "Gede-Pangrango",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Geureudong",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Gilbanta",
+		"location": "Islas Sonda",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Golets-Tornyi",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Golovnin",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Goriaschaia Sopka",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Grímsnes",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Grímsvötn",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "inquieto"
+	},
+	{
+		"name": "Grozny",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Guagua Pichincha",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Guallatiri",
+		"location": "Chile/Bolivia/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Guntur",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Hachijo-jima",
+		"location": "Islas Izú",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Hachimantai",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Hakkoda",
+		"location": "Japón",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Hakone",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Haku-San",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Haruna",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Hasan Dag",
+		"location": "Turquia",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Havre-Seamount",
+		"location": "Nueva Zelanda",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Healy",
+		"location": "Nueva Zelanda",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Heard",
+		"location": "Oceáno Índico",
+		"continent": "Oceanía",
+		"status": "inquieto"
+	},
+	{
+		"name": "Heart Peaks",
+		"location": "Canadá",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Heimaey",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Hekla",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Hibok-Hibok",
+		"location": "Isla Camiguin",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Hijiori",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Hiuchi",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Hofsjökull",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Hoodoo",
+		"location": "Canadá",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Hualalai",
+		"location": "Hawai",
+		"continent": "Oceanía",
+		"status": "inquieto"
+	},
+	{
+		"name": "Huaynaputina",
+		"location": "Perú",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Hudson",
+		"location": "Chile",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Huequi",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Hulubelu",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Ibu",
+		"location": "Isla Halmahera",
+		"continent": "Asia",
+		"status": "en erupción"
+	},
+	{
+		"name": "Ijen",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Iliboleng",
+		"location": "Islas Sonda",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Iliniza",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Imbabura",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Inielika",
+		"location": "Isla Flores",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Inierie",
+		"location": "Isla Flores",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Iraya",
+		"location": "Isla Batán",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Irazú",
+		"location": "Costa Rica",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Iriga",
+		"location": "Isla Luzón",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Irruputuncu",
+		"location": "Chile/Bolivia/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Isarog",
+		"location": "Isla Luzón",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Isla Barren",
+		"location": "Oceáno Índico",
+		"continent": "Asia",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Isla Bouvet",
+		"location": "Atlántico Sur",
+		"continent": "Antártida",
+		"status": "dormido"
+	},
+	{
+		"name": "Isla de Mayotte",
+		"location": "Oceáno Índico",
+		"continent": "África",
+		"status": "inquieto"
+	},
+	{
+		"name": "Isluga",
+		"location": "Chile/Bolivia/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Ivao",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Iwaki",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Iwate",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Iwo-jima",
+		"location": "Isla Hokkaido",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Iya",
+		"location": "Isla Flores",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Iyiang-Argapura",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Izalco",
+		"location": "El Salvador",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Iztaccíhuati",
+		"location": "México",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Izú Oshima",
+		"location": "Islas Izú",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Izu-Tobu",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Jailolo",
+		"location": "Isla Halmahera",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Jolo",
+		"location": "Isla Sulu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Kaba",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Kadovar",
+		"location": "Papúa Nueva Guinea",
+		"continent": "Oceanía",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Kalatungan",
+		"location": "Isla Mindanao",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Karangetang",
+		"location": "Islas Siau",
+		"continent": "Asia",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Karisimbi",
+		"location": "Ruanda/Congo",
+		"continent": "África",
+		"status": "dormido"
+	},
+	{
+		"name": "Karkar",
+		"location": "Papúa Nueva Guinea",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Karpinski",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Karymsky",
+		"location": "Kamchatka",
+		"continent": "Asia",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Katla",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Katmai",
+		"location": "Alaska",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Kavachi",
+		"location": "Islas Salomón",
+		"continent": "Oceanía",
+		"status": "inquieto"
+	},
+	{
+		"name": "kawah ijen",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Kelimutu",
+		"location": "Isla Flores",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Kelut o Kelud",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Kerinci",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Ketoi",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Kharimkotan",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Kick'Eem Jenny",
+		"location": "Isla de Granada",
+		"continent": "América Central",
+		"status": "inquieto"
+	},
+	{
+		"name": "Kikai",
+		"location": "Islas Ryukyu",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Kilauea",
+		"location": "Hawai",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Kilimanjaro",
+		"location": "Tanzania",
+		"continent": "África",
+		"status": "dormido"
+	},
+	{
+		"name": "Kirishima",
+		"location": "Isla Kyushu",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Kita-Yatsuga-take",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Klyuchevskoy",
+		"location": "Kamchatka",
+		"continent": "Asia",
+		"status": "en erupción"
+	},
+	{
+		"name": "Kolokol",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Kolumbo",
+		"location": "Isla Santorini",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Komaga-Take",
+		"location": "Isla Hokkaido",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Korovin",
+		"location": "Islas Andreanof",
+		"continent": "América del Norte",
+		"status": "inquieto"
+	},
+	{
+		"name": "Koryaksky",
+		"location": "Kamchatka",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Krafla",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Kuchinoerabu-jima",
+		"location": "Islas Ryukyu",
+		"continent": "Asia",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Kurikoma",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Kusatsu-Shirane",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Kverkfjöll",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "La Cumbre",
+		"location": "Isla Fernandina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Laguna de Maule",
+		"location": "Chile",
+		"continent": "América del Sur",
+		"status": "inquieto"
+	},
+	{
+		"name": "Lamongan",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Langila",
+		"location": "Nueva Bretaña",
+		"continent": "Oceanía",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Láscar",
+		"location": "Chile",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Latukan",
+		"location": "Isla Mindanao",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Lautaro",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Lawu",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Lemonosov",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Leroboleng",
+		"location": "Isla Flores",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Leskov",
+		"location": "Islas Sandwich del sur",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Lewotobi",
+		"location": "Isla Flores",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Lewotolo",
+		"location": "Isla Lembata",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Licto",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Litle Sitkin",
+		"location": "Islas Aleutianas",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Ljósufjöll",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Llaima",
+		"location": "Chile",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Llullaillaco",
+		"location": "Chile/Bolivia/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Loihi",
+		"location": "Hawai",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Loki-Fögrufjöll",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Lokon-Empung",
+		"location": "Islas Sulawesi",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Loloru",
+		"location": "Papúa Nueva Guinea",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Lonquimay",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Lopevi",
+		"location": "Vanuatu",
+		"continent": "Oceanía",
+		"status": "inquieto"
+	},
+	{
+		"name": "Lvinaya-Past",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Machin",
+		"location": "Colombia",
+		"continent": "América del Sur",
+		"status": "inquieto"
+	},
+	{
+		"name": "Maderas",
+		"location": "Nicaragua",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Magaso",
+		"location": "Isla Negros",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Mahagnao",
+		"location": "Isla Leyte",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Makaturing",
+		"location": "Isla Mindanao",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Makian",
+		"location": "Isla Halmahera",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Makushin",
+		"location": "Islas Aleutianas",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Malindang",
+		"location": "Isla Mindanao",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Manam",
+		"location": "Papúa Nueva Guinea",
+		"continent": "Oceanía",
+		"status": "inquieto"
+	},
+	{
+		"name": "Mandalagan",
+		"location": "Isla Negros",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Manlayao o Paco",
+		"location": "Isla Mindanao",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Mare",
+		"location": "Isla Halmahera",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Mariveles",
+		"location": "Isla Luzón",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Masaya",
+		"location": "Nicaragua",
+		"continent": "América Central",
+		"status": "en erupción"
+	},
+	{
+		"name": "Matutum",
+		"location": "Isla Mindanao",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Mauna Kea ",
+		"location": "Hawai",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Mauna Loa",
+		"location": "Isla Grande",
+		"continent": "Oceanía",
+		"status": "inquieto"
+	},
+	{
+		"name": "Mayon",
+		"location": "Isla Luzón",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Medvezhia",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Megata",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Mendeleev",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Merapi",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Merbabu",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Michael",
+		"location": "Islas Sandwich del sur",
+		"continent": "América del Sur",
+		"status": "inquieto"
+	},
+	{
+		"name": "Midagahara",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Milna",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Misti",
+		"location": "Perú",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Miyake-jima",
+		"location": "Islas Izú",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Mocho-Choshuenco",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Mojanda",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Mombacho",
+		"location": "Nicaragua",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Momotombo",
+		"location": "Nicaragua",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Monowai",
+		"location": "Islas Kermandec",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Muria",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Musuan",
+		"location": "Isla Mindanao",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Myoko",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Nantai",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Narugo",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Nasu",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Nazko",
+		"location": "Canadá",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Nemo Peak",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Nevado Chachani",
+		"location": "Perú",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Nevado de Colima",
+		"location": "México",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Nevado de Incahuasi",
+		"location": "Chile/Bolivia/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Xinantécati",
+		"location": "México",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Nevado del Huila",
+		"location": "Colombia",
+		"continent": "América del Sur",
+		"status": "inquieto"
+	},
+	{
+		"name": "Nevado del Ruiz",
+		"location": "Colombia",
+		"continent": "América del Sur",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Nevado Ojos del Salado",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Nevados de Chillán",
+		"location": "Chile",
+		"continent": "América del Sur",
+		"status": "en erupción"
+	},
+	{
+		"name": "Ngauruhoe",
+		"location": "Nueva Zelanda",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Niigata-yake-yama",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Nikkoshirane",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Nipesotsu-Maruyama",
+		"location": "Isla Hokkaido",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Nishino-shima",
+		"location": "Islas Volcán",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Norikura",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Nosy Be",
+		"location": "Madagascar",
+		"continent": "África",
+		"status": "dormido"
+	},
+	{
+		"name": "Novarupta",
+		"location": "Alaska",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Numazawa",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Nyamuragira",
+		"location": "República Democrática del Congo",
+		"continent": "África",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Nyiragongo",
+		"location": "República Democrática del Congo",
+		"continent": "África",
+		"status": "en erupción"
+	},
+	{
+		"name": "Tarawera",
+		"location": "Nueva Zelanda",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Oki-Dogo",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Ol Doinyo Lengai",
+		"location": "Tanzania",
+		"continent": "África",
+		"status": "inquieto"
+	},
+	{
+		"name": "Olca-Paruma",
+		"location": "Chile/Bolivia/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Ollagüe",
+		"location": "Entre Bolivia",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Garrotxa",
+		"location": "Barcelona",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Omanago",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Ontake-san",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Öraefajökull",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Osore-Yama",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Osorno",
+		"location": "Chile",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Pacaya",
+		"location": "Guatemala",
+		"continent": "América Central",
+		"status": "en erupción"
+	},
+	{
+		"name": "Paluweh",
+		"location": "Isla Flores",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Papandayan",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Paricutín",
+		"location": "México",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Pavlof",
+		"location": "Alaska",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Penanggungan",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Perbakti",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Peuët Sagoë",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Pico de Orizaba",
+		"location": "México",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Pinatubo",
+		"location": "Isla Luzón",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Piton de la Fournaise",
+		"location": "Isla Réunion",
+		"continent": "África",
+		"status": "inquieto"
+	},
+	{
+		"name": "Planchón-Peteroa",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Poas",
+		"location": "Costa Rica",
+		"continent": "América Central",
+		"status": "inquieto"
+	},
+	{
+		"name": "Popocatépetl",
+		"location": "México",
+		"continent": "América Central",
+		"status": "en erupción"
+	},
+	{
+		"name": "Prevo Peak",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Puhahonu",
+		"location": "Hawai",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Pular",
+		"location": "Chile/Bolivia/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Pululahua",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Puntiagudo-Cordón Cenizas",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Putana",
+		"location": "Chile/Bolivia/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Puyehue-Cordón Caulle",
+		"location": "Chile",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Quilotoa",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Quizapú",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Ragang",
+		"location": "Isla Mindanao",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Raikoke",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Rainier",
+		"location": "Estado de Washinton",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Rajabasa",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Ranakah",
+		"location": "Isla Flores",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Raoul",
+		"location": "Isla Raoul",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Rasshua",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Raung",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Rausu",
+		"location": "Isla Hokkaido",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Reclus",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Redoubt",
+		"location": "Alaska",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Reventador",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "en erupción"
+	},
+	{
+		"name": "Reykjanes",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Rincón de la Vieja",
+		"location": "Costa Rica",
+		"continent": "América Central",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Rinjani",
+		"location": "Isla Lombok",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Ruapehu",
+		"location": "Nueva Zelanda",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Rumble III",
+		"location": "Nueva Zelanda",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Sabancaya",
+		"location": "Perú",
+		"continent": "América del Sur",
+		"status": "en erupción"
+	},
+	{
+		"name": "Sacabaya",
+		"location": "Bolivia/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Sakurajima",
+		"location": "Isla Kyushu",
+		"continent": "Asia",
+		"status": "en erupción"
+	},
+	{
+		"name": "Salak",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "San José",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "San Miguel",
+		"location": "El Salvador",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Sanbe",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Sangay",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "en erupción"
+	},
+	{
+		"name": "Sangeang Api",
+		"location": "Isla Sangeang",
+		"continent": "Asia",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Santa Helena",
+		"location": "Estado de Washinton",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Santiaguito",
+		"location": "Guatemala",
+		"continent": "América Central",
+		"status": "en erupción"
+	},
+	{
+		"name": "Santorini",
+		"location": "Islas Cícladas",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Sarychev Peak",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Semeru",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "en erupción"
+	},
+	{
+		"name": "Semisopochnoi",
+		"location": "Islas Aleutianas",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Seulawah Agam",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Shikotsu",
+		"location": "Isla Hokkaido",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Shirinki",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Shishaldin",
+		"location": "Isla Unimak",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Shiveluch",
+		"location": "Kamchatka",
+		"continent": "Asia",
+		"status": "en erupción"
+	},
+	{
+		"name": "Showa-Shinzan",
+		"location": "Isla Hokkaido",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Sibayak",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Sierra Negra",
+		"location": "Isla Isabela",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Silay",
+		"location": "Isla Negros",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Sinabung",
+		"location": "Isla Sumatra ",
+		"continent": "Asia",
+		"status": "en erupción"
+	},
+	{
+		"name": "Sinarca",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Sinarka",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Sirung",
+		"location": "Isla Pantar",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Slamet",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Slamet",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Smirnov",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Soche",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Sollipulli",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Soputan",
+		"location": "Isla Célebes",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Sorikmarapi",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Sotará",
+		"location": "Colombia",
+		"continent": "América del Sur",
+		"status": "inquieto"
+	},
+	{
+		"name": "Soufrière de Guadalupe",
+		"location": "Antillas francesas",
+		"continent": "América Central",
+		"status": "inquieto"
+	},
+	{
+		"name": "Spurr",
+		"location": "Islas Aleutianas",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Srednii",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Stromboli",
+		"location": "Islas Eolias",
+		"continent": "Europa",
+		"status": "en erupción"
+	},
+	{
+		"name": "Sumaco",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Sumbing",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Sundoro",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Suoh",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Surtsey",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Suwanose-jima",
+		"location": "Islas Ryukyu",
+		"continent": "Asia",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Taal",
+		"location": "Isla Luzón",
+		"continent": "Asia",
+		"status": "inquieto"
+	},
+	{
+		"name": "Tacaná",
+		"location": "Entre Guatemala y México",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Takahara",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Talang",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tambora",
+		"location": "Isla Sumbawa",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tandikat",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tangkuban Perahu",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tao-Rusyr",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tarakan",
+		"location": "Isla Halmahera",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Teide",
+		"location": "Tenerife",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Telemoyo",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Telica",
+		"location": "Nicaragua",
+		"continent": "América Central",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Teneguía",
+		"location": "Isla La Palma",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Thordarhyrna",
+		"location": "Islandia",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Tiatia",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Ticsani",
+		"location": "Perú",
+		"continent": "América del Sur",
+		"status": "inquieto"
+	},
+	{
+		"name": "Tidore",
+		"location": "Isla Halmahera",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tigalalu",
+		"location": "Isla Halmahera",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tinakula",
+		"location": "Islas Santa Cruz",
+		"continent": "Oceanía",
+		"status": "inquieto"
+	},
+	{
+		"name": "Tinguiririca",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Toba",
+		"location": "Isla Sumatra",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tobaru",
+		"location": "Isla Halmahera",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tokachi",
+		"location": "Isla Hokkaido",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tondano",
+		"location": "Islas Sulawesi",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tongarino",
+		"location": "Nueva Zelanda",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Tongkoko",
+		"location": "Islas Sulawesi",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tori-shima",
+		"location": "Islas Izú",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "To-shima",
+		"location": "Islas Izú",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Towada",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Tungurahua",
+		"location": "Ecuador",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Turrialba",
+		"location": "Costa Rica",
+		"continent": "América Central",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Tutupaca",
+		"location": "Perú",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Tuya",
+		"location": "Canadá",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Ubinas",
+		"location": "Perú",
+		"continent": "América del Sur",
+		"status": "inquieto"
+	},
+	{
+		"name": "Ulawun",
+		"location": "Nueva Bretaña",
+		"continent": "Oceanía",
+		"status": "dormido"
+	},
+	{
+		"name": "Unnamed",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Unzen",
+		"location": "Isla Kyushu",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Urataman",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Ushisur",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Usu",
+		"location": "Isla Hokkaido",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Vernadskii",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Vesubio",
+		"location": "Nápoles",
+		"continent": "Europa",
+		"status": "dormido"
+	},
+	{
+		"name": "Viedma",
+		"location": "Chile/Argentina",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Villarrica",
+		"location": "Chile",
+		"continent": "América del Sur",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Volcán de Fuego de Colima",
+		"location": "México",
+		"continent": "América Central",
+		"status": "dormido"
+	},
+	{
+		"name": "Washiba-Kumonotaira",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Whakaari",
+		"location": "Nueva Zelanda",
+		"continent": "Oceanía",
+		"status": "advertencia de erupción"
+	},
+	{
+		"name": "Wilis",
+		"location": "Isla Java",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Wolf",
+		"location": "Isla Isabela",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Wurlali",
+		"location": "Isla Damar",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Yake-Dake",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Yasur",
+		"location": "Isla Tanna",
+		"continent": "Oceanía",
+		"status": "en erupción"
+	},
+	{
+		"name": "Yellowstone",
+		"location": "Wyoming/Montana/Idaho",
+		"continent": "América del Norte",
+		"status": "dormido"
+	},
+	{
+		"name": "Yucamane",
+		"location": "Perú",
+		"continent": "América del Sur",
+		"status": "dormido"
+	},
+	{
+		"name": "Zao",
+		"location": "Isla Honshu",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Zavaritzki",
+		"location": "Islas Kuriles",
+		"continent": "Asia",
+		"status": "dormido"
+	},
+	{
+		"name": "Zavodovski o Mt. Curry",
+		"location": "Islas Sandwich del sur",
+		"continent": "América del Sur",
+		"status": "dormido"
+	}
+]
