@@ -1,0 +1,602 @@
+[
+	{
+		"name": "Angervadil",
+		"weapon": "espada",
+		"owner": "Frithiof",
+		"source": "legendaria"
+	},
+	{
+		"name": "Aeglos",
+		"weapon": "lanza",
+		"owner": " Gil-Galad",
+		"source": "ficticia"
+	},
+	{
+		"name": "Agneyastra",
+		"weapon": "lanzallamas",
+		"owner": "Sagara",
+		"source": "legendaria"
+	},
+	{
+		"name": "Alastor",
+		"weapon": "espada",
+		"owner": "Dante",
+		"source": "ficticia"
+	},
+	{
+		"name": "Ame-no-nuboko",
+		"weapon": "lanza",
+		"owner": "Izanagi e Izanami",
+		"source": "mitológica"
+	},
+	{
+		"name": "Andúril",
+		"weapon": "espada",
+		"owner": "Aragorn",
+		"source": "ficticia"
+	},
+	{
+		"name": "Angrist",
+		"weapon": "cuchillo",
+		"owner": " Beren",
+		"source": "ficticia"
+	},
+	{
+		"name": "Anguirel",
+		"weapon": "espada",
+		"owner": "Eöl",
+		"source": "ficticia"
+	},
+	{
+		"name": "Aranrúth",
+		"weapon": "espada",
+		"owner": "Tingol",
+		"source": "ficticia"
+	},
+	{
+		"name": "Arondight",
+		"weapon": "espada",
+		"owner": "Lanzarote del Lago",
+		"source": "legendaria"
+	},
+	{
+		"name": "Ascalon",
+		"weapon": "espada",
+		"owner": "San Jorge",
+		"source": "legendaria"
+	},
+	{
+		"name": "Bâna",
+		"weapon": "flecha",
+		"owner": "Vishnu",
+		"source": "mitológica"
+	},
+	{
+		"name": "Belthronding",
+		"weapon": "arco",
+		"owner": "Beleg",
+		"source": "ficticia"
+	},
+	{
+		"name": "Bhavani Talwar",
+		"weapon": "espada",
+		"owner": "Shivaji Maharaj",
+		"source": "real"
+	},
+	{
+		"name": "Brahmadanda",
+		"weapon": "vara",
+		"owner": "Brahma",
+		"source": "mitológica"
+	},
+	{
+		"name": "Caladbolg",
+		"weapon": "espada",
+		"owner": "Fergus mac Róich",
+		"source": "mitológica"
+	},
+	{
+		"name": "Centella ",
+		"weapon": "espada",
+		"owner": "Drizzt Do´Urden",
+		"source": "ficticia"
+	},
+	{
+		"name": "Chandrahas",
+		"weapon": "espada",
+		"owner": "Ravana",
+		"source": "mitológica"
+	},
+	{
+		"name": "Claíomh Solais",
+		"weapon": "espada",
+		"owner": "Nuada Airgeadlámh",
+		"source": "mitológica"
+	},
+	{
+		"name": "Colada",
+		"weapon": "espada",
+		"owner": "El Cid Campeador",
+		"source": "real"
+	},
+	{
+		"name": "Cortana",
+		"weapon": "espada",
+		"owner": "Holger Danske",
+		"source": "legendaria"
+	},
+	{
+		"name": "Crissaegrim",
+		"weapon": "espada",
+		"owner": "Alucard",
+		"source": "ficticia"
+	},
+	{
+		"name": "Crocea Mors",
+		"weapon": "espada",
+		"owner": "Julio César",
+		"source": "real"
+	},
+	{
+		"name": "Curtana",
+		"weapon": "espada",
+		"owner": "Eduardo el Confesor",
+		"source": "real"
+	},
+	{
+		"name": "Dailir",
+		"weapon": "flecha",
+		"owner": "Beleg",
+		"source": "ficticia"
+	},
+	{
+		"name": "Dáinsleif",
+		"weapon": "espada",
+		"owner": "Högni",
+		"source": "legendaria"
+	},
+	{
+		"name": "Dambholi",
+		"weapon": "rayo",
+		"owner": "Indra",
+		"source": "mitológica"
+	},
+	{
+		"name": "Dawn",
+		"weapon": "espada",
+		"owner": "Ser Arthur Dayne",
+		"source": "ficticia"
+	},
+	{
+		"name": "Dramborleg",
+		"weapon": "hacha",
+		"owner": " Tuor",
+		"source": "ficticia"
+	},
+	{
+		"name": "Durandarte",
+		"weapon": "espada",
+		"owner": "Roldán",
+		"source": "legendaria"
+	},
+	{
+		"name": "Espada Maestra",
+		"weapon": "espada",
+		"owner": "Link",
+		"source": "ficticia"
+	},
+	{
+		"name": "Excalibur",
+		"weapon": "espada",
+		"owner": "Rey Arturo",
+		"source": "legendaria"
+	},
+	{
+		"name": "Fierebrace",
+		"weapon": "espada",
+		"owner": "Guillermo IV, rey de Gran Bretaña e Irlanda",
+		"source": "real"
+	},
+	{
+		"name": "Flecha Negra",
+		"weapon": "dardo",
+		"owner": "Bardo",
+		"source": "ficticia"
+	},
+	{
+		"name": "Force Edge",
+		"weapon": "espada",
+		"owner": "Sparda",
+		"source": "ficticia"
+	},
+	{
+		"name": "Fragarach",
+		"weapon": "espada",
+		"owner": "Manannan mac Lir",
+		"source": "mitológica"
+	},
+	{
+		"name": "Gae Bolg",
+		"weapon": "lanza",
+		"owner": "Cú Chulainn",
+		"source": "mitológica"
+	},
+	{
+		"name": "Galatine",
+		"weapon": "espada",
+		"owner": "Sir Gawain,",
+		"source": "legendaria"
+	},
+	{
+		"name": "Gândiva",
+		"weapon": "arco",
+		"owner": "Arjuna",
+		"source": "mitológica"
+	},
+	{
+		"name": "Glamdring",
+		"weapon": "espada",
+		"owner": " Gandalf",
+		"source": "ficticia"
+	},
+	{
+		"name": "Espada Biggoron",
+		"weapon": "espada",
+		"owner": "Biggoron",
+		"source": "ficticia"
+	},
+	{
+		"name": "Gram",
+		"weapon": "espada",
+		"owner": "Sigurd",
+		"source": "legendaria"
+	},
+	{
+		"name": "Grond",
+		"weapon": "maza",
+		"owner": " Morgoth",
+		"source": "ficticia"
+	},
+	{
+		"name": "Szczerbiec",
+		"weapon": "espada",
+		"owner": "Bolesław I",
+		"source": "real"
+	},
+	{
+		"name": "Gungnir",
+		"weapon": "lanza",
+		"owner": "Odín",
+		"source": "mitológica"
+	},
+	{
+		"name": "Gurthang",
+		"weapon": "espada",
+		"owner": "Túrin",
+		"source": "ficticia"
+	},
+	{
+		"name": "Gúthwine",
+		"weapon": "rspada",
+		"owner": "Éomer",
+		"source": "ficticia"
+	},
+	{
+		"name": "Hauteclere",
+		"weapon": "espada",
+		"owner": "Olivier",
+		"source": "legendaria"
+	},
+	{
+		"name": "Herugrin",
+		"weapon": "espada",
+		"owner": "Théoden",
+		"source": "ficticia"
+	},
+	{
+		"name": "Honjo Masamune",
+		"weapon": "espada",
+		"owner": "Masamune",
+		"source": "real"
+	},
+	{
+		"name": "Hrunting",
+		"weapon": "espada",
+		"owner": "Beowulf",
+		"source": "legendaria"
+	},
+	{
+		"name": "Ifrit",
+		"weapon": "espada",
+		"owner": "Dante",
+		"source": "ficticia"
+	},
+	{
+		"name": "Járugreipr",
+		"weapon": "guantes de hierro",
+		"owner": "Thor",
+		"source": "mitológica"
+	},
+	{
+		"name": "Joyosa",
+		"weapon": "espada",
+		"owner": "Carlomagno",
+		"source": "real"
+	},
+	{
+		"name": "Kâlachakra",
+		"weapon": "disco",
+		"owner": "Yama",
+		"source": "mitológica"
+	},
+	{
+		"name": "Kâlapâsha",
+		"weapon": "soga",
+		"owner": "Yama, dios hindú",
+		"source": "mitológica"
+	},
+	{
+		"name": "Kaumodaki",
+		"weapon": "maza",
+		"owner": "Vishnu",
+		"source": "mitológica"
+	},
+	{
+		"name": "Keris Taming Sari",
+		"weapon": "espada",
+		"owner": "Tuah",
+		"source": "legendaria"
+	},
+	{
+		"name": "Khatvânga",
+		"weapon": "maza",
+		"owner": "Shiva",
+		"source": "mitológica"
+	},
+	{
+		"name": "Kusanagi",
+		"weapon": "espada",
+		"owner": "Susano",
+		"source": "mitológica"
+	},
+	{
+		"name": "La Lanza Sagrada",
+		"weapon": "lanza",
+		"owner": "Longino de Cesárea",
+		"source": "legendaria"
+	},
+	{
+		"name": "Laevateim",
+		"weapon": "espada",
+		"owner": "Odín",
+		"source": "mitológica"
+	},
+	{
+		"name": "Legbiter",
+		"weapon": "espada",
+		"owner": "Magnus Barelegs",
+		"source": "real"
+	},
+	{
+		"name": "Dueña de Luz",
+		"weapon": "espada",
+		"owner": "Azor Ahai",
+		"source": "ficticia"
+	},
+	{
+		"name": "Lobera",
+		"weapon": "espada",
+		"owner": "Fernando III el Santo",
+		"source": "real"
+	},
+	{
+		"name": "Garra",
+		"weapon": "espada",
+		"owner": "Jon Snow",
+		"source": "ficticia"
+	},
+	{
+		"name": "Madanâyudha",
+		"weapon": "arco ( de caña de azúcar)",
+		"owner": "Kâmadeva, dios hindú ",
+		"source": "mitológica"
+	},
+	{
+		"name": "Marte",
+		"weapon": "espada",
+		"owner": "Atila",
+		"source": "real"
+	},
+	{
+		"name": "Megingjoro",
+		"weapon": "cinturón de fuerza",
+		"owner": "Thor",
+		"source": "mitológica"
+	},
+	{
+		"name": "Mjölnir",
+		"weapon": "martillo",
+		"owner": "Thor",
+		"source": "mitológica"
+	},
+	{
+		"name": "Morgelai",
+		"weapon": "espada",
+		"owner": "Bevis de Hampton",
+		"source": "legendaria"
+	},
+	{
+		"name": "Muerte Helada",
+		"weapon": "espada",
+		"owner": "Drizzt Do'Urden",
+		"source": "ficticia"
+	},
+	{
+		"name": "Naeling.",
+		"weapon": "espada",
+		"owner": "Beowulf",
+		"source": "legendaria"
+	},
+	{
+		"name": "Nâgapâsha",
+		"weapon": "soga",
+		"owner": "Varuna",
+		"source": "mitológica"
+	},
+	{
+		"name": "Aguja",
+		"weapon": "espada",
+		"owner": "Arya",
+		"source": "ficticia"
+	},
+	{
+		"name": "Guardajuramentos",
+		"weapon": "espada",
+		"owner": "Brienne de Tarth",
+		"source": "ficticia"
+	},
+	{
+		"name": "Orcrist",
+		"weapon": "espada",
+		"owner": "Thorin",
+		"source": "ficticia"
+	},
+	{
+		"name": "Pashupatastra",
+		"weapon": "tridente",
+		"owner": "Pashipati Shiva",
+		"source": "mitológica"
+	},
+	{
+		"name": "Pinâka",
+		"weapon": "arco",
+		"owner": "Shiva",
+		"source": "mitológica"
+	},
+	{
+		"name": "Rebellion",
+		"weapon": "espada",
+		"owner": "Dante",
+		"source": "ficticia"
+	},
+	{
+		"name": "Ringil",
+		"weapon": "espada",
+		"owner": "Fingolfin",
+		"source": "ficticia"
+	},
+	{
+		"name": "Ruji Jingu Bang",
+		"weapon": "bastón de hierro",
+		"owner": "Sun Wukong",
+		"source": "legendaria"
+	},
+	{
+		"name": "Sâranga",
+		"weapon": "arco",
+		"owner": "Vishnu",
+		"source": "mitológica"
+	},
+	{
+		"name": "Shamshir-e Zomorrodnegār",
+		"weapon": "espada",
+		"owner": "Milad",
+		"source": "legendaria"
+	},
+	{
+		"name": "Sharur",
+		"weapon": "espada",
+		"owner": "Ninurta",
+		"source": "mitológica"
+	},
+	{
+		"name": "Soul Edge",
+		"weapon": "espada",
+		"owner": "Cervantes de León",
+		"source": "ficticia"
+	},
+	{
+		"name": "Dardo",
+		"weapon": "espada",
+		"owner": "Bilbo Bolsón",
+		"source": "ficticia"
+	},
+	{
+		"name": "Tormentosa",
+		"weapon": "espada",
+		"owner": "Elric de Melniboné",
+		"source": "ficticia"
+	},
+	{
+		"name": "Súdarshan Chakra",
+		"weapon": "disco",
+		"owner": "Vishnu",
+		"source": "mitológica"
+	},
+	{
+		"name": "Tanka",
+		"weapon": "hacha",
+		"owner": "Indra",
+		"source": "mitológica"
+	},
+	{
+		"name": "Teen Baan Dhaari",
+		"weapon": "arco",
+		"owner": "Barnarik",
+		"source": "mitológica"
+	},
+	{
+		"name": "Tentetsutou",
+		"weapon": "katana",
+		"owner": "Yoshindo Yoshiwara)",
+		"source": "real"
+	},
+	{
+		"name": "Thuận Thiên",
+		"weapon": "espada",
+		"owner": "Lê Lòi",
+		"source": "real"
+	},
+	{
+		"name": "Tizona",
+		"weapon": "espada",
+		"owner": "El Cid Campeador",
+		"source": "real"
+	},
+	{
+		"name": "Tridente de Neptuno",
+		"weapon": "tridente",
+		"owner": "Aquaman",
+		"source": "ficticia"
+	},
+	{
+		"name": "Tyrfing",
+		"weapon": "espada",
+		"owner": "Odín",
+		"source": "mitológica"
+	},
+	{
+		"name": "Espasa de Vilardell",
+		"weapon": "espada",
+		"owner": "Solar de Vilardell",
+		"source": "legendaria"
+	},
+	{
+		"name": "Lamento de Viudas",
+		"weapon": "espada",
+		"owner": "Joffrey",
+		"source": "ficticia"
+	},
+	{
+		"name": "Yamato",
+		"weapon": "espada",
+		"owner": "Vergil",
+		"source": "ficticia"
+	},
+	{
+		"name": "Zulfiqar",
+		"weapon": "espada",
+		"owner": "Mahoma",
+		"source": "mitológica"
+	}
+]
